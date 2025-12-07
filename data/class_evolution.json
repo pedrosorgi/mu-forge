@@ -1,0 +1,36 @@
+{
+    "DarkWizard": {
+        "evo_2": "Soul Master",
+        "evo_3": "Grand Master",
+        "evo_4": "Soul Wizard",
+        "evo_5": "Darkness Wizard"
+    },
+
+    "DarkKnight": {
+        "evo_2": "Blade Knight",
+        "evo_3": "Blade Master",
+        "evo_4": "Dragon Knight",
+        "evo_5": "Ignition Knight"
+    },
+       
+    "FairyElf": {
+        "evo_2": "Muse Elf",
+        "evo_3": "High Elf",
+        "evo_4": "Noble Elf",
+        "evo_5": "Royal Elf"
+    },
+
+    "MagicGladiator": {
+        "evo_2": "Magic Gladiator",
+        "evo_3": "Duel Master",
+        "evo_4": "Magic Knight",
+        "evo_5": "Duple Knight"
+    },
+    
+    "DarkLord": {
+        "evo_3": "Lord Emperor",
+        "evo_4": "Empire Lord",
+        "evo_5": "Force Empire"
+    }
+
+}

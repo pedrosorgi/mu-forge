@@ -1,0 +1,39 @@
+{
+  "excellent_options": {
+    "weapons": [
+      "Increase Excellent Damage Chance by 10%",
+      "ATK DMG increases by 1 every 20Lv",
+      "ATK DMG increases by 2%",
+      "Increase 7 Attack (Wizardry) speed",
+      "Obtains (Life/8) when monster is killed",
+      "Obtains (Mana/8) when monster is killed"
+    ],
+
+    "wizard_weapons": [
+      "Increase Excellent Damage Chance by 10%",
+      "WIZ DMG increases by 1 every 20Lv",
+      "WIZ DMG increases by 2%",
+      "Increase 7 Attack (Wizardry) speed",
+      "Obtains (Life/8) when monster is killed",
+      "Obtains (Mana/8) when monster is killed"
+    ],
+
+    "shields": [
+      "Increase Maximum Life by 4%",
+      "Increase Maximum Mana by 4%",
+      "Decreases Damage by 4%",
+      "Reflect Damage by 5%",
+      "Increases Defense Success Rate by 10%",
+      "Increases the amount of Zen acquired for hunting monsters by 30%"
+    ],
+
+    "summoner_books": [
+      "Increase Excellent Damage Chance by 10%",
+      "Curse increases by %d every 20Lv",
+      "Curse increases by 2%",
+      "Increase 7 Attack (Wizardry) speed",
+      "Obtains (Life/8) when monster is killed",
+      "Obtains (Mana/8) when monster is killed"
+    ]
+  }
+}

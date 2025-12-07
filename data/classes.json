@@ -1,0 +1,329 @@
+{
+  "DarkKnight": {
+    "base_hp": 110,
+    "base_str": 28,
+    "base_agi": 20,
+    "base_sta": 25,
+    "base_ene": 10,
+    "base_command": 0,
+
+    "growth": {
+      "strength": {
+        "max_atk_power": 0.25,
+        "min_atk_power": 0.16,
+        "atk_succ_rate": 0.25,
+        "max_ele_atk_power": 0.25,
+        "min_ele_atk_power": 0.16,
+        "ele_atk_rate": 0.25,
+        "pvp_ele_atk_rate": 0.25,
+        "ag": 0.1
+      },
+
+      "agility": {
+        "atk_speed": 0.067,
+        "atk_succ_rate": 1.5,
+        "pvp_atk_rate": 4.5,
+        "ele_atk_rate": 1.5,
+        "pvp_ele_atk_rate": 1.5,
+        "def": 0.33,
+        "def_rate": 0.33,
+        "pvp_def_rate": 0.5,
+        "ele_def": 0.33,
+        "ele_def_rate": 0.33,
+        "pvp_ele_def_rate": 0.33,
+        "ag": 0.2
+      },
+
+      "stamina": {
+        "hp": 3,
+        "ag": 0.33
+      },
+
+      "energy": {
+        "skill_atk_power_percent": 0.01,
+        "mana": 0.1,
+        "ag": 1.0
+      },
+
+      "command": {
+        "atk_succ_rate": 0,
+        "def_rate": 0,
+        "pet_dmg": 0
+      },
+
+      "level": {
+        "hp": 2,
+        "mana": 0.5,
+        "atk_rate": 5.0,
+        "pvp_atk_rate": 3,
+        "pvp_def_rate": 2,
+        "ele_atk_rate": 5,
+        "pvp_ele_atk_rate": 5
+      }
+    }
+  },
+
+  "DarkWizard": {
+    "base_hp": 60,
+    "base_str": 18,
+    "base_agi": 18,
+    "base_sta": 15,
+    "base_ene": 30,
+    "base_command": 0,
+
+    "growth": {
+      "strength": {
+        "max_atk_power": 0.25,
+        "min_atk_power": 0.12,
+        "atk_rate": 0.25,
+        "pvp_atk_rate": 0.25,
+        "ele_atk_rate": 0.25,
+        "pvp_ele_atk_rate": 0.25,
+        "ag": 0.2
+      },
+
+      "agility": {
+        "atk_rate": 1.5,
+        "pvp_atk_rate": 4,
+        "atk_speed": 0.1,
+        "ele_atk_rate": 1.5,
+        "pvp_ele_atk_rate": 1.5,
+        "def": 0.25,
+        "def_rate": 0.33,
+        "pvp_def_rate": 0.25,
+        "ele_def": 0.25,
+        "ele_def_rate": 0.33,
+        "pvp_ele_def_rate": 0.33,
+        "ag": 0.4
+      },
+
+      "stamina": {
+        "hp": 1,
+        "ag": 0.33
+      },
+
+      "energy": {
+        "max_wiz_power": 0.25,
+        "min_wiz_power": 0.11,
+        "max_ele_atk_power": 0.16,
+        "min_ele_atk_power": 0.11,
+        "mana": 2,
+        "ag": 0.2
+      },
+
+      "command": {
+        "atk_succ_rate": 0,
+        "def_rate": 0,
+        "pet_dmg": 0
+      },
+
+      "level": {
+        "hp": 1,
+        "mana": 2,
+        "atk_rate": 5,
+        "pvp_atk_rate": 3,
+        "pvp_def_rate": 2,
+        "ele_atk_rate": 5,
+        "pvp_ele_atk_rate": 5
+      }
+    }
+  },
+
+  "FairyElf": {
+    "base_hp": 80,
+    "base_str": 22,
+    "base_agi": 25,
+    "base_sta": 20,
+    "base_ene": 15,
+    "base_command": 0,
+
+    "growth": {
+      "strength": {
+        "max_atk_power": 0.25,
+        "min_atk_power": 0.14,
+        "atk_succ_rate": 0.25,
+        "max_ele_atk_power": 0.12,
+        "min_ele_atk_power": 0.07,
+        "ele_atk_rate": 0.25,
+        "pvp_ele_atk_rate": 0.25,
+        "ag": 0.33
+      },
+
+      "agility": {
+        "atk_rate": 0.25,
+        "pvp_atk_rate": 0.14,
+        "atk_speed": 0.6,
+        "ele_atk_rate": 1.5,
+        "pvp_ele_atk_rate": 1.5,
+        "def": 0.1,
+        "def_rate": 0.25,
+        "pvp_def_rate": 0.1,
+        "ele_def": 0.1,
+        "ele_def_rate": 0.25,
+        "pvp_ele_def_rate": 0.25,
+        "ag": 0.2
+      },
+
+      "stamina": {
+        "hp": 2,
+        "ag": 0.33
+      },
+
+      "energy": {
+        "mana": 1.5,
+        "ag": 0.2
+      },
+
+      "command": {
+        "atk_succ_rate": 0,
+        "def_rate": 0,
+        "pet_dmg": 0
+      },
+
+      "level": {
+        "hp": 1,
+        "mana": 1,
+        "atk_succ_rate": 5,
+        "pvp_atk_rate": 3,
+        "pvp_def_rate": 2,
+        "ele_atk_rate": 5,
+        "pvp_ele_atk_rate": 5
+      }
+    }
+  },
+
+  "MagicGladiator": {
+    "base_hp": 110,
+    "base_str": 26,
+    "base_agi": 26,
+    "base_sta": 26,
+    "base_ene": 26,
+    "base_command": 0,
+
+    "growth": {
+      "strength": {
+        "max_atk_power": 0.25,
+        "min_atk_power": 0.16,
+        "atk_succ_rate": 0.25,
+        "max_ele_atk_power": 0.16,
+        "min_ele_atk_power": 0.1,
+        "ele_atk_rate": 0.25,
+        "pvp_ele_atk_rate": 0.25,
+        "ag": 0.1
+      },
+
+      "agility": {
+        "atk_succ_rate": 1.5,
+        "pvp_atk_rate": 3.5,
+        "atk_speed": 0.1,
+        "ele_atk_rate": 1.5,
+        "pvp_ele_atk_rate": 1.5,
+        "def": 0.25,
+        "def_rate": 0.33,
+        "pvp_def_rate": 0.25,
+        "ele_def": 0.2,
+        "ele_def_rate": 0.33,
+        "pvp_ele_def_rate": 0.33
+      },
+
+      "energy": {
+        "max_atk_power": 0.12,
+        "min_atk_power": 0.083,
+        "max_wiz_power": 0.25,
+        "min_wiz_power": 0.11,
+        "max_ele_atk_power": 0.12,
+        "min_ele_atk_power": 0.07,
+        "mana": 2,
+        "ag": 0.15
+      },
+
+      "stamina": {
+        "hp": 2,
+        "ag": 0.33
+      },
+
+      "command": {
+        "atk_succ_rate": 0,
+        "def_rate": 0,
+        "pet_dmg": 0
+      },
+
+      "level": {
+        "hp": 1.5,
+        "mana": 1,
+        "sd": 1.2,
+        "atk_succ_rate": 5,
+        "pvp_atk_rate": 3,
+        "pvp_def_rate": 2
+      }
+    }
+  },
+
+  "DarkLord": {
+    "base_hp": 90,
+    "base_str": 26,
+    "base_agi": 23,
+    "base_sta": 20,
+    "base_ene": 15,
+    "base_command": 25,
+
+    "growth": {
+      "strength": {
+        "max_atk_power": 0.2,
+        "min_atk_power": 0.1,
+        "atk_succ_rate": 0.16,
+        "max_ele_atk_power": 0.16,
+        "min_ele_atk_power": 0.1,
+        "ele_atk_rate": 0.2,
+        "pvp_ele_atk_rate": 0.2,
+        "ag": 0.33
+      },
+
+      "agility": {
+        "atk_succ_rate": 2.5,
+        "pvp_atk_rate": 4.0,
+        "atk_speed": 0.1,
+        "def_rate": 0.14,
+        "pvp_def_rate": 0.5,
+        "ele_def": 0.14,
+        "ele_def_rate": 0.14,
+        "pvp_ele_def_rate": 0.14,
+        "def": 0.2
+      },
+
+      "stamina": {
+        "hp": 2,
+        "ag": 0.1,
+        "sd": 0.1
+      },
+
+      "energy": {
+        "mana": 1.5,
+        "ag": 0.15,
+        "max_atk_power": 0.1,
+        "min_atk_power": 0.14,
+        "skill_atk_power_percent": 0.05,
+        "max_ele_atk_power": 0.1,
+        "min_ele_atk_power": 0.07,
+        "ele_atk_rate": 0.1,
+        "pvp_ele_atk_rate": 0.1
+      },
+
+      "command": {
+        "pet_dmg": 0.25,
+        "atk_succ_rate": 0.2,
+        "def_rate": 0.15
+      },
+
+      "level": {
+        "hp": 2.2,
+        "mana": 0.6,
+        "atk_rate": 5.2,
+        "pvp_atk_rate": 3.2,
+        "pvp_def_rate": 2.2,
+        "ele_atk_rate": 5.2,
+        "pvp_ele_atk_rate": 5.2
+      }
+    }
+  }
+}
