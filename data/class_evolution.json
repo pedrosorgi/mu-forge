@@ -21,13 +21,14 @@
     },
 
     "MagicGladiator": {
-        "evo_2": "Magic Gladiator",
+        "evo_2": null,
         "evo_3": "Duel Master",
         "evo_4": "Magic Knight",
         "evo_5": "Duple Knight"
     },
     
     "DarkLord": {
+        "evo_2": null,
         "evo_3": "Lord Emperor",
         "evo_4": "Empire Lord",
         "evo_5": "Force Empire"

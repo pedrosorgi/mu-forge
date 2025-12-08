@@ -1,0 +1,1746 @@
+{
+  "axes": [
+    {
+      "id": 1,
+      "img_path": "../static/items/weapons/axes/small_axe.png",
+      "name": "Small Axe",
+      "category": "axe",
+      "one_handed": true,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "all", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 2,
+            "max_atk_dmg": 7,
+            "wiz_dmg_percent": null,
+            "atk_speed": 20
+          },
+          "requirements": {
+            "str": 21,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 31,
+            "max_atk_dmg": 36,
+            "wiz_dmg_percent": null,
+            "atk_speed": 20
+          },
+          "requirements": {
+            "str": 59,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }
+    },
+
+    {
+      "id": 2,
+      "img_path": "../static/items/weapons/axes/hand_axe.png",
+      "name": "Hand Axe",
+      "category": "axe",
+      "one_handed": true,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkWizard", "min_evo": 1},
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "FairyElf", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1},
+        {"name": "DarkLord", "min_evo": 1},
+        {"name": "Summoner", "min_evo": 1},
+        {"name": "RageFighter", "min_evo": 1},
+        {"name": "GrowLancer", "min_evo": 1},
+        {"name": "KundunMephis", "min_evo": 1},
+        {"name": "Lemuria", "min_evo": 1},
+        {"name": "Alchemist", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 4,
+            "max_atk_dmg": 9,
+            "wiz_dmg_percent": null,
+            "atk_speed": 30
+          },
+          "requirements": {
+            "str": 28,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 34,
+            "max_atk_dmg": 39,
+            "wiz_dmg_percent": null,
+            "atk_speed": 30
+          },
+          "requirements": {
+            "str": 80,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }
+    },
+
+    {
+      "id": 3,
+      "img_path": "../static/items/weapons/axes/double_axe.png",
+      "name": "Double Axe",
+      "category": "axe",
+      "one_handed": true,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1},
+        {"name": "DarkLord", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 14,
+            "max_atk_dmg": 24,
+            "wiz_dmg_percent": null,
+            "atk_speed": 30
+          },
+          "requirements": {
+            "str": 57,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 44,
+            "max_atk_dmg": 54,
+            "wiz_dmg_percent": null,
+            "atk_speed": 20
+          },
+          "requirements": {
+            "str": 125,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }
+    },
+
+    {
+      "id": 4,
+      "img_path": "../static/items/weapons/axes/tomahawk.png",
+      "name": "Tomahawk",
+      "category": "axe",
+      "one_handed": true,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1},
+        {"name": "DarkLord", "min_evo": 1},
+        {"name": "RageFighter", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 18,
+            "max_atk_dmg": 28,
+            "wiz_dmg_percent": null,
+            "atk_speed": 30
+          },
+          "requirements": {
+            "str": 74,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 48,
+            "max_atk_dmg": 58,
+            "wiz_dmg_percent": null,
+            "atk_speed": 30
+          },
+          "requirements": {
+            "str": 149,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }      
+    },
+
+    {
+      "id": 5,
+      "img_path": "../static/items/weapons/axes/elven_axe.png",
+      "name": "Elven Axe",
+      "category": "axe",
+      "one_handed": true,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "DarkWizard", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1},
+        {"name": "FairyElf", "min_evo": 1},
+        {"name": "DarkLord", "min_evo": 1},
+        {"name": "Summoner", "min_evo": 1},
+        {"name": "KundunMephis", "min_evo": 1},
+        {"name": "Lemuria", "min_evo": 1},
+        {"name": "Alchemist", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 26,
+            "max_atk_dmg": 38,
+            "wiz_dmg_percent": null,
+            "atk_speed": 40
+          },
+          "requirements": {
+            "str": 59,
+            "agi": 74,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 56,
+            "max_atk_dmg": 68,
+            "wiz_dmg_percent": null,
+            "atk_speed": 40
+          },
+          "requirements": {
+            "str": 96,
+            "agi": 127,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }      
+    },
+
+    {
+      "id": 6,
+      "img_path": "../static/items/weapons/axes/battle_axe.png",
+      "name": "Battle Axe",
+      "category": "axe",
+      "one_handed": true,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1},
+        {"name": "FairyElf", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 36,
+            "max_atk_dmg": 44,
+            "wiz_dmg_percent": null,
+            "atk_speed": 20
+          },
+          "requirements": {
+            "str": 128,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 71,
+            "max_atk_dmg": 79,
+            "wiz_dmg_percent": null,
+            "atk_speed": 20
+          },
+          "requirements": {
+            "str": 218,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }      
+    },
+
+    {
+      "id": 7,
+      "img_path": "../static/items/weapons/axes/nikea_axe.png",
+      "name": "Nikea Axe",
+      "category": "axe",
+      "one_handed": false,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1},
+        {"name": "FairyElf", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 38,
+            "max_atk_dmg": 50,
+            "wiz_dmg_percent": null,
+            "atk_speed": 30
+          },
+          "requirements": {
+            "str": 152,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 70,
+            "max_atk_dmg": 82,
+            "wiz_dmg_percent": null,
+            "atk_speed": 30
+          },
+          "requirements": {
+            "str": 250,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }      
+    },
+
+    {
+      "id": 8,
+      "img_path": "../static/items/weapons/axes/larkan_axe.png",
+      "name": "Larkan Axe",
+      "category": "axe",
+      "one_handed": false,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 54,
+            "max_atk_dmg": 67,
+            "wiz_dmg_percent": null,
+            "atk_speed": 25
+          },
+          "requirements": {
+            "str": 213,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 88,
+            "max_atk_dmg": 101,
+            "wiz_dmg_percent": null,
+            "atk_speed": 25
+          },
+          "requirements": {
+            "str": 318,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }       
+    },
+
+    {
+      "id": 9,
+      "img_path": "../static/items/weapons/axes/crescent_axe.png",
+      "name": "Crescent Axe",
+      "category": "axe",
+      "one_handed": false,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "DarkWizard", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1},
+        {"name": "Lemuria", "min_evo": 1},
+        {"name": "KundunMephis", "min_evo": 1},
+        {"name": "Alchemist", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 69,
+            "max_atk_dmg": 89,
+            "wiz_dmg_percent": null,
+            "atk_speed": 30
+          },
+          "requirements": {
+            "str": 182,
+            "agi": 84,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 105,
+            "max_atk_dmg": 125,
+            "wiz_dmg_percent": null,
+            "atk_speed": 30
+          },
+          "requirements": {
+            "str": 257,
+            "agi": 114,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }      
+    }
+  ],
+
+  "swords": [
+    {
+      "id": 10,
+      "img_path": "../static/items/weapons/swords/short_sword.png",
+      "name": "Short Sword",
+      "category": "sword",
+      "one_handed": true,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "all", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 3,
+            "max_atk_dmg": 7,
+            "wiz_dmg_percent": null,
+            "atk_speed": 20
+          },
+          "requirements": {
+            "str": 25,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 33,
+            "max_atk_dmg": 37,
+            "wiz_dmg_percent": null,
+            "atk_speed": 20
+          },
+          "requirements": {
+            "str": 70,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }      
+    },
+
+    {
+      "id": 11,
+      "img_path": "../static/items/weapons/swords/kris.png",
+      "name": "Kris",
+      "category": "sword",
+      "one_handed": true,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "all", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 6,
+            "max_atk_dmg": 11,
+            "wiz_dmg_percent": null,
+            "atk_speed": 50
+          },
+          "requirements": {
+            "str": 27,
+            "agi": 27,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 36,
+            "max_atk_dmg": 41,
+            "wiz_dmg_percent": null,
+            "atk_speed": 50
+          },
+          "requirements": {
+            "str": 57,
+            "agi": 57,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }      
+    },
+
+    {
+      "id": 12,
+      "img_path": "../static/items/weapons/swords/rapier.png",
+      "name": "Rapier",
+      "category": "sword",
+      "one_handed": true,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "FairyElf", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1},
+        {"name": "Summoner", "min_evo": 1},
+        {"name": "DarkLord", "min_evo": 1},
+        {"name": "GrowLancer", "min_evo": 1},
+        {"name": "RuneWizard", "min_evo": 1},
+        {"name": "Slayer", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 9,
+            "max_atk_dmg": 15,
+            "wiz_dmg_percent": null,
+            "atk_speed": 40
+          },
+          "requirements": {
+            "str": 33,
+            "agi": 30,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 39,
+            "max_atk_dmg": 45,
+            "wiz_dmg_percent": null,
+            "atk_speed": 40
+          },
+          "requirements": {
+            "str": 71,
+            "agi": 60,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }        
+    },
+
+    {
+      "id": 12,
+      "img_path": "../static/items/weapons/swords/sword_of_assassin.png",
+      "name": "Sword of Assassin",
+      "category": "sword",
+      "one_handed": true,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1},
+        {"name": "DarkLord", "min_evo": 1},
+        {"name": "Slayer", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 12,
+            "max_atk_dmg": 18,
+            "wiz_dmg_percent": null,
+            "atk_speed": 30
+          },
+          "requirements": {
+            "str": 41,
+            "agi": 34,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 42,
+            "max_atk_dmg": 48,
+            "wiz_dmg_percent": null,
+            "atk_speed": 30
+          },
+          "requirements": {
+            "str": 86,
+            "agi": 64,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }          
+    },
+
+    {
+      "id": 13,
+      "img_path": "../static/items/weapons/swords/katana.png",
+      "name": "Katana",
+      "category": "sword",
+      "one_handed": true,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1},
+        {"name": "DarkLord", "min_evo": 1},
+        {"name": "Slayer", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 16,
+            "max_atk_dmg": 26,
+            "wiz_dmg_percent": null,
+            "atk_speed": 35
+          },
+          "requirements": {
+            "str": 58,
+            "agi": 39,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 46,
+            "max_atk_dmg": 56,
+            "wiz_dmg_percent": null,
+            "atk_speed": 35
+          },
+          "requirements": {
+            "str": 118,
+            "agi": 69,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }         
+    },
+
+    {
+      "id": 14,
+      "img_path": "../static/items/weapons/swords/gladius.png",
+      "name": "Gladius",
+      "category": "sword",
+      "one_handed": true,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "FairyElf", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1},
+        {"name": "DarkLord", "min_evo": 1},
+        {"name": "Slayer", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 20,
+            "max_atk_dmg": 30,
+            "wiz_dmg_percent": null,
+            "atk_speed": 20
+          },
+          "requirements": {
+            "str": 86,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 50,
+            "max_atk_dmg": 60,
+            "wiz_dmg_percent": null,
+            "atk_speed": 20
+          },
+          "requirements": {
+            "str": 168,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }       
+    },
+
+    {
+      "id": 15,
+      "img_path": "../static/items/weapons/swords/falchion.png",
+      "name": "Falchion",
+      "category": "sword",
+      "one_handed": true,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1},
+        {"name": "DarkLord", "min_evo": 1},
+        {"name": "Slayer", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 24,
+            "max_atk_dmg": 34,
+            "wiz_dmg_percent": null,
+            "atk_speed": 25
+          },
+          "requirements": {
+            "str": 106,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 54,
+            "max_atk_dmg": 64,
+            "wiz_dmg_percent": null,
+            "atk_speed": 25
+          },
+          "requirements": {
+            "str": 196,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }         
+    },
+
+    {
+      "id": 16,
+      "img_path": "../static/items/weapons/swords/serpent_sword.png",
+      "name": "Serpent Sword",
+      "category": "sword",
+      "one_handed": true,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1},
+        {"name": "DarkLord", "min_evo": 1},
+        {"name": "Slayer", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 30,
+            "max_atk_dmg": 40,
+            "wiz_dmg_percent": null,
+            "atk_speed": 20
+          },
+          "requirements": {
+            "str": 137,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 60,
+            "max_atk_dmg": 70,
+            "wiz_dmg_percent": null,
+            "atk_speed": 20
+          },
+          "requirements": {
+            "str": 234,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }          
+    },
+
+    {
+      "id": 17,
+      "img_path": "../static/items/weapons/swords/sword_of_salamander.png",
+      "name": "Sword of Salamander",
+      "category": "sword",
+      "one_handed": false,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 32,
+            "max_atk_dmg": 46,
+            "wiz_dmg_percent": null,
+            "atk_speed": 30
+          },
+          "requirements": {
+            "str": 118,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 62,
+            "max_atk_dmg": 76,
+            "wiz_dmg_percent": null,
+            "atk_speed": 30
+          },
+          "requirements": {
+            "str": 196,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }         
+    },
+
+    {
+      "id": 18,
+      "img_path": "../static/items/weapons/swords/blade.png",
+      "name": "Blade",
+      "category": "sword",
+      "one_handed": true,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "DarkWizard", "min_evo": 1},
+        {"name": "FairyElf", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1},
+        {"name": "DarkLord", "min_evo": 1},
+        {"name": "Slayer", "min_evo": 1},
+        {"name": "KundunMephis", "min_evo": 1},
+        {"name": "Lemuria", "min_evo": 1},
+        {"name": "IllusionKnight", "min_evo": 1},
+        {"name": "Alchemist", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 36,
+            "max_atk_dmg": 47,
+            "wiz_dmg_percent": null,
+            "atk_speed": 30
+          },
+          "requirements": {
+            "str": 106,
+            "agi": 74,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 66,
+            "max_atk_dmg": 77,
+            "wiz_dmg_percent": null,
+            "atk_speed": 30
+          },
+          "requirements": {
+            "str": 166,
+            "agi": 111,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }       
+    },
+
+    {
+      "id": 19,
+      "img_path": "../static/items/weapons/swords/light_saber.png",
+      "name": "Light Saber",
+      "category": "sword",
+      "one_handed": false,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "FairyElf", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 47,
+            "max_atk_dmg": 61,
+            "wiz_dmg_percent": null,
+            "atk_speed": 25
+          },
+          "requirements": {
+            "str": 116,
+            "agi": 92,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 81,
+            "max_atk_dmg": 95,
+            "wiz_dmg_percent": null,
+            "atk_speed": 25
+          },
+          "requirements": {
+            "str": 176,
+            "agi": 137,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }       
+    },
+
+    {
+      "id": 20,
+      "img_path": "../static/items/weapons/swords/double_blade.png",
+      "name": "Double Blade",
+      "category": "sword",
+      "one_handed": true,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "FairyElf", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1},
+        {"name": "Slayer", "min_evo": 1},
+        {"name": "IllusionKnight", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 48,
+            "max_atk_dmg": 56,
+            "wiz_dmg_percent": null,
+            "atk_speed": 30
+          },
+          "requirements": {
+            "str": 120,
+            "agi": 120,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 78,
+            "max_atk_dmg": 86,
+            "wiz_dmg_percent": null,
+            "atk_speed": 30
+          },
+          "requirements": {
+            "str": 173,
+            "agi": 173,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }          
+    },
+
+    {
+      "id": 21,
+      "img_path": "../static/items/weapons/swords/legendary_sword.png",
+      "name": "Legendary Sword",
+      "category": "sword",
+      "one_handed": false,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 56,
+            "max_atk_dmg": 72,
+            "wiz_dmg_percent": null,
+            "atk_speed": 20
+          },
+          "requirements": {
+            "str": 178,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 92,
+            "max_atk_dmg": 108,
+            "wiz_dmg_percent": null,
+            "atk_speed": 20
+          },
+          "requirements": {
+            "str": 268,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }         
+    },
+
+    {
+      "id": 22,
+      "img_path": "../static/items/weapons/swords/lightning_sword.png",
+      "name": "Lightning Sword",
+      "category": "sword",
+      "one_handed": true,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "FairyElf", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 59,
+            "max_atk_dmg": 67,
+            "wiz_dmg_percent": null,
+            "atk_speed": 30
+          },
+          "requirements": {
+            "str": 179,
+            "agi": 108,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 89,
+            "max_atk_dmg": 97,
+            "wiz_dmg_percent": null,
+            "atk_speed": 30
+          },
+          "requirements": {
+            "str": 246,
+            "agi": 146,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }        
+    },
+
+    {
+      "id": 23,
+      "img_path": "../static/items/weapons/swords/giant_sword.png",
+      "name": "Giant Sword",
+      "category": "sword",
+      "one_handed": false,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 60,
+            "max_atk_dmg": 85,
+            "wiz_dmg_percent": null,
+            "atk_speed": 20
+          },
+          "requirements": {
+            "str": 238,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 93,
+            "max_atk_dmg": 118,
+            "wiz_dmg_percent": null,
+            "atk_speed": 20
+          },
+          "requirements": {
+            "str": 343,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }       
+    },
+
+    {
+      "id": 24,
+      "img_path": "../static/items/weapons/swords/heliacal_sword.png",
+      "name": "Heliacal Sword",
+      "category": "sword",
+      "one_handed": false,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 73,
+            "max_atk_dmg": 98,
+            "wiz_dmg_percent": null,
+            "atk_speed": 25
+          },
+          "requirements": {
+            "str": 255,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 110,
+            "max_atk_dmg": 135,
+            "wiz_dmg_percent": null,
+            "atk_speed": 25
+          },
+          "requirements": {
+            "str": 360,
+            "agi": null,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }       
+    },
+
+    {
+      "id": 25,
+      "img_path": "../static/items/weapons/swords/sword_of_destruction.png",
+      "name": "Sword of Destruction",
+      "category": "sword",
+      "one_handed": true,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 82,
+            "max_atk_dmg": 90,
+            "wiz_dmg_percent": null,
+            "atk_speed": 35
+          },
+          "requirements": {
+            "str": 413,
+            "agi": 167,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 112,
+            "max_atk_dmg": 120,
+            "wiz_dmg_percent": null,
+            "atk_speed": 35
+          },
+          "requirements": {
+            "str": 533,
+            "agi": 212,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }         
+    },
+
+    {
+      "id": 26,
+      "img_path": "../static/items/weapons/swords/crystal_sword.png",
+      "name": "Crystal Sword",
+      "category": "sword",
+      "one_handed": false,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1},
+        {"name": "DarkWizard", "min_evo": 1},
+        {"name": "FairyElf", "min_evo": 1},
+        {"name": "MagicGladiator", "min_evo": 1},
+        {"name": "RuneWizard", "min_evo": 1},
+        {"name": "KundunMephis", "min_evo": 1},
+        {"name": "Lemuria", "min_evo": 1},
+        {"name": "Alchemist", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 89,
+            "max_atk_dmg": 120,
+            "wiz_dmg_percent": null,
+            "atk_speed": 40
+          },
+          "requirements": {
+            "str": 300,
+            "agi": 171,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 124,
+            "max_atk_dmg": 155,
+            "wiz_dmg_percent": null,
+            "atk_speed": 40
+          },
+          "requirements": {
+            "str": 398,
+            "agi": 223,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }        
+    },
+
+    {
+      "id": 27,
+      "img_path": "../static/items/weapons/swords/rune_blade.png",
+      "name": "Rune Blade",
+      "category": "sword",
+      "one_handed": false,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "MagicGladiator", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 104,
+            "max_atk_dmg": 130,
+            "wiz_dmg_percent": 52,
+            "atk_speed": 35
+          },
+          "requirements": {
+            "str": 425,
+            "agi": 206,
+            "ene": 56,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 135,
+            "max_atk_dmg": 161,
+            "wiz_dmg_percent": 67,
+            "atk_speed": 35
+          },
+          "requirements": {
+            "str": 526,
+            "agi": 252,
+            "ene": 65,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }
+    },
+
+    {
+      "id": 28,
+      "img_path": "../static/items/weapons/swords/knight_blade.png",
+      "name": "Knight Blade",
+      "category": "sword",
+      "one_handed": true,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 107,
+            "max_atk_dmg": 115,
+            "wiz_dmg_percent": null,
+            "atk_speed": 35
+          },
+          "requirements": {
+            "str": 507,
+            "agi": 179,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 131,
+            "max_atk_dmg": 139,
+            "wiz_dmg_percent": null,
+            "atk_speed": 35
+          },
+          "requirements": {
+            "str": 594,
+            "agi": 208,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }
+    },
+
+    {
+      "id": 29,
+      "img_path": "../static/items/weapons/swords/sword_dancer.png",
+      "name": "Sword Dancer",
+      "category": "sword",
+      "one_handed": false,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "MagicGladiator", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 109,
+            "max_atk_dmg": 136,
+            "wiz_dmg_percent": 54,
+            "atk_speed": 40
+          },
+          "requirements": {
+            "str": 489,
+            "agi": 216,
+            "ene": 61,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 137,
+            "max_atk_dmg": 164,
+            "wiz_dmg_percent": 68,
+            "atk_speed": 40
+          },
+          "requirements": {
+            "str": 591,
+            "agi": 259,
+            "ene": 70,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }      
+    },
+
+    {
+      "id": 30,
+      "img_path": "../static/items/weapons/swords/dark_reign_blade.png",
+      "name": "Dark Reign Blade",
+      "category": "sword",
+      "one_handed": false,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "MagicGladiator", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 115,
+            "max_atk_dmg": 142,
+            "wiz_dmg_percent": 57,
+            "atk_speed": 40
+          },
+          "requirements": {
+            "str": 507,
+            "agi": 242,
+            "ene": 70,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 140,
+            "max_atk_dmg": 167,
+            "wiz_dmg_percent": 70,
+            "atk_speed": 40
+          },
+          "requirements": {
+            "str": 594,
+            "agi": 282,
+            "ene": 79,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }
+    },
+
+    {
+      "id": 31,
+      "img_path": "../static/items/weapons/swords/bone_blade.png",
+      "name": "Bone Blade",
+      "category": "sword",
+      "one_handed": true,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 122,
+            "max_atk_dmg": 135,
+            "wiz_dmg_percent": null,
+            "atk_speed": 40
+          },
+          "requirements": {
+            "str": 461,
+            "agi": 174,
+            "ene": null,
+            "cmd": null,
+            "char_level": 380
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 147,
+            "max_atk_dmg": 160,
+            "wiz_dmg_percent": 70,
+            "atk_speed": 40
+          },
+          "requirements": {
+            "str": 536,
+            "agi": 200,
+            "ene": null,
+            "cmd": null,
+            "char_level": 380
+          }
+        }
+      }
+    },
+
+    {
+      "id": 32,
+      "img_path": "../static/items/weapons/swords/explosion_blade.png",
+      "name": "Explosion Blade",
+      "category": "sword",
+      "one_handed": false,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "MagicGladiator", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 127,
+            "max_atk_dmg": 155,
+            "wiz_dmg_percent": 67,
+            "atk_speed": 45
+          },
+          "requirements": {
+            "str": 452,
+            "agi": 231,
+            "ene": 61,
+            "cmd": null,
+            "char_level": 380
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 153,
+            "max_atk_dmg": 181,
+            "wiz_dmg_percent": 80,
+            "atk_speed": 45
+          },
+          "requirements": {
+            "str": 525,
+            "agi": 267,
+            "ene": 68,
+            "cmd": null,
+            "char_level": 380
+          }
+        }
+      }      
+    },
+
+    {
+      "id": 33,
+      "img_path": "../static/items/weapons/swords/dark_breaker.png",
+      "name": "Dark Breaker",
+      "category": "sword",
+      "one_handed": false,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 2}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 128,
+            "max_atk_dmg": 153,
+            "wiz_dmg_percent": null,
+            "atk_speed": 40
+          },
+          "requirements": {
+            "str": 581,
+            "agi": 176,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 163,
+            "max_atk_dmg": 188,
+            "wiz_dmg_percent": null,
+            "atk_speed": 40
+          },
+          "requirements": {
+            "str": 716,
+            "agi": 213,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }        
+    },
+
+    {
+      "id": 34,
+      "img_path": "../static/items/weapons/swords/thunder_blade.png",
+      "name": "Thunder Blade",
+      "category": "sword",
+      "one_handed": false,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "MagicGladiator", "min_evo": 1}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 140,
+            "max_atk_dmg": 168,
+            "wiz_dmg_percent": null,
+            "atk_speed": 40
+          },
+          "requirements": {
+            "str": 587,
+            "agi": 177,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 178,
+            "max_atk_dmg": 206,
+            "wiz_dmg_percent": null,
+            "atk_speed": 40
+          },
+          "requirements": {
+            "str": 722,
+            "agi": 215,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }          
+    },
+
+    {
+      "id": 35,
+      "img_path": "../static/items/weapons/swords/daybreak.png",
+      "name": "Daybreak",
+      "category": "sword",
+      "one_handed": false,
+      "luck_option": true,
+
+      "classes": [
+        {"name": "DarkKnight", "min_evo": 2}
+      ],
+
+      "variants": {
+        "normal": {
+          "base_stats": {
+            "min_atk_dmg": 182,
+            "max_atk_dmg": 218,
+            "wiz_dmg_percent": null,
+            "atk_speed": 40
+          },
+          "requirements": {
+            "str": 682,
+            "agi": 123,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        },
+        "excellent": {
+          "base_stats": {
+            "min_atk_dmg": 226,
+            "max_atk_dmg": 262,
+            "wiz_dmg_percent": null,
+            "atk_speed": 40
+          },
+          "requirements": {
+            "str": 826,
+            "agi": 146,
+            "ene": null,
+            "cmd": null,
+            "char_level": null
+          }
+        }
+      }          
+    }
+  ]
+}
