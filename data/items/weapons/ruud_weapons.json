@@ -1,0 +1,1083 @@
+{
+  "ruud_swords": [
+    {
+      "id": 1,
+      "img_path": "../static/items/weapons/swords/bloodangel_magic_sword.png",
+      "name": "Excellent Bloodangel Magic Sword",
+      "category": "ruud_sword",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 650,
+        "agi": 398,
+        "ene": 139,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "min_atk_dmg": 293,
+        "max_atk_dmg": 303,
+        "wiz_dmg_percent": 67,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "name": "MagicGladiator",
+          "min_evo": 3
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "img_path": "../static/items/weapons/swords/bloodangel_sword.png",
+      "name": "Excellent Bloodangel Sword",
+      "category": "ruud_sword",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 886,
+        "agi": 287,
+        "ene": 874,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "min_atk_dmg": 300,
+        "max_atk_dmg": 310,
+        "wiz_dmg_percent": null,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "name": "DarkKnight",
+          "min_evo": 2
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "img_path": "../static/items/weapons/swords/darkangel_magic_sword.png",
+      "name": "Excellent Darkangel Magic Sword",
+      "category": "ruud_sword",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 686,
+        "agi": 419,
+        "ene": 114,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "min_atk_dmg": 351,
+        "max_atk_dmg": 361,
+        "wiz_dmg_percent": 70,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "name": "MagicGladiator",
+          "min_evo": 3
+        }
+      ]
+    },
+
+    {
+      "id": 4,
+      "img_path": "../static/items/weapons/swords/darkangel_sword.png",
+      "name": "Excellent Darkangel Sword",
+      "category": "ruud_sword",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "variants": {
+          "str": {
+            "str": 935,
+            "agi": 303,
+            "ene": null,
+            "cmd": null,
+            "char_level": 600
+          },
+          "ene": {
+            "str": null,
+            "agi": 303,
+            "ene": 885,
+            "cmd": null,
+            "char_level": 600
+          }
+        }
+      },
+      "base_stats": {
+        "min_atk_dmg": 354,
+        "max_atk_dmg": 365,
+        "wiz_dmg_percent": null,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "name": "DarkKnight",
+          "min_evo": 3
+        }
+      ]
+    },
+
+    {
+      "id": 5,
+      "img_path": "../static/items/weapons/swords/darkangel_magic_2h_sword.png",
+      "name": "Excellent Darkangel Magic Two-Handed Sword",
+      "category": "ruud_sword",
+      "one_handed": false,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 686,
+        "agi": 419,
+        "ene": 114,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "min_atk_dmg": 410,
+        "max_atk_dmg": 441,
+        "wiz_dmg_percent": 70,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "name": "MagicGladiator",
+          "min_evo": 3
+        }
+      ]
+    },
+
+    {
+      "id": 6,
+      "img_path": "../static/items/weapons/swords/holyangel_magic_sword.png",
+      "name": "Excellent Holyangel Magic Sword",
+      "category": "ruud_sword",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 702,
+        "agi": 432,
+        "ene": 151,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "min_atk_dmg": 419,
+        "max_atk_dmg": 430,
+        "wiz_dmg_percent": 73,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "name": "MagicGladiator",
+          "min_evo": 3
+        }
+      ]
+    },
+
+    {
+      "id": 7,
+      "img_path": "../static/items/weapons/swords/holyangel_sword.png",
+      "name": "Excellent Holyangel Sword",
+      "category": "ruud_sword",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "variants": {
+          "str": {
+            "str": 954,
+            "agi": 309,
+            "ene": null,
+            "cmd": null,
+            "char_level": 800
+          },
+          "ene": {
+            "str": null,
+            "agi": 309,
+            "ene": 905,
+            "cmd": null,
+            "char_level": 800
+          }
+        }
+      },
+      "base_stats": {
+        "min_atk_dmg": 420,
+        "max_atk_dmg": 431,
+        "wiz_dmg_percent": 73,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "name": "DarkKnight",
+          "min_evo": 3
+        }
+      ]
+    },
+
+    {
+      "id": 8,
+      "img_path": "../static/items/weapons/swords/holyangel_magic_2h_sword.png",
+      "name": "Excellent Holyangel Magic Two-Handed Sword",
+      "category": "ruud_sword",
+      "one_handed": false,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 702,
+        "agi": 432,
+        "ene": 151,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "min_atk_dmg": 489,
+        "max_atk_dmg": 527,
+        "wiz_dmg_percent": 73,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "name": "MagicGladiator",
+          "min_evo": 3
+        }
+      ]      
+    },
+
+    {
+      "id": 9,
+      "img_path": "../static/items/weapons/swords/soul_magic_sword.png",
+      "name": "Excellent Soul Magic Sword",
+      "category": "ruud_sword",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 715,
+        "agi": 438,
+        "ene": 155,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "min_atk_dmg": 485,
+        "max_atk_dmg": 496,
+        "wiz_dmg_percent": 77,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "name": "MagicGladiator",
+          "min_evo": 4
+        }
+      ]       
+    },
+
+    {
+      "id": 10,
+      "img_path": "../static/items/weapons/swords/soul_sword.png",
+      "name": "Excellent Soul Sword",
+      "category": "ruud_sword",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "variants": {
+          "str": {
+            "str": 971,
+            "agi": 317,
+            "ene": null,
+            "cmd": null,
+            "char_level": 900
+          },
+          "ene": {
+            "str": null,
+            "agi": 317,
+            "ene": 920,
+            "cmd": null,
+            "char_level": 900
+          }
+        }
+      },
+      "base_stats": {
+        "min_atk_dmg": 486,
+        "max_atk_dmg": 497,
+        "wiz_dmg_percent": null,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "name": "DarkKnight",
+          "min_evo": 4
+        }
+      ]      
+    },
+
+    {
+      "id": 11,
+      "img_path": "../static/items/weapons/swords/blue_eye_magic_sword.png",
+      "name": "Excellent Blue Eye Magic Sword",
+      "category": "ruud_sword",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 731,
+        "agi": 448,
+        "ene": 156,
+        "cmd": null,
+        "char_level": 1000
+      },
+      "base_stats": {
+        "min_atk_dmg": 551,
+        "max_atk_dmg": 561,
+        "wiz_dmg_percent": 80,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "name": "MagicGladiator",
+          "min_evo": 4
+        }
+      ]      
+    },
+
+    {
+      "id": 12,
+      "img_path": "../static/items/weapons/swords/blue_eye_sword.png",
+      "name": "Excellent Blue Eye Sword",
+      "category": "ruud_sword",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "variants": {
+          "str": {
+            "str": 994,
+            "agi": 322,
+            "ene": null,
+            "cmd": null,
+            "char_level": 1000
+          },
+          "ene": {
+            "str": null,
+            "agi": 322,
+            "ene": 920,
+            "cmd": null,
+            "char_level": 1000
+          }
+        }
+      },
+      "base_stats": {
+        "min_atk_dmg": 552,
+        "max_atk_dmg": 562,
+        "wiz_dmg_percent": null,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "name": "DarkKnight",
+          "min_evo": 4
+        }
+      ]      
+    },
+    
+    {
+      "id": 13,
+      "img_path": "../static/items/weapons/swords/soul_magic_2h_sword.png",
+      "name": "Excellent Soul Magic Two-Handed Sword",
+      "category": "ruud_sword",
+      "one_handed": false,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 715,
+        "agi": 438,
+        "ene": 155,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "min_atk_dmg": 566,
+        "max_atk_dmg": 609,
+        "wiz_dmg_percent": 77,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "name": "MagicGladiator",
+          "min_evo": 4
+        }
+      ]       
+    },
+
+    {
+      "id": 14,
+      "img_path": "../static/items/weapons/swords/silver_heart_magic_sword.png",
+      "name": "Excellent Silver Heart Magic Sword",
+      "category": "ruud_sword",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 743,
+        "agi": 458,
+        "ene": 164,
+        "cmd": null,
+        "char_level": 1100
+      },
+      "base_stats": {
+        "min_atk_dmg": 617,
+        "max_atk_dmg": 627,
+        "wiz_dmg_percent": 80,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "name": "MagicGladiator",
+          "min_evo": 4
+        }
+      ]        
+    },
+
+    {
+      "id": 15,
+      "img_path": "../static/items/weapons/swords/blue_eye_magic_2h_sword.png",
+      "name": "Excellent Blue Eye Magic Two-Handed Sword",
+      "category": "ruud_sword",
+      "one_handed": false,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+          "str": 731,
+          "agi": 448,
+          "ene": 156,
+          "cmd": null,
+          "char_level": 1000
+      },
+      "base_stats": {
+        "min_atk_dmg": 679,
+        "max_atk_dmg": 729,
+        "wiz_dmg_percent": 80,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "name": "MagicGladiator",
+          "min_evo": 4
+        }
+      ]       
+    },
+
+    {
+      "id": 16,
+      "img_path": "../static/items/weapons/swords/manticore_magic_sword.png",
+      "name": "Excellent Manticore Magic Sword",
+      "category": "ruud_sword",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+          "str": 743,
+          "agi": 458,
+          "ene": 164,
+          "cmd": null,
+          "char_level": 1200
+      },
+      "base_stats": {
+        "min_atk_dmg": 683,
+        "max_atk_dmg": 693,
+        "wiz_dmg_percent": 89,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "name": "MagicGladiator",
+          "min_evo": 4
+        }
+      ]       
+    },
+
+    {
+      "id": 17,
+      "img_path": "../static/items/weapons/swords/manticore_sword.png",
+      "name": "Excellent Manticore Sword",
+      "category": "ruud_sword",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "variants": {
+          "str": {
+            "str": 1006,
+            "agi": 327,
+            "ene": null,
+            "cmd": null,
+            "char_level": 1200
+          },
+          "ene": {
+            "str": null,
+            "agi": 327,
+            "ene": 936,
+            "cmd": null,
+            "char_level": 1200
+          }
+        }
+      },
+      "base_stats": {
+        "min_atk_dmg": 684,
+        "max_atk_dmg": 696,
+        "wiz_dmg_percent": null,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "name": "DarkKnight",
+          "min_evo": 4
+        }
+      ]       
+    },
+
+    {
+      "id": 18,
+      "img_path": "../static/items/weapons/swords/brilliant_magic_sword.png",
+      "name": "Excellent Brilliant Magic Sword",
+      "category": "ruud_sword",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+          "str": 743,
+          "agi": 458,
+          "ene": 164,
+          "cmd": null,
+          "char_level": 1300
+      },
+      "base_stats": {
+        "min_atk_dmg": 748,
+        "max_atk_dmg": 758,
+        "wiz_dmg_percent": 93,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "name": "MagicGladiator",
+          "min_evo": 4
+        }
+      ]      
+    },
+
+    {
+      "id": 19,
+      "img_path": "../static/items/weapons/swords/brilliant_sword.png",
+      "name": "Excellent Brilliant Sword",
+      "category": "ruud_sword",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "variants": {
+          "str": {
+            "str": 1006,
+            "agi": 327,
+            "ene": null,
+            "cmd": null,
+            "char_level": 1300
+          },
+          "ene": {
+            "str": null,
+            "agi": 327,
+            "ene": 936,
+            "cmd": null,
+            "char_level": 1300
+          }
+        }
+      },
+      "base_stats": {
+        "min_atk_dmg": 750,
+        "max_atk_dmg": 763,
+        "wiz_dmg_percent": null,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "name": "DarkKnight",
+          "min_evo": 4
+        }
+      ]       
+    },
+
+    {
+      "id": 20,
+      "img_path": "../static/items/weapons/swords/silver_heart_magic_2h_sword.png",
+      "name": "Excellent Silver Heart Magic Two-Handed Sword",
+      "category": "ruud_sword",
+      "one_handed": false,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+          "str": 743,
+          "agi": 458,
+          "ene": 164,
+          "cmd": null,
+          "char_level": 1100
+      },
+      "base_stats": {
+        "min_atk_dmg": 790,
+        "max_atk_dmg": 840,
+        "wiz_dmg_percent": 80,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "name": "MagicGladiator",
+          "min_evo": 4
+        }
+      ]        
+    },
+
+    {
+      "id": 21,
+      "img_path": "../static/items/weapons/swords/apocalypse_magic_sword.png",
+      "name": "Excellent Apocalypse Magic Sword",
+      "category": "ruud_sword",
+      "one_handed": false,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+          "str": 743,
+          "agi": 458,
+          "ene": 164,
+          "cmd": null,
+          "char_level": 1400
+      },
+      "base_stats": {
+        "min_atk_dmg": 814,
+        "max_atk_dmg": 824,
+        "wiz_dmg_percent": 97,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "name": "MagicGladiator",
+          "min_evo": 4
+        }
+      ]        
+    },
+
+    {
+      "id": 22,
+      "img_path": "../static/items/weapons/swords/apocalypse_sword.png",
+      "name": "Excellent Apocalypse Sword",
+      "category": "ruud_sword",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "variants": {
+          "str": {
+            "str": 1006,
+            "agi": 327,
+            "ene": null,
+            "cmd": null,
+            "char_level": 1400
+          },
+          "ene": {
+            "str": null,
+            "agi": 327,
+            "ene": 936,
+            "cmd": null,
+            "char_level": 1400
+          }
+        }
+      },
+      "base_stats": {
+        "min_atk_dmg": 815,
+        "max_atk_dmg": 829,
+        "wiz_dmg_percent": null,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "name": "DarkKnight",
+          "min_evo": 4
+        }
+      ]       
+    },
+
+    {
+      "id": 23,
+      "img_path": "../static/items/weapons/swords/lightning_magic_sword.png",
+      "name": "Excellent Lightning Magic Sword",
+      "category": "ruud_sword",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+          "str": 743,
+          "agi": 458,
+          "ene": 164,
+          "cmd": null,
+          "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 880,
+        "max_atk_dmg": 890,
+        "wiz_dmg_percent": 102,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "name": "MagicGladiator",
+          "min_evo": 4
+        }
+      ]       
+    },
+
+    {
+      "id": 24,
+      "img_path": "../static/items/weapons/swords/lightning_sword.png",
+      "name": "Excellent Lightning Sword",
+      "category": "ruud_sword",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "variants": {
+          "str": {
+            "str": 1006,
+            "agi": 327,
+            "ene": null,
+            "cmd": null,
+            "char_level": 1500
+          },
+          "ene": {
+            "str": null,
+            "agi": 327,
+            "ene": 936,
+            "cmd": null,
+            "char_level": 1500
+          }
+        }
+      },
+      "base_stats": {
+        "min_atk_dmg": 880,
+        "max_atk_dmg": 895,
+        "wiz_dmg_percent": null,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "name": "DarkKnight",
+          "min_evo": 4
+        }
+      ]       
+    },
+
+    {
+      "id": 25,
+      "img_path": "../static/items/weapons/swords/manticore_magic_2h_sword.png",
+      "name": "Excellent Manticore Magic Two-Handed Sword",
+      "category": "ruud_sword",
+      "one_handed": false,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+          "str": 743,
+          "agi": 458,
+          "ene": 164,
+          "cmd": null,
+          "char_level": 1200
+      },
+      "base_stats": {
+        "min_atk_dmg": 899,
+        "max_atk_dmg": 949,
+        "wiz_dmg_percent": 89,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "name": "MagicGladiator",
+          "min_evo": 4
+        }
+      ]        
+    },
+
+    {
+      "id": 26,
+      "img_path": "../static/items/weapons/swords/temple_guard_magic_sword.png",
+      "name": "Excellent Temple Guard Magic Sword",
+      "category": "ruud_sword",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+          "str": 743,
+          "agi": 458,
+          "ene": 164,
+          "cmd": null,
+          "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 946,
+        "max_atk_dmg": 956,
+        "wiz_dmg_percent": 110,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "name": "MagicGladiator",
+          "min_evo": 5
+        }
+      ]        
+    },
+
+    {
+      "id": 27,
+      "img_path": "../static/items/weapons/swords/temple_guard_sword.png",
+      "name": "Excellent Temple Guard Sword",
+      "category": "ruud_sword",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+            "str": 1006,
+            "agi": 327,
+            "ene": null,
+            "cmd": null,
+            "char_level": 1500
+          },    
+      "base_stats": {
+        "min_atk_dmg": 946,
+        "max_atk_dmg": 961,
+        "wiz_dmg_percent": null,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "name": "DarkKnight",
+          "min_evo": 5
+        }
+      ]        
+    },
+
+    {
+      "id": 28,
+      "img_path": "../static/items/weapons/swords/temple_guard_sword.png",
+      "name": "Excellent Temple Guard Belief Sword",
+      "category": "ruud_sword",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+            "str": 52,
+            "agi": 327,
+            "ene": 936,
+            "cmd": null,
+            "char_level": 1500
+          },    
+      "base_stats": {
+        "min_atk_dmg": 946,
+        "max_atk_dmg": 961,
+        "wiz_dmg_percent": null,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "name": "DarkKnight",
+          "min_evo": 5
+        }
+      ]         
+    },
+
+    {
+      "id": 29,
+      "img_path": "../static/items/weapons/swords/brilliant_magic_2h_sword.png",
+      "name": "Excellent Brilliant Magic Two-Handed Sword",
+      "category": "ruud_sword",
+      "one_handed": false,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+            "str": 743,
+            "agi": 458,
+            "ene": 164,
+            "cmd": null,
+            "char_level": 1300
+          },    
+      "base_stats": {
+        "min_atk_dmg": 1008,
+        "max_atk_dmg": 1058,
+        "wiz_dmg_percent": 93,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "name": "MagicGladiator",
+          "min_evo": 4
+        }
+      ]         
+    },
+
+    {
+      "id": 30,
+      "img_path": "../static/items/weapons/swords/apocalypse_magic_2h_sword.png",
+      "name": "Excellent Apocalypse Magic Two Hand Sword",
+      "category": "ruud_sword",
+      "one_handed": false,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+            "str": 743,
+            "agi": 458,
+            "ene": 164,
+            "cmd": null,
+            "char_level": 1400
+          },    
+      "base_stats": {
+        "min_atk_dmg": 1116,
+        "max_atk_dmg": 1166,
+        "wiz_dmg_percent": 97,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "name": "MagicGladiator",
+          "min_evo": 4
+        }
+      ]       
+    },
+
+    {
+      "id": 31,
+      "img_path": "../static/items/weapons/swords/lightning_2h_sword.png",
+      "name": "Excellent Lightning Two-Handed Sword",
+      "category": "ruud_sword",
+      "one_handed": false,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+            "str": 743,
+            "agi": 458,
+            "ene": 164,
+            "cmd": null,
+            "char_level": 1500
+          },    
+      "base_stats": {
+        "min_atk_dmg": 1116,
+        "max_atk_dmg": 1166,
+        "wiz_dmg_percent": 102,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "name": "MagicGladiator",
+          "min_evo": 4
+        }
+      ]       
+    },
+
+    {
+      "id": 32,
+      "img_path": "../static/items/weapons/swords/temple_guard_magic_2h_sword.png",
+      "name": "Excellent Temple Guard Magic Two-Handed Sword",
+      "category": "ruud_sword",
+      "one_handed": false,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+            "str": 743,
+            "agi": 458,
+            "ene": 164,
+            "cmd": null,
+            "char_level": 1500
+          },    
+      "base_stats": {
+        "min_atk_dmg": 1290,
+        "max_atk_dmg": 1340,
+        "wiz_dmg_percent": 110,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "name": "MagicGladiator",
+          "min_evo": 5
+        }
+      ]       
+    }
+  ]
+}
