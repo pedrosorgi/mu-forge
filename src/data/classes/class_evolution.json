@@ -37,6 +37,14 @@
         "evo_3": "Lord Emperor",
         "evo_4": "Empire Lord",
         "evo_5": "Force Empire"
+    },
+
+    "KundunMephis": {
+        "evo_1": "White Wizard",
+        "evo_2": "Light Master",
+        "evo_3": "Shine Wizard",
+        "evo_4": "Luminous Wizard",
+        "evo_5": "Glory Wizard"
     }
 
 }

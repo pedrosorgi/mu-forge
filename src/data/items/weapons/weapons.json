@@ -2842,5 +2842,1083 @@
         }
       ]
     }
+  ],
+
+  "staffs": [
+    {
+      "id": 73,
+      "img_path": "../static/items/weapons/staffs/skull_staff.png",
+      "name": "Skull Staff",
+      "category": "staff",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": false,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 27,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 3,
+        "max_atk_dmg": 4,
+        "wiz_dmg_percent": 3,
+        "atk_speed": 20
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator",
+          "min_evo": 1
+        },
+        {
+          "name": "Summoner",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]
+    },
+
+    {
+      "id": 74,
+      "img_path": "../static/items/weapons/staffs/skull_staff.png",
+      "name": "Excellent Skull Staff",
+      "category": "staff",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 57,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 20,
+        "max_atk_dmg": 21,
+        "wiz_dmg_percent": 18,
+        "atk_speed": 20
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator",
+          "min_evo": 1
+        },
+        {
+          "name": "Summoner",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]
+    },
+
+    {
+      "id": 75,
+      "img_path": "../static/items/weapons/staffs/angelic_staff.png",
+      "name": "Angelic Staff",
+      "category": "staff",
+      "one_handed": false,
+      "luck_option": true,
+      "excellent_option": false,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 47,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 10,
+        "max_atk_dmg": 12,
+        "wiz_dmg_percent": 10,
+        "atk_speed": 25
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]
+    },
+
+    {
+      "id": 76,
+      "img_path": "../static/items/weapons/staffs/angelic_staff.png",
+      "name": "Excellent Angelic Staff",
+      "category": "staff",
+      "one_handed": false,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 84,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 28,
+        "max_atk_dmg": 30,
+        "wiz_dmg_percent": 26,
+        "atk_speed": 25
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]
+    },
+
+    {
+      "id": 77,
+      "img_path": "../static/items/weapons/staffs/serpent_staff.png",
+      "name": "Serpent Staff",
+      "category": "staff",
+      "one_handed": false,
+      "luck_option": true,
+      "excellent_option": false,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 65,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 17,
+        "max_atk_dmg": 18,
+        "wiz_dmg_percent": 17,
+        "atk_speed": 25
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]
+    },
+
+    {
+      "id": 78,
+      "img_path": "../static/items/weapons/staffs/serpent_staff.png",
+      "name": "Excellent Serpent Staff",
+      "category": "staff",
+      "one_handed": false,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 102,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 36,
+        "max_atk_dmg": 37,
+        "wiz_dmg_percent": 33,
+        "atk_speed": 25
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]
+    },
+
+    {
+      "id": 79,
+      "img_path": "../static/items/weapons/staffs/thunder_staff.png",
+      "name": "Thunder Staff",
+      "category": "staff",
+      "one_handed": false,
+      "luck_option": true,
+      "excellent_option": false,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 70,
+        "agi": 32,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 23,
+        "max_atk_dmg": 25,
+        "wiz_dmg_percent": 23,
+        "atk_speed": 25
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]
+    },
+
+    {
+      "id": 80,
+      "img_path": "../static/items/weapons/staffs/thunder_staff.png",
+      "name": "Excellent Thunder Staff",
+      "category": "staff",
+      "one_handed": false,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 100,
+        "agi": 40,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 41,
+        "max_atk_dmg": 43,
+        "wiz_dmg_percent": 39,
+        "atk_speed": 25
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]
+    },
+
+    {
+      "id": 81,
+      "img_path": "../static/items/weapons/staffs/gorgon_staff.png",
+      "name": "Gorgon Staff",
+      "category": "staff",
+      "one_handed": false,
+      "luck_option": true,
+      "excellent_option": false,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 98,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 29,
+        "max_atk_dmg": 32,
+        "wiz_dmg_percent": 29,
+        "atk_speed": 25
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]
+    },
+
+    {
+      "id": 82,
+      "img_path": "../static/items/weapons/staffs/gorgon_staff.png",
+      "name": "Excellent Gorgon Staff",
+      "category": "staff",
+      "one_handed": false,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 135,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 47,
+        "max_atk_dmg": 50,
+        "wiz_dmg_percent": 45,
+        "atk_speed": 25
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]
+    },
+
+    {
+      "id": 82,
+      "img_path": "../static/items/weapons/staffs/legendary_staff.png",
+      "name": "Legendary Staff",
+      "category": "staff",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": false,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 108,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 29,
+        "max_atk_dmg": 31,
+        "wiz_dmg_percent": 29,
+        "atk_speed": 25
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]       
+    },
+
+    {
+      "id": 83,
+      "img_path": "../static/items/weapons/staffs/legendary_staff.png",
+      "name": "Excellent Legendary Staff",
+      "category": "staff",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 146,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 46,
+        "max_atk_dmg": 48,
+        "wiz_dmg_percent": 44,
+        "atk_speed": 25
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]      
+    },
+
+    {
+      "id": 84,
+      "img_path": "../static/items/weapons/staffs/staff_of_resurrection.png",
+      "name": "Staff of Resurrection",
+      "category": "staff",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": false,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 146,
+        "agi": 41,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 35,
+        "max_atk_dmg": 39,
+        "wiz_dmg_percent": 35,
+        "atk_speed": 25
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]       
+    },
+
+    {
+      "id": 85,
+      "img_path": "../static/items/weapons/staffs/staff_of_resurrection.png",
+      "name": "Excellent Staff of Resurrection",
+      "category": "staff",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 191,
+        "agi": 48,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 52,
+        "max_atk_dmg": 56,
+        "wiz_dmg_percent": 50,
+        "atk_speed": 25
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]       
+    },
+
+    {
+      "id": 86,
+      "img_path": "../static/items/weapons/staffs/dragon_soul_staff.png",
+      "name": "Dragon Soul Staff",
+      "category": "staff",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": false,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 176,
+        "agi": 68,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 46,
+        "max_atk_dmg": 48,
+        "wiz_dmg_percent": 46,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]      
+    },
+
+    {
+      "id": 87,
+      "img_path": "../static/items/weapons/staffs/dragon_soul_staff.png",
+      "name": "Excellent Dragon Soul Staff",
+      "category": "staff",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 215,
+        "agi": 80,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 62,
+        "max_atk_dmg": 64,
+        "wiz_dmg_percent": 60,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]      
+    },
+
+    {
+      "id": 88,
+      "img_path": "../static/items/weapons/staffs/chaos_lightning_staff.png",
+      "name": "Chaos Lightning Staff",
+      "category": "staff",
+      "one_handed": false,
+      "luck_option": true,
+      "excellent_option": false,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 155,
+        "agi": 42,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 47,
+        "max_atk_dmg": 48,
+        "wiz_dmg_percent": 47,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]      
+    },
+
+    {
+      "id": 89,
+      "img_path": "../static/items/weapons/staffs/chaos_lightning_staff.png",
+      "name": "Excellent Chaos Lightning Staff",
+      "category": "staff",
+      "one_handed": false,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 200,
+        "agi": 50,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 72,
+        "max_atk_dmg": 73,
+        "wiz_dmg_percent": 59,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]      
+    },
+
+    {
+      "id": 90,
+      "img_path": "../static/items/weapons/staffs/staff_of_destruction.png",
+      "name": "Staff of Destruction",
+      "category": "staff",
+      "one_handed": false,
+      "luck_option": true,
+      "excellent_option": false,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 182,
+        "agi": 47,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 50,
+        "max_atk_dmg": 54,
+        "wiz_dmg_percent": 50,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]      
+    },
+
+    {
+      "id": 91,
+      "img_path": "../static/items/weapons/staffs/staff_of_destruction.png",
+      "name": "Excellent Staff of Destruction",
+      "category": "staff",
+      "one_handed": false,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 227,
+        "agi": 54,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 68,
+        "max_atk_dmg": 72,
+        "wiz_dmg_percent": 67,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]      
+    },
+
+    {
+      "id": 92,
+      "img_path": "../static/items/weapons/staffs/platina_staff.png",
+      "name": "Platina Staff",
+      "category": "staff",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": false,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 185,
+        "agi": 72,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 51,
+        "max_atk_dmg": 53,
+        "wiz_dmg_percent": 60,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]      
+    },
+
+    {
+      "id": 93,
+      "img_path": "../static/items/weapons/staffs/platina_staff.png",
+      "name": "Excellent Platina Staff",
+      "category": "staff",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 222,
+        "agi": 84,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 67,
+        "max_atk_dmg": 69,
+        "wiz_dmg_percent": 76,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]       
+    },
+    
+    {
+      "id": 94,
+      "img_path": "../static/items/weapons/staffs/staff_of_kundun.png",
+      "name": "Staff of Kundun",
+      "category": "staff",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": false,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 209,
+        "agi": 87,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 55,
+        "max_atk_dmg": 61,
+        "wiz_dmg_percent": 55,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]
+    },
+
+    {
+      "id": 95,
+      "img_path": "../static/items/weapons/staffs/staff_of_kundun.png",
+      "name": "Excellent Staff of Kundun",
+      "category": "staff",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 242,
+        "agi": 99,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 69,
+        "max_atk_dmg": 75,
+        "wiz_dmg_percent": 67,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]
+    },
+
+    {
+     "id": 96,
+      "img_path": "../static/items/weapons/staffs/chromatic_staff.png",
+      "name": "Chromatic Staff",
+      "category": "staff",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": false,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 240,
+        "agi": 72,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 55,
+        "max_atk_dmg": 57,
+        "wiz_dmg_percent": 62,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]      
+    },
+
+    {
+     "id": 97,
+      "img_path": "../static/items/weapons/staffs/chromatic_staff.png",
+      "name": "Excellent Chromatic Staff",
+      "category": "staff",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 278,
+        "agi": 81,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 69,
+        "max_atk_dmg": 71,
+        "wiz_dmg_percent": 75,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]      
+    },
+
+    {
+     "id": 98,
+      "img_path": "../static/items/weapons/staffs/grand_viper_staff.png",
+      "name": "Grand Viper Staff",
+      "category": "staff",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": false,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 191,
+        "agi": 77,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 66,
+        "max_atk_dmg": 74,
+        "wiz_dmg_percent": 65,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]
+    },
+
+    {
+     "id": 99,
+      "img_path": "../static/items/weapons/staffs/grand_viper_staff.png",
+      "name": "Excellent Grand Viper Staff",
+      "category": "staff",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 221,
+        "agi": 87,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 82,
+        "max_atk_dmg": 90,
+        "wiz_dmg_percent": 78,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "name": "DarkWizard",
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis",
+          "min_evo": 1
+        }
+      ]
+    }
   ]
 }

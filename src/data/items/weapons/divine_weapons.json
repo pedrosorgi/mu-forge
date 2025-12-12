@@ -1,5 +1,5 @@
 {
-  "divine_weapons": [
+  "divine_swords": [
     {
       "id": 1,
       "img_path": "../static/items/weapons/swords/divine_sword_of_archangel.png",
@@ -74,6 +74,88 @@
         },
         {
           "name": "DarkLord", 
+          "min_evo": 1
+        }
+      ]
+    }
+  ],
+
+  "divine_staffs": [
+    {
+      "id": 3,
+      "img_path": "../static/items/weapons/swords/divine_staff_of_archangel.png",
+      "name": "Divine Staff of Archangel",
+      "category": "divine_staff",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 132,
+        "agi": 32,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 153,
+        "max_atk_dmg": 165,
+        "wiz_dmg_percent": 78,
+        "atk_speed": 20
+      },
+
+      "classes": [
+        {
+          "name": "DarkKnight", 
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator", 
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis", 
+          "min_evo": 1
+        }
+      ]      
+    },
+
+    {
+      "id": 4,
+      "img_path": "../static/items/weapons/swords/blessed_divine_staff_of_archangel.png",
+      "name": "Blessed Divine Staff of Archangel",
+      "category": "divine_staff",
+      "one_handed": true,
+      "luck_option": true,
+      "excellent_option": true,
+      "joh_option": true,
+      "jol_option": true,
+      "requirements": {
+        "str": 200,
+        "agi": 44,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 153,
+        "max_atk_dmg": 165,
+        "wiz_dmg_percent": 94,
+        "atk_speed": 45
+      },
+
+      "classes": [
+        {
+          "name": "DarkKnight", 
+          "min_evo": 1
+        },
+        {
+          "name": "MagicGladiator", 
+          "min_evo": 1
+        },
+        {
+          "name": "KundunMephis", 
           "min_evo": 1
         }
       ]
