@@ -1,0 +1,95 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+env/
+ENV/
+.venv/
+pipenv/
+.pipenv/
+poetry.lock
+
+# =========================
+# Build / packaging
+# =========================
+build/
+dist/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# =========================
+# Tests / coverage
+# =========================
+htmlcov/
+.coverage
+.coverage.*
+.cache/
+.pytest_cache/
+.tox/
+.nox/
+tests/__pycache__/
+
+# =========================
+# Logs
+# =========================
+*.log
+uvicorn.log
+pip-log.txt
+
+# =========================
+# Databases
+# =========================
+*.db
+*.sqlite
+*.sqlite3
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# IDEs
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Temp / cache
+# =========================
+temp/
+tmp/
+
+# =========================
+# Environment variables
+# =========================
+.env
+*.env
+
+# =========================
+# Frontend
+# =========================
+node_modules/
+build/
+public/
+
+# =========================
+# Scripts (optional)
+# =========================
+scripts/
+
+# =========================
+# MU Forge proprietary data
+# =========================
+src/data/
+src/data/**

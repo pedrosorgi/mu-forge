@@ -1,0 +1,53 @@
+Copyright (c) 2025 Pedro Sorgi Colossal
+
+All rights reserved.
+
+This repository, named "mu-forge", and all of its contents are the
+exclusive property of the author.
+
+This includes, but is not limited to:
+- All item databases (JSON files)
+- Weapon, armor, accessory, and item definitions
+- Item statistics, requirements, variants, and rules
+- Any structured or normalized data related to MU Online items
+- Any derived data generated from these sources
+
+────────────────────────────────────────────────────────────
+
+RESTRICTIONS
+
+No part of this repository may be used, copied, modified, merged,
+published, distributed, sublicensed, or sold without explicit prior
+written permission from the author.
+
+The following actions are explicitly prohibited:
+
+- Using the database or any part of it to build APIs, websites, tools,
+  services, or applications
+- Redistributing the database or its contents, in original or modified
+  form
+- Using the database as a base for other projects, public or private
+- Commercial use of any kind
+- Extracting, scraping, or repackaging the data for reuse
+
+────────────────────────────────────────────────────────────
+
+PERMITTED USE
+
+This repository is provided for:
+- Viewing
+- Study
+- Evaluation of structure and organization
+
+No other rights are granted.
+
+────────────────────────────────────────────────────────────
+
+DISCLAIMER
+
+This project is an independent, fan-made work.
+MU Online and all related trademarks are the property of their
+respective owners.
+
+This project is not affiliated with, endorsed by, or sponsored by
+Webzen or any other rights holder.
