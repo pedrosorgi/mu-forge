@@ -1,0 +1,1036 @@
+{
+  "divine_swords": [
+    {
+      "id": 1,
+      "img": "divine_sword_of_archangel.png",
+      "slug": "divine-sword-of-archangel",
+      "internal_id": "divine_sword_of_archangel",
+      "name": "Divine Sword of Archangel",
+      "category": "sword",
+      "subcategory": "divine_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 381,
+        "agi": 149,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 220,
+        "max_atk_dmg": 230,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 2,
+      "img": "blessed_divine_sword_of_archangel.png",
+      "slug": "blessed-divine-sword-of-archangel",
+      "internal_id": "blessed_divine_sword_of_archangel",
+      "name": "Blessed Divine Sword of Archangel",
+      "category": "sword",
+      "subcategory": "divine_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 380,
+        "agi": 200,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 265,
+        "max_atk_dmg": 275,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "divine_staffs": [
+    {
+      "id": 3,
+      "img": "divine_staff_of_archangel.png",
+      "slug": "divine-staff-of-archangel",
+      "internal_id": "divine_staff_of_archangel",
+      "name": "Divine Staff of Archangel",
+      "category": "staff",
+      "subcategory": "divine_staff",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 132,
+        "agi": 32,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 153,
+        "max_atk_dmg": 165,
+        "wiz_dmg_percent": 78,
+        "atk_speed": 20
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 4,
+      "img": "blessed_divine_staff_of_archangel.png",
+      "slug": "blessed-divine-staff-of-archangel",
+      "internal_id": "blessed_divine_staff_of_archangel",
+      "name": "Blessed Divine Staff of Archangel",
+      "category": "staff",
+      "subcategory": "divine_staff",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 200,
+        "agi": 44,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 153,
+        "max_atk_dmg": 165,
+        "wiz_dmg_percent": 94,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "divine_blades": [
+    {
+      "id": 5,
+      "img": "archangel_absolute_blade.png",
+      "slug": "archangels-absolute-blade",
+      "internal_id": "archangels_absolute_blade",
+      "name": "Archangel's Absolute Blade",
+      "category": "blade",
+      "subcategory": "divine_blade",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 176,
+        "agi": 290,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 255,
+        "max_atk_dmg": 265,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 6,
+      "img": "archangel_absolute_blade.png",
+      "slug": "blessed-archangels-absolute-blade",
+      "internal_id": "blessed_archangels_absolute_blade",
+      "name": "Blessed Archangel's Absolute Blade",
+      "category": "blade",
+      "subcategory": "divine_blade",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 320,
+        "agi": 530,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 305,
+        "max_atk_dmg": 315,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "divine_magic_guns": [
+    {
+      "id": 7,
+      "img": "archangel_absolute_magic_gun.png",
+      "slug": "archangels-absolute-magic-gun",
+      "internal_id": "archangels_absolute_magic_gun",
+      "name": "Archangel's Absolute Magic Gun",
+      "category": "magic_gun",
+      "subcategory": "divine_magic_gun",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 129,
+        "agi": 54,
+        "ene": 219,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 223,
+        "max_atk_dmg": 235,
+        "wiz_dmg_percent": 65,
+        "atk_speed": 50
+      },
+      "classes": [
+        {
+          "class_id": "gun_crusher",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 8,
+      "img": "blessed_archangel_absolute_magic_gun.png",
+      "slug": "blessed-archangels-absolute-magic-gun",
+      "internal_id": "blessed_archangels_absolute_magic_gun",
+      "name": "Blessed Archangel's Absolute Magic Gun",
+      "category": "magic_gun",
+      "subcategory": "divine_magic_gun",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 170,
+        "agi": 44,
+        "ene": 500,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 223,
+        "max_atk_dmg": 235,
+        "wiz_dmg_percent": 80,
+        "atk_speed": 50
+      },
+      "classes": [
+        {
+          "class_id": "gun_crusher",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "divine_claws": [
+    {
+      "id": 9,
+      "img": "archangel_absolute_claw.png",
+      "slug": "archangels-absolute-claw",
+      "internal_id": "archangels_absolute_claw",
+      "name": "Archangel's Absolute Claw",
+      "category": "claw",
+      "subcategory": "divine_claw",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 224,
+        "agi": 89,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 121,
+        "max_atk_dmg": 130,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "rage_fighter",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 10,
+      "img": "blessed_archangel_absolute_claw.png",
+      "slug": "blessed-archangels-absolute-claw",
+      "internal_id": "blessed_archangels_absolute_claw",
+      "name": "Blessed Archangel's Absolute Claw",
+      "category": "claw",
+      "subcategory": "divine_claw",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 380,
+        "agi": 152,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 136,
+        "max_atk_dmg": 147,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "rage_fighter",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "divine_sticks": [
+    {
+      "id": 11,
+      "img": "divine_stick_of_archangel.png",
+      "slug": "divine-stick-of-archangel",
+      "internal_id": "divine_stick_of_archangel",
+      "name": "Divine Stick of Archangel",
+      "category": "stick",
+      "subcategory": "divine_stick",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 191,
+        "agi": 60,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 153,
+        "max_atk_dmg": 265,
+        "wiz_dmg_percent": 73,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "summoner",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 12,
+      "img": "blessed_divine_stick_of_archangel.png",
+      "slug": "blessed-divine-stick-of-archangel",
+      "internal_id": "blessed_divine_stick_of_archangel",
+      "name": "Blessed Divine Stick of Archangel",
+      "category": "stick",
+      "subcategory": "divine_stick",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 200,
+        "agi": 98,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 153,
+        "max_atk_dmg": 165,
+        "wiz_dmg_percent": 92,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "summoner",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "divine_wands": [
+    {
+      "id": 13,
+      "img": "archangel_absolute_wand.png",
+      "slug": "archangels-absolute-wand",
+      "internal_id": "archangels_absolute_wand",
+      "name": "Archangel's Absolute Wand",
+      "category": "wand",
+      "subcategory": "divine_wand",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 73,
+        "agi": 32,
+        "ene": 119,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 153,
+        "max_atk_dmg": 165,
+        "wiz_dmg_percent": 78,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "alchemist",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 14,
+      "img": "blessed_archangel_absolute_wand.png",
+      "slug": "blessed-archangel-absolute-wand",
+      "internal_id": "blessed_archangel_absolute_wand",
+      "name": "Blessed Archangel's Absolute Wand",
+      "category": "wand",
+      "subcategory": "divine_wand",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 86,
+        "agi": 38,
+        "ene": 149,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 173,
+        "max_atk_dmg": 185,
+        "wiz_dmg_percent": 94,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "alchemist",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "divine_crossbows": [
+    {
+      "id": 15,
+      "img": "divine_crossbow_of_archangel.png",
+      "slug": "divine-crossbow-of-archangel",
+      "internal_id": "divine_crossbow_of_archangel",
+      "name": "Divine Crossbow of Archangel",
+      "category": "crossbow",
+      "subcategory": "divine_crossbow",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 140,
+        "agi": 350,
+        "ene": 0,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 224,
+        "max_atk_dmg": 246,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 16,
+      "img": "blessed_archangel_absolute_crossbow.png",
+      "slug": "blessed-archangel-absolute-crossbow",
+      "internal_id": "blessed_archangel_absolute_crossbow",
+      "name": "Blessed Archangel's Absolute Crossbow",
+      "category": "crossbow",
+      "subcategory": "divine_crossbow",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 260,
+        "agi": 440,
+        "ene": 0,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 345,
+        "max_atk_dmg": 380,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "divine_lances": [
+    {
+      "id": 17,
+      "img": "absolute_archangel_lance.png",
+      "slug": "absolute-archangel-lance",
+      "internal_id": "absolute_archangel_lance",
+      "name": "Absolute Archangel Lance",
+      "category": "lance",
+      "subcategory": "divine_lance",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 215,
+        "agi": 158,
+        "ene": 0,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 115,
+        "max_atk_dmg": 126,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 2
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 18,
+      "img": "blessed_absolute_archangel_lance.png",
+      "slug": "blessed-archangels-absolute-lance",
+      "internal_id": "blessed_archangels_absolute_lance",
+      "name": "Blessed Archangel's Absolute Lance",
+      "category": "lance",
+      "subcategory": "divine_lance",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 392,
+        "agi": 278,
+        "ene": 0,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 173,
+        "max_atk_dmg": 184,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 2
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "divine_scepters": [
+    {
+      "id": 19,
+      "img": "divine_scepter_of_archangel.png",
+      "slug": "divine-scepter-of-archangel",
+      "internal_id": "divine_scepter_of_archangel",
+      "name": "Divine Scepter of Archangel",
+      "category": "scepter",
+      "subcategory": "divine_scepter",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 357,
+        "agi": 92,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 200,
+        "max_atk_dmg": 223,
+        "atk_speed": 45,
+        "pet_dmg_percent": 69
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 2
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 20,
+      "img": "blessed_divine_scepter_of_archangel.png",
+      "slug": "blessed-divine-scepter-of-archangel",
+      "internal_id": "blessed_divine_scepter_of_archangel",
+      "name": "Blessed Divine Scepter of Archangel",
+      "category": "scepter",
+      "subcategory": "divine_scepter",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 470,
+        "agi": 116,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 331,
+        "max_atk_dmg": 341,
+        "atk_speed": 45,
+        "pet_dmg_percent": 87
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 2
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "divine_orbs": [
+    {
+      "id": 21,
+      "img": "absolute_archangel_orb.png",
+      "slug": "absolute-archangel-orb",
+      "internal_id": "absolute_archangel_orb",
+      "name": "Absolute Archangel Orb",
+      "category": "orb",
+      "subcategory": "divine_orb",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 73,
+        "agi": 32,
+        "ene": 119,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 153,
+        "max_atk_dmg": 165,
+        "atk_speed": 30,
+        "wiz_dmg_percent": 103
+      },
+      "classes": [
+        {
+          "class_id": "lemuria",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 22,
+      "img": "blessed_archangel_absolute_orb.png",
+      "slug": "blessed-archangel-absolute-orb",
+      "internal_id": "blessed_archangel_absolute_orb",
+      "name": "Blessed Archangel Absolute Orb",
+      "category": "orb",
+      "subcategory": "divine_orb",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 80,
+        "agi": 38,
+        "ene": 140,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 173,
+        "max_atk_dmg": 185,
+        "atk_speed": 25,
+        "wiz_dmg_percent": 120
+      },
+      "classes": [
+        {
+          "class_id": "lemuria",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "divine_rune_maces": [
+    {
+      "id": 23,
+      "img": "divine_rune_mace_of_archangel.png",
+      "slug": "divine-rune-mace-of-archangel",
+      "internal_id": "divine_rune_mace_of_archangel",
+      "name": "Divine Rune Mace of Archangel",
+      "category": "rune_mace",
+      "subcategory": "divine_rune_mace",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 119,
+        "agi": 32,
+        "ene": 286,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 158,
+        "max_atk_dmg": 170,
+        "atk_speed": 50,
+        "wiz_dmg_percent": 71
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 24,
+      "img": "blessed_divine_rune_mace_of_archangel.png",
+      "slug": "blessed-divine-rune-mace-of-archangel",
+      "internal_id": "blessed_divine_rune_mace_of_archangel",
+      "name": "Blessed Divine Rune Mace of Archangel",
+      "category": "rune_mace",
+      "subcategory": "divine_rune_mace",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 188,
+        "agi": 44,
+        "ene": 652,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 158,
+        "max_atk_dmg": 170,
+        "atk_speed": 50,
+        "wiz_dmg_percent": 80
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "divine_short_swords": [
+    {
+      "id": 25,
+      "img": "divine_short_sword_of_archangel.png",
+      "slug": "divine-short-sword-of-archangel",
+      "internal_id": "divine_short_sword_of_archangel",
+      "name": "Divine Short Sword of Archangel",
+      "category": "short_sword",
+      "subcategory": "divine_short_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 149,
+        "agi": 394,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 220,
+        "max_atk_dmg": 230,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 26,
+      "img": "blessed_divine_short_sword_of_archangel.png",
+      "slug": "blessed-divine-short-sword-of-archangel",
+      "internal_id": "blessed_divine_short_sword_of_archangel",
+      "name": "Blessed Divine Short Sword of Archangel",
+      "category": "short_sword",
+      "subcategory": "divine_short_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 170,
+        "agi": 350,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "min_atk_dmg": 260,
+        "max_atk_dmg": 270,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "divine",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "dark_wizard": {
+    "evo_1": "Dark Wizard",
+    "evo_2": "Soul Master",
+    "evo_3": "Grand Master",
+    "evo_4": "Soul Wizard",
+    "evo_5": "Darkness Wizard"
+  },
+
+  "dark_knight": {
+    "evo_1": "Dark Knight",
+    "evo_2": "Blade Knight",
+    "evo_3": "Blade Master",
+    "evo_4": "Dragon Knight",
+    "evo_5": "Ignition Knight"
+  },
+
+  "fairy_elf": {
+    "evo_1": "Fairy Elf",
+    "evo_2": "Muse Elf",
+    "evo_3": "High Elf",
+    "evo_4": "Noble Elf",
+    "evo_5": "Royal Elf"
+  },
+
+  "magic_gladiator": {
+    "evo_1": null,
+    "evo_2": "Magic Gladiator",
+    "evo_3": "Duel Master",
+    "evo_4": "Magic Knight",
+    "evo_5": "Duple Knight"
+  },
+
+  "dark_lord": {
+    "evo_1": null,
+    "evo_2": "Dark Lord",
+    "evo_3": "Lord Emperor",
+    "evo_4": "Empire Lord",
+    "evo_5": "Force Empire"
+  },
+
+  "summoner": {
+    "evo_1": "Summoner",
+    "evo_2": "Bloody Summoner",
+    "evo_3": "Dimension Master",
+    "evo_4": "Dimension Summoner",
+    "evo_5": "Endless Summoner"
+  },
+
+  "rage_fighter": {
+    "evo_1": null,
+    "evo_2": "Rage Fighter",
+    "evo_3": "Fist Master",
+    "evo_4": "Fist Blazer",
+    "evo_5": "Bloody Fighter"
+  },
+
+  "grow_lancer": {
+    "evo_1": null,
+    "evo_2": "Grow Lancer",
+    "evo_3": "Mirage Lancer",
+    "evo_4": "Shining Lancer",
+    "evo_5": "Arcane Lancer"
+  },
+
+  "rune_wizard": {
+    "evo_1": "Rune Wizard",
+    "evo_2": "Rune Spell Master",
+    "evo_3": "Grand Rune Master",
+    "evo_4": "Majestic Rune Wizard",
+    "evo_5": "Infinity Rune Wizard"
+  },
+
+  "slayer": {
+    "evo_1": "Slayer",
+    "evo_2": "Royal Slayer",
+    "evo_3": "Master Slayer",
+    "evo_4": "Slaughterer",
+    "evo_5": "Rogue Slayer"
+  },
+
+  "gun_crusher": {
+    "evo_1": "Gun Crusher",
+    "evo_2": "Gun Breaker",
+    "evo_3": "Master Gun Breaker",
+    "evo_4": "Heist Gun Crusher",
+    "evo_5": "Magnus Gun Crusher"
+  },
+
+  "kundun_mephis": {
+    "evo_1": "White Wizard",
+    "evo_2": "Light Master",
+    "evo_3": "Shine Wizard",
+    "evo_4": "Luminous Wizard",
+    "evo_5": "Glory Wizard"
+  },
+
+  "lemuria": {
+    "evo_1": "Lemuria",
+    "evo_2": "Wo Mage",
+    "evo_3": "Arch Mage",
+    "evo_4": "Mystic Mage",
+    "evo_5": "Battle Mage"
+  },
+
+  "illusion_knight": {
+    "evo_1": "Illusion Knight",
+    "evo_2": "Mirage Knight",
+    "evo_3": "Illusion Master",
+    "evo_4": "Mystic Knight",
+    "evo_5": "Phantom Pain Knight"
+  },
+
+  "alchemist": {
+    "evo_1": "Alchemist",
+    "evo_2": "Alchemic Magician",
+    "evo_3": "Alchemic Master",
+    "evo_4": "Alchemic Force",
+    "evo_5": "Creator"
+  },
+
+  "crusader": {
+    "evo_1": "Crusader",
+    "evo_2": "Impact Crusader",
+    "evo_3": "Master Paladin",
+    "evo_4": "Sacred Paladin",
+    "evo_5": "Templar Commander"
+  },
+
+  "all": [
+    "Dark Wizard",
+    "Dark Knight",
+    "Fairy Elf",
+    "Magic Gladiator",
+    "Dark Lord",
+    "Summoner",
+    "Rage Fighter",
+    "Grow Lancer",
+    "Rune Wizard",
+    "Slayer",
+    "Gun Crusher",
+    "Kundun Mephis",
+    "Lemuria",
+    "Illusion Knight",
+    "Alchemist",
+    "Crusader"
+  ]
+}

@@ -1,0 +1,2004 @@
+{
+  "elf_ruud_shields": [
+    {
+      "id": 1,
+      "img": "bloodangel_elf_shield.png",
+      "slug": "excellent-bloodangel-elf-shield",
+      "internal_id": "excellent_bloodangel_elf_shield",
+      "name": "Excellent Bloodangel Elf Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 30,
+        "agi": null,
+        "ene": 720,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "def": 30,
+        "def_rate": 112
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 2,
+      "img": "darkangel_elf_shield.png",
+      "slug": "excellent-darkangel-elf-shield",
+      "internal_id": "excellent-darkangel_elf_shield",
+      "name": "Excellent Darkangel Elf Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 36,
+        "agi": null,
+        "ene": 760,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "def": 40,
+        "def_rate": 112
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 3,
+      "img": "holyangel_elf_shield.png",
+      "slug": "excellent-holyangel-elf-shield",
+      "internal_id": "excellent_holyangel_elf_shield",
+      "name": "Excellent Holyangel Elf Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 44,
+        "agi": null,
+        "ene": 840,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "def": 51,
+        "def_rate": 112
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 4,
+      "img": "soul_elf_shield.png",
+      "slug": "excellent-soul-elf-shield",
+      "internal_id": "excellent_soul_elf_shield",
+      "name": "Excellent Soul Elf Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 53,
+        "agi": null,
+        "ene": 920,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "def": 63,
+        "def_rate": 113
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 5,
+      "img": "blue_eye_elf_shield.png",
+      "slug": "excellent-blue-eye-elf-shield",
+      "internal_id": "excellent_blue_eye_elf_shield",
+      "name": "Excellent Blue Eye Elf Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 91,
+        "agi": null,
+        "ene": 922,
+        "cmd": null,
+        "char_level": 1000
+      },
+      "base_stats": {
+        "def": 74,
+        "def_rate": 115
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 6,
+      "img": "silver_heart_elf_shield.png",
+      "slug": "excellent-silver-heart-elf-shield",
+      "internal_id": "excellent_silver_heart_elf_shield",
+      "name": "Excellent Silver Heart Elf Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 92,
+        "agi": null,
+        "ene": 924,
+        "cmd": null,
+        "char_level": 1100
+      },
+      "base_stats": {
+        "def": 86,
+        "def_rate": 117
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 7,
+      "img": "manticore_elf_shield.png",
+      "slug": "excellent-manticore-elf-shield",
+      "internal_id": "excellent_manticore_elf_shield",
+      "name": "Excellent Manticore Elf Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 94,
+        "agi": null,
+        "ene": 926,
+        "cmd": null,
+        "char_level": 1200
+      },
+      "base_stats": {
+        "def": 95,
+        "def_rate": 120
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 8,
+      "img": "brilliant_elf_shield.png",
+      "slug": "excellent-brilliant-elf-shield",
+      "internal_id": "excellent_brilliant_elf_shield",
+      "name": "Excellent Brilliant Elf Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 94,
+        "agi": null,
+        "ene": 926,
+        "cmd": null,
+        "char_level": 1300
+      },
+      "base_stats": {
+        "def": 105,
+        "def_rate": 122
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 9,
+      "img": "apocalypse_elf_shield.png",
+      "slug": "excellent-apocalypse-elf-shield",
+      "internal_id": "excellent_apocalypse_elf_shield",
+      "name": "Excellent Apocalypse Elf Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 94,
+        "agi": null,
+        "ene": 926,
+        "cmd": null,
+        "char_level": 1400
+      },
+      "base_stats": {
+        "def": 117,
+        "def_rate": 122
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 10,
+      "img": "lightning_elf_shield.png",
+      "slug": "excellent-lightning-elf-shield",
+      "internal_id": "excellent_lightning_elf_shield",
+      "name": "Excellent Lightning Elf Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 94,
+        "agi": null,
+        "ene": 926,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "def": 129,
+        "def_rate": 128
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 11,
+      "img": "temple_guard_elf_shield.png",
+      "slug": "excellent-temple-guard-elf-shield",
+      "internal_id": "excellent_temple_guard_elf_shield",
+      "name": "Excellent Temple Guard Elf Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 94,
+        "agi": null,
+        "ene": 926,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "def": 144,
+        "def_rate": 195
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "rune_wizard_ruud_shields": [
+    {
+      "id": 12,
+      "img": "bloodangel_rune_wizard_shield.png",
+      "slug": "excellent-bloodangel-rune-wizard-shield",
+      "internal_id": "excellent_bloodangel_rune_wizard_shield",
+      "name": "Excellent Bloodangel Rune Wizard Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 125,
+        "agi": 56,
+        "ene": null,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "def": 30,
+        "def_rate": 112,
+        "horsepower_percent": 31
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 13,
+      "img": "darkangel_rune_wizard_shield.png",
+      "slug": "excellent-darkangel-rune-wizard-shield",
+      "internal_id": "excellent_darkangel_rune_wizard_shield",
+      "name": "Excellent Darkangel Rune Wizard Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 131,
+        "agi": 58,
+        "ene": null,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "def": 40,
+        "def_rate": 112,
+        "horsepower_percent": 33
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 14,
+      "img": "holyangel_rune_wizard_shield.png",
+      "slug": "excellent-holyangel-rune-wizard-shield",
+      "internal_id": "excellent_holyangel_rune_wizard_shield",
+      "name": "Excellent Holyangel Rune Wizard Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 136,
+        "agi": 63,
+        "ene": null,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "def": 51,
+        "def_rate": 112,
+        "horsepower_percent": 44
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 15,
+      "img": "soul_rune_wizard_shield.png",
+      "slug": "excellent-soul-rune-wizard-shield",
+      "internal_id": "excellent_soul_rune_wizard_shield",
+      "name": "Excellent Soul Rune Wizard Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 141,
+        "agi": 67,
+        "ene": null,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "def": 63,
+        "def_rate": 113,
+        "horsepower_percent": 50
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 16,
+      "img": "blue_eye_rune_wizard_shield.png",
+      "slug": "excellent-blue-eye-rune-wizard-shield",
+      "internal_id": "excellent_blue_eye_rune_wizard_shield",
+      "name": "Excellent Blue Eye Rune Wizard Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 143,
+        "agi": 68,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1000
+      },
+      "base_stats": {
+        "def": 74,
+        "def_rate": 115,
+        "horsepower_percent": 56
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 17,
+      "img": "silver_heart_rune_wizard_shield.png",
+      "slug": "excellent-silver-heart-rune-wizard-shield",
+      "internal_id": "excellent_silver_heart_rune_wizard_shield",
+      "name": "Excellent Silver Heart Rune Wizard Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 145,
+        "agi": 70,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1100
+      },
+      "base_stats": {
+        "def": 86,
+        "def_rate": 117,
+        "horsepower_percent": 62
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 18,
+      "img": "manticore_rune_wizard_shield.png",
+      "slug": "excellent-manticore-rune-wizard-shield",
+      "internal_id": "excellent_manticore_rune_wizard_shield",
+      "name": "Excellent Manticore Rune Wizard Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 147,
+        "agi": 71,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1200
+      },
+      "base_stats": {
+        "def": 95,
+        "def_rate": 120,
+        "horsepower_percent": 68
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 19,
+      "img": "brilliant_rune_wizard_shield.png",
+      "slug": "excellent-brilliant-rune-wizard-shield",
+      "internal_id": "excellent_brilliant_rune_wizard_shield",
+      "name": "Excellent Brilliant Rune Wizard Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 147,
+        "agi": 71,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1300
+      },
+      "base_stats": {
+        "def": 105,
+        "def_rate": 122,
+        "horsepower_percent": 74
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 20,
+      "img": "apocalypse_rune_wizard_shield.png",
+      "slug": "excellent-apocalypse-rune-wizard-shield",
+      "internal_id": "excellent_apocalypse_rune_wizard_shield",
+      "name": "Excellent Apocalypse Rune Wizard Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 147,
+        "agi": 71,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1400
+      },
+      "base_stats": {
+        "def": 117,
+        "def_rate": 125,
+        "horsepower_percent": 81
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 21,
+      "img": "lightning_rune_wizard_shield.png",
+      "slug": "excellent-lightning-rune-wizard-shield",
+      "internal_id": "excellent_lightning_rune_wizard_shield",
+      "name": "Excellent Lightning Rune Wizard Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 147,
+        "agi": 71,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "def": 129,
+        "def_rate": 128,
+        "horsepower_percent": 86
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 22,
+      "img": "temple_guard_rune_wizard_shield.png",
+      "slug": "excellent-temple-guard-rune-wizard-shield",
+      "internal_id": "excellent_temple_guard_rune_wizard_shield",
+      "name": "Excellent Temple Guard Rune Wizard Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 147,
+        "agi": 71,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "def": 144,
+        "def_rate": 195,
+        "horsepower_percent": 149
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "ruud_shields": [
+    {
+      "id": 23,
+      "img": "bloodangel_shield.png",
+      "slug": "excellent-bloodangel-shield",
+      "internal_id": "excellent_bloodangel__shield",
+      "name": "Excellent Bloodangel Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 203,
+        "agi": 151,
+        "ene": 860,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "def": 45,
+        "def_rate": 110
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 24,
+      "img": "darkangel_shield.png",
+      "slug": "excellent-darkangel-shield",
+      "internal_id": "excellent_darkangel_shield",
+      "name": "Excellent Darkangel Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 214,
+        "agi": 153,
+        "ene": 885,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "def": 54,
+        "def_rate": 112
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 25,
+      "img": "holyangel_shield.png",
+      "slug": "excellent-holyangel-shield",
+      "internal_id": "excellent_holyangel_shield",
+      "name": "Excellent Holyangel Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 222,
+        "agi": 155,
+        "ene": 922,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "def": 63,
+        "def_rate": 114
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 26,
+      "img": "soul_shield.png",
+      "slug": "excellent-soul-shield",
+      "internal_id": "excellent_soul_shield",
+      "name": "Excellent Soul Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 236,
+        "agi": 161,
+        "ene": 938,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "def": 72,
+        "def_rate": 116
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 27,
+      "img": "blue_eye_shield.png",
+      "slug": "excellent-blue-eye-shield",
+      "internal_id": "excellent_blue_eye_shield",
+      "name": "Excellent Blue Eye Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 239,
+        "agi": 175,
+        "ene": 940,
+        "cmd": null,
+        "char_level": 1000
+      },
+      "base_stats": {
+        "def": 81,
+        "def_rate": 118
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 28,
+      "img": "silver_heart_shield.png",
+      "slug": "excellent-silver-heart-shield",
+      "internal_id": "excellent_silver_heart_shield",
+      "name": "Excellent Silver Heart Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 245,
+        "agi": 189,
+        "ene": 950,
+        "cmd": null,
+        "char_level": 1100
+      },
+      "base_stats": {
+        "def": 92,
+        "def_rate": 120
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 29,
+      "img": "manticore_shield.png",
+      "slug": "excellent-manticore-shield",
+      "internal_id": "excellent_manticore_shield",
+      "name": "Excellent Manticore Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 245,
+        "agi": 189,
+        "ene": 950,
+        "cmd": null,
+        "char_level": 1200
+      },
+      "base_stats": {
+        "def": 95,
+        "def_rate": 123
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 30,
+      "img": "brilliant_shield.png",
+      "slug": "excellent-brilliant-shield",
+      "internal_id": "excellent_brilliant_shield",
+      "name": "Excellent Brilliant Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 245,
+        "agi": 189,
+        "ene": 950,
+        "cmd": null,
+        "char_level": 1300
+      },
+      "base_stats": {
+        "def": 98,
+        "def_rate": 125
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 31,
+      "img": "apocalypse_shield.png",
+      "slug": "excellent-apocalypse-shield",
+      "internal_id": "excellent_apocalypse_shield",
+      "name": "Excellent Apocalypse Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 245,
+        "agi": 189,
+        "ene": 950,
+        "cmd": null,
+        "char_level": 1400
+      },
+      "base_stats": {
+        "def": 101,
+        "def_rate": 128
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 32,
+      "img": "lightning_shield.png",
+      "slug": "excellent-lightning-shield",
+      "internal_id": "excellent_lightning_shield",
+      "name": "Excellent Lightning Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 245,
+        "agi": 189,
+        "ene": 950,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "def": 104,
+        "def_rate": 131
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 33,
+      "img": "temple_guard_shield.png",
+      "slug": "excellent-temple-guard-shield",
+      "internal_id": "excellent_temple_guard_shield",
+      "name": "Excellent Temple Guard Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 245,
+        "agi": 189,
+        "ene": 950,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "def": 119,
+        "def_rate": 197
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "ruud_lancer_shields": [
+    {
+      "id": 34,
+      "img": "bloodangel_lancer_shield.png",
+      "slug": "excellent-bloodangel-lancer-shield",
+      "internal_id": "excellent_bloodangel_lancer_shield",
+      "name": "Excellent Bloodangel Lancer Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 350,
+        "agi": 245,
+        "ene": null,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "def": 50,
+        "def_rate": 115
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 35,
+      "img": "darkangel_lancer_shield.png",
+      "slug": "excellent-darkangel-lancer-shield",
+      "internal_id": "excellent_darkangel_lancer_shield",
+      "name": "Excellent Darkangel Lancer Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 369,
+        "agi": 258,
+        "ene": null,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "def": 58,
+        "def_rate": 117
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 36,
+      "img": "holyangel_lancer_shield.png",
+      "slug": "excellent-holyangel-lancer-shield",
+      "internal_id": "excellent_holyangel_lancer_shield",
+      "name": "Excellent Holyangel Lancer Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 376,
+        "agi": 259,
+        "ene": null,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "def": 66,
+        "def_rate": 118
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 37,
+      "img": "soul_lancer_shield.png",
+      "slug": "excellent-soul-lancer-shield",
+      "internal_id": "excellent_soul_lancer_shield",
+      "name": "Excellent Soul Lancer Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 384,
+        "agi": 263,
+        "ene": null,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "def": 76,
+        "def_rate": 119
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 38,
+      "img": "blue_eye_lancer_shield.png",
+      "slug": "excellent-blue-eye-lancer-shield",
+      "internal_id": "excellent_blue_eye_lancer_shield",
+      "name": "Excellent Blue Eye Lancer Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 428,
+        "agi": 302,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1000
+      },
+      "base_stats": {
+        "def": 86,
+        "def_rate": 121
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 39,
+      "img": "silver_heart_lancer_shield.png",
+      "slug": "excellent-silver-heart-lancer-shield",
+      "internal_id": "excellent_silver_heart_lancer_shield",
+      "name": "Excellent Silver Heart Lancer Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 435,
+        "agi": 308,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1100
+      },
+      "base_stats": {
+        "def": 96,
+        "def_rate": 123
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 40,
+      "img": "manticore_lancer_shield.png",
+      "slug": "excellent-manticore-lancer-shield",
+      "internal_id": "excellent_manticore_lancer_shield",
+      "name": "Excellent Manticore Lancer Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 435,
+        "agi": 308,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1200
+      },
+      "base_stats": {
+        "def": 106,
+        "def_rate": 125
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 41,
+      "img": "brilliant_lancer_shield.png",
+      "slug": "excellent-brilliant-lancer-shield",
+      "internal_id": "excellent_brilliant_lancer_shield",
+      "name": "Excellent Brilliant Lancer Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 435,
+        "agi": 308,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1300
+      },
+      "base_stats": {
+        "def": 116,
+        "def_rate": 127
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 42,
+      "img": "apocalypse_lancer_shield.png",
+      "slug": "excellent-apocalypse-lancer-shield",
+      "internal_id": "excellent_apocalypse_lancer_shield",
+      "name": "Excellent Apocalypse Lancer Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 435,
+        "agi": 308,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1400
+      },
+      "base_stats": {
+        "def": 126,
+        "def_rate": 129
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 43,
+      "img": "lightning_lancer_shield.png",
+      "slug": "excellent-lightning-lancer-shield",
+      "internal_id": "excellent_lightning_lancer_shield",
+      "name": "Excellent Lightning Lancer Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 435,
+        "agi": 308,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "def": 136,
+        "def_rate": 132
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 44,
+      "img": "temple_guard_lancer_shield.png",
+      "slug": "excellent-temple-guard-lancer-shield",
+      "internal_id": "excellent_temple_guard_lancer_shield",
+      "name": "Excellent Temple Guard Lancer Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 435,
+        "agi": 308,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "def": 151,
+        "def_rate": 198
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "ruud_lord_shields": [
+    {
+      "id": 45,
+      "img": "bloodangel_lord_shield.png",
+      "slug": "excellent-bloodangel-lord-shield",
+      "internal_id": "excellent_bloodangel_lord_shield",
+      "name": "Excellent Bloodangel Lord Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 550,
+        "agi": 114,
+        "ene": null,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "def": 51,
+        "def_rate": 118
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 46,
+      "img": "darkangel_lord_shield.png",
+      "slug": "excellent-darkangel-lord-shield",
+      "internal_id": "excellent_darkangel_lord_shield",
+      "name": "Excellent Darkangel Lord Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 580,
+        "agi": 119,
+        "ene": null,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "def": 59,
+        "def_rate": 119
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 47,
+      "img": "holyangel_lord_shield.png",
+      "slug": "excellent-holyangel-lord-shield",
+      "internal_id": "excellent_holyangel_lord_shield",
+      "name": "Excellent Holyangel Lord Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 585,
+        "agi": 124,
+        "ene": null,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "def": 67,
+        "def_rate": 121
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 48,
+      "img": "soul_lord_shield.png",
+      "slug": "excellent-soul-lord-shield",
+      "internal_id": "excellent_soul_lord_shield",
+      "name": "Excellent Soul Lord Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 593,
+        "agi": 128,
+        "ene": null,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "def": 77,
+        "def_rate": 122
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 49,
+      "img": "blue_eye_lord_shield.png",
+      "slug": "excellent-blue-eye-lord-shield",
+      "internal_id": "excellent_blue_eye_lord_shield",
+      "name": "Excellent Blue Eye Lord Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 673,
+        "agi": 155,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1000
+      },
+      "base_stats": {
+        "def": 87,
+        "def_rate": 124
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 50,
+      "img": "silver_heart_lord_shield.png",
+      "slug": "excellent-silver-heart-lord-shield",
+      "internal_id": "excellent_silver_heart_lord_shield",
+      "name": "Excellent Silver Heart Lord Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 687,
+        "agi": 157,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1100
+      },
+      "base_stats": {
+        "def": 97,
+        "def_rate": 125
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 51,
+      "img": "manticore_lord_shield.png",
+      "slug": "excellent-manticore-lord-shield",
+      "internal_id": "excellent_manticore_lord_shield",
+      "name": "Excellent Manticore Lord Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 687,
+        "agi": 157,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1200
+      },
+      "base_stats": {
+        "def": 107,
+        "def_rate": 127
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 52,
+      "img": "brilliant_lord_shield.png",
+      "slug": "excellent-brilliant-lord-shield",
+      "internal_id": "excellent_brilliant_lord_shield",
+      "name": "Excellent Brilliant Lord Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 687,
+        "agi": 157,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1300
+      },
+      "base_stats": {
+        "def": 117,
+        "def_rate": 129
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 53,
+      "img": "apocalypse_lord_shield.png",
+      "slug": "excellent-apocalypse-lord-shield",
+      "internal_id": "excellent_apocalypse_lord_shield",
+      "name": "Excellent Apocalypse Lord Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 687,
+        "agi": 157,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1400
+      },
+      "base_stats": {
+        "def": 127,
+        "def_rate": 131
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 54,
+      "img": "lightning_lord_shield.png",
+      "slug": "excellent-lightning-lord-shield",
+      "internal_id": "excellent_lightning_lord_shield",
+      "name": "Excellent Lightning Lord Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 687,
+        "agi": 157,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "def": 137,
+        "def_rate": 134
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 55,
+      "img": "temple_guard_lord_shield.png",
+      "slug": "excellent-temple-guard-lord-shield",
+      "internal_id": "excellent_temple_guard_lord_shield",
+      "name": "Excellent Temple Guard Lord Shield",
+      "category": "shield",
+      "subcategory": "ruud_shield",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 687,
+        "agi": 157,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "def": 152,
+        "def_rate": 200
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "ruud_crusader_shields": []
+}

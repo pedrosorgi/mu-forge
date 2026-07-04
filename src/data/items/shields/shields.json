@@ -1,0 +1,2123 @@
+{
+  "shields": [
+    {
+      "id": 1,
+      "img": "small_shield.png",
+      "slug": "small-shield",
+      "internal_id": "small_shield",
+      "name": "Small Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 26,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 1,
+        "def_rate": 3
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_wizard",
+          "min_evo": 1
+        },
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 1
+        },
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        },
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 1
+        },
+        {
+          "class_id": "lemuria",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 2,
+      "img": "small_shield.png",
+      "slug": "excellent-small-shield",
+      "base_item": "small_shield",
+      "internal_id": "excellent_small_shield",
+      "name": "Excellent Small Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 78,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 1,
+        "def_rate": 33
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_wizard",
+          "min_evo": 1
+        },
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 1
+        },
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        },
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 1
+        },
+        {
+          "class_id": "lemuria",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 3,
+      "img": "buckler.png",
+      "slug": "buckler",
+      "internal_id": "buckler",
+      "name": "Buckler",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 34,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 2,
+        "def_rate": 6
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_wizard",
+          "min_evo": 1
+        },
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 1
+        },
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        },
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 1
+        },
+        {
+          "class_id": "lemuria",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 4,
+      "img": "buckler.png",
+      "slug": "excellent-buckler",
+      "base_item": "buckler",
+      "internal_id": "excellent_buckler",
+      "name": "Excellent Buckler",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 94,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 2,
+        "def_rate": 36
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_wizard",
+          "min_evo": 1
+        },
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 1
+        },
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        },
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 1
+        },
+        {
+          "class_id": "lemuria",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 5,
+      "img": "horn_shield.png",
+      "slug": "horn-shield",
+      "internal_id": "horn_shield",
+      "name": "Horn Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 47,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 3,
+        "def_rate": 9
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        },
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 6,
+      "img": "horn_shield.png",
+      "slug": "excellent-horn-shield",
+      "base_item": "horn_shield",
+      "internal_id": "excellent_horn_shield",
+      "name": "Excellent Horn Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 122,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 3,
+        "def_rate": 39
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        },
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 7,
+      "img": "kite_shield.png",
+      "slug": "kite-shield",
+      "internal_id": "kite_shield",
+      "name": "Kite Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 59,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 4,
+        "def_rate": 12
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        },
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 8,
+      "img": "kite_shield.png",
+      "slug": "excellent-kite-shield",
+      "base_item": "kite_shield",
+      "internal_id": "excellent_kite_shield",
+      "name": "Excellent Kite Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 142,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 4,
+        "def_rate": 42
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        },
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 9,
+      "img": "skull_shield.png",
+      "slug": "skull-shield",
+      "internal_id": "skull_shield",
+      "name": "Skull Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 69,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 5,
+        "def_rate": 15
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_wizard",
+          "min_evo": 1
+        },
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        },
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 1
+        },
+        {
+          "class_id": "lemuria",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 10,
+      "img": "skull_shield.png",
+      "slug": "excellent-skull-shield",
+      "base_item": "skull_shield",
+      "internal_id": "excellent_skull_shield",
+      "name": "Excellent Skull Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 152,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 5,
+        "def_rate": 45
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_wizard",
+          "min_evo": 1
+        },
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        },
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 1
+        },
+        {
+          "class_id": "lemuria",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 11,
+      "img": "alacran_shield.png",
+      "slug": "alacran-shield",
+      "internal_id": "alacran_shield",
+      "name": "Alacran Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 164,
+        "agi": 140,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 5,
+        "def_rate": 83
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 12,
+      "img": "alacran_shield.png",
+      "slug": "excellent-alacran-shield",
+      "base_item": "alacran_shield",
+      "internal_id": "excellent_alacran_shield",
+      "name": "Excellent Alacran Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 254,
+        "agi": 215,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 5,
+        "def_rate": 139
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 13,
+      "img": "large_round_shield.png",
+      "slug": "large-round-shield",
+      "internal_id": "large_round_shield",
+      "name": "Large Round Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 84,
+        "agi": 140,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 6,
+        "def_rate": 18
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 14,
+      "img": "large_round_shield.png",
+      "slug": "excellent-large-round-shield",
+      "base_item": "large_round_shield",
+      "internal_id": "excellent_large_round_shield",
+      "name": "Excellent Large Round Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 174,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 6,
+        "def_rate": 48
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 15,
+      "img": "legendary_shield.png",
+      "slug": "legendary-shield",
+      "internal_id": "legendary_shield",
+      "name": "Legendary Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 149,
+        "agi": 56,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 7,
+        "def_rate": 48
+      },
+      "classes": [
+        {
+          "class_id": "dark_wizard",
+          "min_evo": 1
+        },
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "lemuria",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 16,
+      "img": "legendary_shield.png",
+      "slug": "excellent-legendary-shield",
+      "base_item": "legendary_shield",
+      "internal_id": "excellent-legendary_shield",
+      "name": "Excellent Legendary Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 217,
+        "agi": 74,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 7,
+        "def_rate": 78
+      },
+      "classes": [
+        {
+          "class_id": "dark_wizard",
+          "min_evo": 1
+        },
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "lemuria",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 17,
+      "img": "elven_shield.png",
+      "slug": "elven-shield",
+      "internal_id": "elven_shield",
+      "name": "Elven Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 38,
+        "agi": 83,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 8,
+        "def_rate": 21
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 1
+        },
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 18,
+      "img": "elven_shield.png",
+      "slug": "excellent-elven-shield",
+      "base_item": "elven_shield",
+      "internal_id": "excellent_elven_shield",
+      "name": "Excellent Elven Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 61,
+        "agi": 158,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 8,
+        "def_rate": 51
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 1
+        },
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 19,
+      "img": "plate_shield.png",
+      "slug": "plate-shield",
+      "internal_id": "plate_shield",
+      "name": "Plate Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 110,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 8,
+        "def_rate": 25
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        },
+        {
+          "class_id": "crusader",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 20,
+      "img": "plate_shield.png",
+      "slug": "excellent-plate-shield",
+      "base_item": "plate_shield",
+      "internal_id": "excellent_plate_shield",
+      "name": "Excellent Plate Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 200,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 8,
+        "def_rate": 55
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        },
+        {
+          "class_id": "crusader",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 21,
+      "img": "spiked_shield.png",
+      "slug": "spiked-shield",
+      "internal_id": "spiked_shield",
+      "name": "Spiked Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 137,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 9,
+        "def_rate": 30
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 22,
+      "img": "spiked_shield.png",
+      "slug": "excellent-spiked-shield",
+      "base_item": "spiked_shield",
+      "internal_id": "excellent_spiked_shield",
+      "name": "Excellent Spiked Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 234,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 9,
+        "def_rate": 60
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 23,
+      "img": "dragon_slayer_shield.png",
+      "slug": "dragon-slayer-shield",
+      "internal_id": "dragon_slayer_shield",
+      "name": "Dragon Slayer Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 125,
+        "agi": 62,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 10,
+        "def_rate": 36
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        },
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 1
+        },
+        {
+          "class_id": "crusader",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 24,
+      "img": "dragon_slayer_shield.png",
+      "slug": "excellent-dragon-slayer-shield",
+      "base_item": "dragon_slayer_shield",
+      "internal_id": "excellent_dragon_slayer_shield",
+      "name": "Excellent Dragon Slayer Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 200,
+        "agi": 92,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 10,
+        "def_rate": 66
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        },
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 1
+        },
+        {
+          "class_id": "crusader",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 25,
+      "img": "tower_shield.png",
+      "slug": "tower-shield",
+      "internal_id": "tower_shield",
+      "name": "Tower Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 176,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 11,
+        "def_rate": 40
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        },
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 1
+        },
+        {
+          "class_id": "crusader",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 26,
+      "img": "tower_shield.png",
+      "slug": "excellent-tower-shield",
+      "base_item": "tower_shield",
+      "internal_id": "excellent_tower_shield",
+      "name": "Excellent Tower Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 273,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 11,
+        "def_rate": 70
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        },
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 1
+        },
+        {
+          "class_id": "crusader",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 27,
+      "img": "elemental_shield.png",
+      "slug": "elemental-shield",
+      "internal_id": "elemental_shield",
+      "name": "Elemental Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 79,
+        "agi": 138,
+        "ene": 99,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 11,
+        "def_rate": 28
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 1
+        },
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 28,
+      "img": "elemental_shield.png",
+      "slug": "excellent-elemental-shield",
+      "base_item": "elemental_shield",
+      "internal_id": "excellent_elemental_shield",
+      "name": "Excellent Elemental Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 101,
+        "agi": 183,
+        "ene": 129,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 11,
+        "def_rate": 43
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 1
+        },
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 29,
+      "img": "lapid_shield.png",
+      "slug": "lapid-shield",
+      "internal_id": "lapid_shield",
+      "name": "Lapid Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 47,
+        "agi": 51,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 11,
+        "def_rate": 33
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 30,
+      "img": "lapid_shield.png",
+      "slug": "excellent-lapid-shield",
+      "base_item": "lapid_shield",
+      "internal_id": "excellent_lapid_shield",
+      "name": "Excellent Lapid Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 99,
+        "agi": 111,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 11,
+        "def_rate": 101
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 31,
+      "img": "grand_soul_shield.png",
+      "slug": "grand-soul-shield",
+      "internal_id": "grand_soul_shield",
+      "name": "Grand Soul Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 175,
+        "agi": 71,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 12,
+        "def_rate": 55
+      },
+      "classes": [
+        {
+          "class_id": "dark_wizard",
+          "min_evo": 2
+        },
+        {
+          "class_id": "lemuria",
+          "min_evo": 2
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 32,
+      "img": "grand_soul_shield.png",
+      "slug": "excellent-grand-soul-shield",
+      "base_item": "grand_soul_shield",
+      "internal_id": "excellent_grand_soul_shield",
+      "name": "Excellent Grand Soul Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 227,
+        "agi": 88,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 12,
+        "def_rate": 78
+      },
+      "classes": [
+        {
+          "class_id": "dark_wizard",
+          "min_evo": 2
+        },
+        {
+          "class_id": "lemuria",
+          "min_evo": 2
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 33,
+      "img": "serpent_shield.png",
+      "slug": "serpent-shield",
+      "internal_id": "serpent_shield",
+      "name": "Serpent Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 195,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 12,
+        "def_rate": 45
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        },
+        {
+          "class_id": "crusader",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 34,
+      "img": "serpent_shield.png",
+      "slug": "excellent-serpent-shield",
+      "base_item": "serpent_shield",
+      "internal_id": "excellent_serpent_shield",
+      "name": "Excellent Serpent Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 293,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 12,
+        "def_rate": 75
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "dark_lord",
+          "min_evo": 1
+        },
+        {
+          "class_id": "crusader",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 35,
+      "img": "bronze_shield.png",
+      "slug": "bronze-shield",
+      "internal_id": "bronze_shield",
+      "name": "Bronze Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 246,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 13,
+        "def_rate": 54
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "crusader",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 36,
+      "img": "bronze_shield.png",
+      "slug": "excellent-bronze-shield",
+      "base_item": "bronze_shield",
+      "internal_id": "excellent_bronze_shield",
+      "name": "Excellent Bronze Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 351,
+        "agi": null,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 13,
+        "def_rate": 84
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        },
+        {
+          "class_id": "crusader",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 37,
+      "img": "dragon_shield.png",
+      "slug": "dragon-shield",
+      "internal_id": "dragon_shield",
+      "name": "Dragon Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 236,
+        "agi": 92,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 14,
+        "def_rate": 60
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 38,
+      "img": "dragon_shield.png",
+      "slug": "excellent-dragon-shield",
+      "base_item": "dragon_shield",
+      "internal_id": "excellent_dragon_shield",
+      "name": "Excellent Dragon Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 326,
+        "agi": 122,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 14,
+        "def_rate": 90
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 1
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 1
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 39,
+      "img": "el_hazard_shield.png",
+      "slug": "el-hazard-shield",
+      "internal_id": "el_hazard_shield",
+      "name": "El Hazard Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 83,
+        "agi": 41,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 15,
+        "def_rate": 62
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 2
+        },
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 2
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 40,
+      "img": "el_hazard_shield.png",
+      "slug": "excellent-el-hazard-shield",
+      "base_item": "el_hazard_shield",
+      "internal_id": "excellent_el_hazard_shield",
+      "name": "Excellent El Hazard Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 105,
+        "agi": 48,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 15,
+        "def_rate": 89
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 2
+        },
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 2
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 41,
+      "img": "cross_shield.png",
+      "slug": "cross-shield",
+      "internal_id": "cross_shield",
+      "name": "Cross Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 314,
+        "agi": 135,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 16,
+        "def_rate": 75
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 2
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 42,
+      "img": "cross_shield.png",
+      "slug": "excellent-cross-shield",
+      "base_item": "cross_shield",
+      "internal_id": "excellent_cross_shield",
+      "name": "Excellent Cross Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 419,
+        "agi": 176,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 16,
+        "def_rate": 106
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 2
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 43,
+      "img": "pluma_shield.png",
+      "slug": "pluma-shield",
+      "internal_id": "pluma_shield",
+      "name": "Pluma Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 251,
+        "agi": 282,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 25,
+        "def_rate": 75
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 2
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 44,
+      "img": "pluma_shield.png",
+      "slug": "excellent-pluma-shield",
+      "base_item": "pluma_shield",
+      "internal_id": "excellent_pluma_shield",
+      "name": "Excellent Pluma Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 333,
+        "agi": 376,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 25,
+        "def_rate": 106
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 2
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 45,
+      "img": "vis_shield.png",
+      "slug": "vis-shield",
+      "internal_id": "vis_shield",
+      "name": "Vis Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 400,
+        "agi": 272,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 30,
+        "def_rate": 80
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 2
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 46,
+      "img": "vis_shield.png",
+      "slug": "excellent-vis-shield",
+      "base_item": "vis_shield",
+      "internal_id": "excellent_vis_shield",
+      "name": "Excellent Vis Shield",
+      "category": "shield",
+      "subcategory": null,
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 527,
+        "agi": 356,
+        "ene": null,
+        "cmd": null,
+        "char_level": null
+      },
+      "base_stats": {
+        "def": 30,
+        "def_rate": 111
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 2
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "shields",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ]
+}

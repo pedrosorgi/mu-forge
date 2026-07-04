@@ -1,0 +1,37 @@
+{
+  "socket_swords": [
+    {
+      "id": 1,
+      "img": "sword_breaker.png",
+      "slug": "sword-breaker",
+      "internal_id": "sword_breaker",
+      "name": "Short Sword",
+      "category": "socket_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 231,
+        "agi": 722,
+        "ene": null,
+        "cmd": null,
+        "char_level": 380
+      },
+      "base_stats": {
+        "min_atk_dmg": 91,
+        "max_atk_dmg": 99,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 2
+        }
+      ],
+      "rarity": "socket",
+      "allowed_options": {
+        "luck": true,
+        "joh": true,
+        "jol": true
+      }
+    }    
+  ]
+}

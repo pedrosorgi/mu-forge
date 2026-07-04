@@ -1,0 +1,7649 @@
+{
+  "ruud_swords": [
+    {
+      "id": 1,
+      "img": "bloodangel_magic_sword.png",
+      "slug": "excellent-bloodangel-magic-sword",
+      "internal_id": "excellent_bloodangel_magic_sword",
+      "name": "Excellent Bloodangel Magic Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 650,
+        "agi": 398,
+        "ene": 139,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "min_atk_dmg": 293,
+        "max_atk_dmg": 303,
+        "wiz_dmg_percent": 67,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 2,
+      "img": "bloodangel_sword.png",
+      "slug": "excellent-bloodangel-sword",
+      "internal_id": "excellent_bloodangel_sword",
+      "name": "Excellent Bloodangel Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 886,
+        "agi": 287,
+        "ene": 874,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "min_atk_dmg": 300,
+        "max_atk_dmg": 310,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 2
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 3,
+      "img": "darkangel_magic_sword.png",
+      "slug": "excellent-darkangel-magic-sword",
+      "internal_id": "excellent_darkangel_magic_sword",
+      "name": "Excellent Darkangel Magic Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 686,
+        "agi": 419,
+        "ene": 114,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "min_atk_dmg": 351,
+        "max_atk_dmg": 361,
+        "wiz_dmg_percent": 70,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 4,
+      "img": "darkangel_sword.png",
+      "slug": "excellent-darkangel-sword",
+      "internal_id": "excellent_darkangel_sword",
+      "name": "Excellent Darkangel Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "variants": {
+          "str": {
+            "str": 935,
+            "agi": 303,
+            "ene": null,
+            "cmd": null,
+            "char_level": 600
+          },
+          "ene": {
+            "str": null,
+            "agi": 303,
+            "ene": 885,
+            "cmd": null,
+            "char_level": 600
+          }
+        }
+      },
+      "base_stats": {
+        "min_atk_dmg": 354,
+        "max_atk_dmg": 365,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 5,
+      "img": "darkangel_magic_2h_sword.png",
+      "slug": "excellent-darkangel-magic-twohanded-sword",
+      "internal_id": "excellent_darkangel_magic_twohanded_sword",
+      "name": "Excellent Darkangel Magic Two-Handed Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "both_hands",
+      "requirements": {
+        "str": 686,
+        "agi": 419,
+        "ene": 114,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "min_atk_dmg": 410,
+        "max_atk_dmg": 441,
+        "wiz_dmg_percent": 70,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 6,
+      "img": "holyangel_magic_sword.png",
+      "slug": "excellent-holyangel-magic-sword",
+      "internal_id": "excellent_holyangel_magic_sword",
+      "name": "Excellent Holyangel Magic Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 702,
+        "agi": 432,
+        "ene": 151,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "min_atk_dmg": 419,
+        "max_atk_dmg": 430,
+        "wiz_dmg_percent": 73,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 7,
+      "img": "holyangel_sword.png",
+      "slug": "excellent-holyangel-sword",
+      "internal_id": "excellent_holyangel_sword",
+      "name": "Excellent Holyangel Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "variants": {
+          "str": {
+            "str": 954,
+            "agi": 309,
+            "ene": null,
+            "cmd": null,
+            "char_level": 800
+          },
+          "ene": {
+            "str": null,
+            "agi": 309,
+            "ene": 905,
+            "cmd": null,
+            "char_level": 800
+          }
+        }
+      },
+      "base_stats": {
+        "min_atk_dmg": 420,
+        "max_atk_dmg": 431,
+        "wiz_dmg_percent": 73,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 8,
+      "img": "holyangel_magic_2h_sword.png",
+      "slug": "excellent-holyangel-magic-twohanded-sword",
+      "internal_id": "excellent_holyangel_magic_twohanded_sword",
+      "name": "Excellent Holyangel Magic Two-Handed Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "both_hands",
+      "requirements": {
+        "str": 702,
+        "agi": 432,
+        "ene": 151,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "min_atk_dmg": 489,
+        "max_atk_dmg": 527,
+        "wiz_dmg_percent": 73,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 9,
+      "img": "soul_magic_sword.png",
+      "slug": "excellent-soul-magic-sword",
+      "internal_id": "excellent_soul_magic_sword",
+      "name": "Excellent Soul Magic Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 715,
+        "agi": 438,
+        "ene": 155,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "min_atk_dmg": 485,
+        "max_atk_dmg": 496,
+        "wiz_dmg_percent": 77,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 10,
+      "img": "soul_sword.png",
+      "slug": "excellent-soul-sword",
+      "internal_id": "excellent_soul_sword",
+      "name": "Excellent Soul Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "variants": {
+          "str": {
+            "str": 971,
+            "agi": 317,
+            "ene": null,
+            "cmd": null,
+            "char_level": 900
+          },
+          "ene": {
+            "str": null,
+            "agi": 317,
+            "ene": 920,
+            "cmd": null,
+            "char_level": 900
+          }
+        }
+      },
+      "base_stats": {
+        "min_atk_dmg": 486,
+        "max_atk_dmg": 497,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 11,
+      "img": "blue_eye_magic_sword.png",
+      "slug": "excellent-blue-eye-magic-sword",
+      "internal_id": "excellent_blue_eye_magic_sword",
+      "name": "Excellent Blue Eye Magic Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 731,
+        "agi": 448,
+        "ene": 156,
+        "cmd": null,
+        "char_level": 1000
+      },
+      "base_stats": {
+        "min_atk_dmg": 551,
+        "max_atk_dmg": 561,
+        "wiz_dmg_percent": 80,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 12,
+      "img": "blue_eye_sword.png",
+      "slug": "excellent-blue-eye-sword",
+      "internal_id": "excellent_blue_eye_sword",
+      "name": "Excellent Blue Eye Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "variants": {
+          "str": {
+            "str": 994,
+            "agi": 322,
+            "ene": null,
+            "cmd": null,
+            "char_level": 1000
+          },
+          "ene": {
+            "str": null,
+            "agi": 322,
+            "ene": 920,
+            "cmd": null,
+            "char_level": 1000
+          }
+        }
+      },
+      "base_stats": {
+        "min_atk_dmg": 552,
+        "max_atk_dmg": 562,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 13,
+      "img": "soul_magic_2h_sword.png",
+      "slug": "excellent-soul-magic-twohanded-sword",
+      "internal_id": "excellent_soul_magic_twohanded_sword",
+      "name": "Excellent Soul Magic Two-Handed Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "both_hands",
+      "requirements": {
+        "str": 715,
+        "agi": 438,
+        "ene": 155,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "min_atk_dmg": 566,
+        "max_atk_dmg": 609,
+        "wiz_dmg_percent": 77,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 14,
+      "img": "silver_heart_magic_sword.png",
+      "slug": "excellent-silver-heart-magic-sword",
+      "internal_id": "excellent_silver_heart_magic_sword",
+      "name": "Excellent Silver Heart Magic Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 743,
+        "agi": 458,
+        "ene": 164,
+        "cmd": null,
+        "char_level": 1100
+      },
+      "base_stats": {
+        "min_atk_dmg": 617,
+        "max_atk_dmg": 627,
+        "wiz_dmg_percent": 80,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 15,
+      "img": "blue_eye_magic_2h_sword.png",
+      "slug": "excellent-blue-eye-magic-twohanded-sword",
+      "internal_id": "excellent_blue_eye_magic_twohanded_sword",
+      "name": "Excellent Blue Eye Magic Two-Handed Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "both_hands",
+      "requirements": {
+        "str": 731,
+        "agi": 448,
+        "ene": 156,
+        "cmd": null,
+        "char_level": 1000
+      },
+      "base_stats": {
+        "min_atk_dmg": 679,
+        "max_atk_dmg": 729,
+        "wiz_dmg_percent": 80,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 16,
+      "img": "manticore_magic_sword.png",
+      "slug": "excellent-manticore-magic-sword",
+      "internal_id": "excellent_manticore_magic_sword",
+      "name": "Excellent Manticore Magic Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 743,
+        "agi": 458,
+        "ene": 164,
+        "cmd": null,
+        "char_level": 1200
+      },
+      "base_stats": {
+        "min_atk_dmg": 683,
+        "max_atk_dmg": 693,
+        "wiz_dmg_percent": 89,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 17,
+      "img": "manticore_sword.png",
+      "slug": "excellent-manticore-sword",
+      "internal_id": "excellent_manticore_sword",
+      "name": "Excellent Manticore Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "variants": {
+          "str": {
+            "str": 1006,
+            "agi": 327,
+            "ene": null,
+            "cmd": null,
+            "char_level": 1200
+          },
+          "ene": {
+            "str": null,
+            "agi": 327,
+            "ene": 936,
+            "cmd": null,
+            "char_level": 1200
+          }
+        }
+      },
+      "base_stats": {
+        "min_atk_dmg": 684,
+        "max_atk_dmg": 696,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 18,
+      "img": "brilliant_magic_sword.png",
+      "slug": "excellent-brilliant-magic-sword",
+      "internal_id": "excellent_brilliant_magic_sword",
+      "name": "Excellent Brilliant Magic Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 743,
+        "agi": 458,
+        "ene": 164,
+        "cmd": null,
+        "char_level": 1300
+      },
+      "base_stats": {
+        "min_atk_dmg": 748,
+        "max_atk_dmg": 758,
+        "wiz_dmg_percent": 93,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 19,
+      "img": "brilliant_sword.png",
+      "slug": "excellent-brilliant-sword",
+      "internal_id": "excellent_brilliant_sword",
+      "name": "Excellent Brilliant Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "variants": {
+          "str": {
+            "str": 1006,
+            "agi": 327,
+            "ene": null,
+            "cmd": null,
+            "char_level": 1300
+          },
+          "ene": {
+            "str": null,
+            "agi": 327,
+            "ene": 936,
+            "cmd": null,
+            "char_level": 1300
+          }
+        }
+      },
+      "base_stats": {
+        "min_atk_dmg": 750,
+        "max_atk_dmg": 763,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 20,
+      "img": "silver_heart_magic_2h_sword.png",
+      "slug": "excellent-silver-heart-magic-twohanded-sword",
+      "internal_id": "excellent_silver_heart_magic_twohanded_sword",
+      "name": "Excellent Silver Heart Magic Two-Handed Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "both_hands",
+      "requirements": {
+        "str": 743,
+        "agi": 458,
+        "ene": 164,
+        "cmd": null,
+        "char_level": 1100
+      },
+      "base_stats": {
+        "min_atk_dmg": 790,
+        "max_atk_dmg": 840,
+        "wiz_dmg_percent": 80,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 21,
+      "img": "apocalypse_magic_sword.png",
+      "slug": "excellent-apocalypse-magic-sword",
+      "internal_id": "excellent_apocalypse_magic_sword",
+      "name": "Excellent Apocalypse Magic Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "both_hands",
+      "requirements": {
+        "str": 743,
+        "agi": 458,
+        "ene": 164,
+        "cmd": null,
+        "char_level": 1400
+      },
+      "base_stats": {
+        "min_atk_dmg": 814,
+        "max_atk_dmg": 824,
+        "wiz_dmg_percent": 97,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 22,
+      "img": "apocalypse_sword.png",
+      "slug": "excellent-apocalypse-sword",
+      "internal_id": "excellent_apocalypse_sword",
+      "name": "Excellent Apocalypse Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "variants": {
+          "str": {
+            "str": 1006,
+            "agi": 327,
+            "ene": null,
+            "cmd": null,
+            "char_level": 1400
+          },
+          "ene": {
+            "str": null,
+            "agi": 327,
+            "ene": 936,
+            "cmd": null,
+            "char_level": 1400
+          }
+        }
+      },
+      "base_stats": {
+        "min_atk_dmg": 815,
+        "max_atk_dmg": 829,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 23,
+      "img": "lightning_magic_sword.png",
+      "slug": "excellent-lightning-magic-sword",
+      "internal_id": "excellent_lightning_magic_sword",
+      "name": "Excellent Lightning Magic Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 743,
+        "agi": 458,
+        "ene": 164,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 880,
+        "max_atk_dmg": 890,
+        "wiz_dmg_percent": 102,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 24,
+      "img": "lightning_sword.png",
+      "slug": "excellent-lightning-sword",
+      "internal_id": "excellent_lightning_sword",
+      "name": "Excellent Lightning Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "variants": {
+          "str": {
+            "str": 1006,
+            "agi": 327,
+            "ene": null,
+            "cmd": null,
+            "char_level": 1500
+          },
+          "ene": {
+            "str": null,
+            "agi": 327,
+            "ene": 936,
+            "cmd": null,
+            "char_level": 1500
+          }
+        }
+      },
+      "base_stats": {
+        "min_atk_dmg": 880,
+        "max_atk_dmg": 895,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 25,
+      "img": "manticore_magic_2h_sword.png",
+      "slug": "excellent-manticore-magic-twohanded-sword",
+      "internal_id": "excellent_manticore_magic_twohanded_sword",
+      "name": "Excellent Manticore Magic Two-Handed Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "both_hands",
+      "requirements": {
+        "str": 743,
+        "agi": 458,
+        "ene": 164,
+        "cmd": null,
+        "char_level": 1200
+      },
+      "base_stats": {
+        "min_atk_dmg": 899,
+        "max_atk_dmg": 949,
+        "wiz_dmg_percent": 89,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 26,
+      "img": "temple_guard_magic_sword.png",
+      "slug": "excellent-temple-guard-magic-sword",
+      "internal_id": "excellent_temple_guard_magic_sword",
+      "name": "Excellent Temple Guard Magic Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 743,
+        "agi": 458,
+        "ene": 164,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 946,
+        "max_atk_dmg": 956,
+        "wiz_dmg_percent": 110,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 27,
+      "img": "temple_guard_sword.png",
+      "slug": "excellent-temple-guard-sword",
+      "internal_id": "excellent_temple_guard_sword",
+      "name": "Excellent Temple Guard Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 1006,
+        "agi": 327,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 946,
+        "max_atk_dmg": 961,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 28,
+      "img": "temple_guard_sword.png",
+      "slug": "excellent-temple-guard-belief-sword",
+      "internal_id": "excellent_temple_guard_belief_sword",
+      "name": "Excellent Temple Guard Belief Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 52,
+        "agi": 327,
+        "ene": 936,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 946,
+        "max_atk_dmg": 961,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "class_id": "dark_knight",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 29,
+      "img": "brilliant_magic_2h_sword.png",
+      "slug": "excellent-brilliant-magic-twohanded-sword",
+      "internal_id": "excellent_brilliant_magic_twohanded_sword",
+      "name": "Excellent Brilliant Magic Two-Handed Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "both_hands",
+      "requirements": {
+        "str": 743,
+        "agi": 458,
+        "ene": 164,
+        "cmd": null,
+        "char_level": 1300
+      },
+      "base_stats": {
+        "min_atk_dmg": 1008,
+        "max_atk_dmg": 1058,
+        "wiz_dmg_percent": 93,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 30,
+      "img": "apocalypse_magic_2h_sword.png",
+      "slug": "excellent-apocalypse-magic-two-hand-sword",
+      "internal_id": "excellent_apocalypse_magic_two_hand_sword",
+      "name": "Excellent Apocalypse Magic Two Hand Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "both_hands",
+      "requirements": {
+        "str": 743,
+        "agi": 458,
+        "ene": 164,
+        "cmd": null,
+        "char_level": 1400
+      },
+      "base_stats": {
+        "min_atk_dmg": 1116,
+        "max_atk_dmg": 1166,
+        "wiz_dmg_percent": 97,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 31,
+      "img": "lightning_2h_sword.png",
+      "slug": "excellent-lightning-twohanded-sword",
+      "internal_id": "excellent_lightning_twohanded_sword",
+      "name": "Excellent Lightning Two-Handed Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "both_hands",
+      "requirements": {
+        "str": 743,
+        "agi": 458,
+        "ene": 164,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 1116,
+        "max_atk_dmg": 1166,
+        "wiz_dmg_percent": 102,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 32,
+      "img": "temple_guard_magic_2h_sword.png",
+      "slug": "excellent-temple-guard-magic-twohanded-sword",
+      "internal_id": "excellent_temple_guard_magic_twohanded_sword",
+      "name": "Excellent Temple Guard Magic Two-Handed Sword",
+      "category": "sword",
+      "subcategory": "ruud_sword",
+      "equip_location": "both_hands",
+      "requirements": {
+        "str": 743,
+        "agi": 458,
+        "ene": 164,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 1290,
+        "max_atk_dmg": 1340,
+        "wiz_dmg_percent": 110,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "ruud_staffs": [
+    {
+      "id": 33,
+      "img": "bloodangel_staff.png",
+      "slug": "excellent-bloodangel-staff",
+      "internal_id": "excellent_bloodangel_staff",
+      "name": "Excellent Bloodangel Staff",
+      "category": "staff",
+      "subcategory": "ruud_staff",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 231,
+        "agi": 83,
+        "ene": null,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "min_atk_dmg": 110,
+        "max_atk_dmg": 116,
+        "wiz_dmg_percent": 92,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "dark_wizard",
+          "min_evo": 3
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 3
+        },
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 34,
+      "img": "darkangel_staff.png",
+      "slug": "excellent-darkangel-staff",
+      "internal_id": "excellent_darkangel_staff",
+      "name": "Excellent Darkangel Staff",
+      "category": "staff",
+      "subcategory": "ruud_staff",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 280,
+        "agi": 97,
+        "ene": null,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "min_atk_dmg": 143,
+        "max_atk_dmg": 149,
+        "wiz_dmg_percent": 102,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "dark_wizard",
+          "min_evo": 3
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 3
+        },
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 35,
+      "img": "holyangel_staff.png",
+      "slug": "excellent-holyangel-staff",
+      "internal_id": "excellent_holyangel_staff",
+      "name": "Excellent Holyangel Staff",
+      "category": "staff",
+      "subcategory": "ruud_staff",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 290,
+        "agi": 99,
+        "ene": null,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "min_atk_dmg": 158,
+        "max_atk_dmg": 171,
+        "wiz_dmg_percent": 114,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "dark_wizard",
+          "min_evo": 3
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 3
+        },
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 36,
+      "img": "soul_staff.png",
+      "slug": "excellent-soul-staff",
+      "internal_id": "excellent_soul_staff",
+      "name": "Excellent Soul Staff",
+      "category": "staff",
+      "subcategory": "ruud_staff",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 293,
+        "agi": 101,
+        "ene": null,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "min_atk_dmg": 181,
+        "max_atk_dmg": 194,
+        "wiz_dmg_percent": 125,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "dark_wizard",
+          "min_evo": 4
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 4
+        },
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 37,
+      "img": "blue_eye_staff.png",
+      "slug": "excellent-blue-eye-staff",
+      "internal_id": "excellent_blue_eye_staff",
+      "name": "Excellent Blue Eye Staff",
+      "category": "staff",
+      "subcategory": "ruud_staff",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 302,
+        "agi": 103,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1000
+      },
+      "base_stats": {
+        "min_atk_dmg": 204,
+        "max_atk_dmg": 218,
+        "wiz_dmg_percent": 136,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "dark_wizard",
+          "min_evo": 4
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 4
+        },
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 38,
+      "img": "silver_heart_staff.png",
+      "slug": "excellent-silver-heart-staff",
+      "internal_id": "excellent_silver_heart_staff",
+      "name": "Excellent Silver Heart Staff",
+      "category": "staff",
+      "subcategory": "ruud_staff",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 308,
+        "agi": 106,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1100
+      },
+      "base_stats": {
+        "min_atk_dmg": 224,
+        "max_atk_dmg": 237,
+        "wiz_dmg_percent": 148,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "dark_wizard",
+          "min_evo": 4
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 4
+        },
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 39,
+      "img": "manticore_staff.png",
+      "slug": "excellent-manticore-staff",
+      "internal_id": "excellent_manticore_staff",
+      "name": "Excellent Manticore Staff",
+      "category": "staff",
+      "subcategory": "ruud_staff",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 308,
+        "agi": 106,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1200
+      },
+      "base_stats": {
+        "min_atk_dmg": 245,
+        "max_atk_dmg": 257,
+        "wiz_dmg_percent": 160,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "dark_wizard",
+          "min_evo": 4
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 4
+        },
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 40,
+      "img": "brilliant_staff.png",
+      "slug": "excellent-brilliant-staff",
+      "internal_id": "excellent_brilliant_staff",
+      "name": "Excellent Brilliant Staff",
+      "category": "staff",
+      "subcategory": "ruud_staff",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 308,
+        "agi": 106,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1300
+      },
+      "base_stats": {
+        "min_atk_dmg": 265,
+        "max_atk_dmg": 276,
+        "wiz_dmg_percent": 172,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "dark_wizard",
+          "min_evo": 4
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 4
+        },
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 41,
+      "img": "apocalypse_staff.png",
+      "slug": "excellent-apocalypse-staff",
+      "internal_id": "excellent_apocalypse_staff",
+      "name": "Excellent Apocalypse Staff",
+      "category": "staff",
+      "subcategory": "ruud_staff",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 308,
+        "agi": 106,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1400
+      },
+      "base_stats": {
+        "min_atk_dmg": 285,
+        "max_atk_dmg": 295,
+        "wiz_dmg_percent": 184,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "dark_wizard",
+          "min_evo": 4
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 4
+        },
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 42,
+      "img": "lightning_staff.png",
+      "slug": "excellent-lightning-staff",
+      "internal_id": "excellent_lightning_staff",
+      "name": "Excellent Lightning Staff",
+      "category": "staff",
+      "subcategory": "ruud_staff",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 308,
+        "agi": 106,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 305,
+        "max_atk_dmg": 314,
+        "wiz_dmg_percent": 197,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "dark_wizard",
+          "min_evo": 4
+        },
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 4
+        },
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 43,
+      "img": "temple_guard_staff.png",
+      "slug": "excellent-temple-guard-wizard-staff",
+      "internal_id": "excellent_temple_guard_wizard_staff",
+      "name": "Excellent Temple Guard Wizard Staff",
+      "category": "staff",
+      "subcategory": "ruud_staff",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 308,
+        "agi": 106,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 339,
+        "max_atk_dmg": 347,
+        "wiz_dmg_percent": 260,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "dark_wizard",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 44,
+      "img": "temple_guard_staff.png",
+      "slug": "excellent-temple-guard-magic-staff",
+      "internal_id": "excellent_temple_guard_magic_staff",
+      "name": "Excellent Temple Guard Magic Staff",
+      "category": "staff",
+      "subcategory": "ruud_staff",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 308,
+        "agi": 106,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 339,
+        "max_atk_dmg": 347,
+        "wiz_dmg_percent": 260,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "magic_gladiator",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 45,
+      "img": "temple_guard_staff.png",
+      "slug": "excellent-temple-guard-white-wizard-staff",
+      "internal_id": "excellent_temple_guard_white_wizard_staff",
+      "name": "Excellent Temple Guard White Wizard Staff",
+      "category": "staff",
+      "subcategory": "ruud_staff",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 308,
+        "agi": 106,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 339,
+        "max_atk_dmg": 347,
+        "wiz_dmg_percent": 260,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "ruud_blades": [
+    {
+      "id": 46,
+      "img": "bloodangel_blade.png",
+      "slug": "excellent-bloodangel-blade",
+      "internal_id": "excellent_bloodangel_blade",
+      "name": "Excellent Bloodangel Blade",
+      "category": "blade",
+      "subcategory": "ruud_blade",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 282,
+        "agi": 912,
+        "ene": null,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "min_atk_dmg": 325,
+        "max_atk_dmg": 330,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 47,
+      "img": "darkangel_blade.png",
+      "slug": "excellent-darkangel-blade",
+      "internal_id": "excellent_darkangel_blade",
+      "name": "Excellent Darkangel Blade",
+      "category": "blade",
+      "subcategory": "ruud_blade",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 297,
+        "agi": 963,
+        "ene": null,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "min_atk_dmg": 375,
+        "max_atk_dmg": 385,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 48,
+      "img": "holyangel_blade.png",
+      "slug": "excellent-holyangel-blade",
+      "internal_id": "excellent_holyangel_blade",
+      "name": "Excellent Holyangel Blade",
+      "category": "blade",
+      "subcategory": "ruud_blade",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 315,
+        "agi": 1016,
+        "ene": null,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "min_atk_dmg": 420,
+        "max_atk_dmg": 435,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 49,
+      "img": "soul_blade.png",
+      "slug": "excellent-soul-blade",
+      "internal_id": "excellent_soul_blade",
+      "name": "Excellent Soul Blade",
+      "category": "blade",
+      "subcategory": "ruud_blade",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 330,
+        "agi": 1052,
+        "ene": null,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "min_atk_dmg": 496,
+        "max_atk_dmg": 499,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 50,
+      "img": "blue_eye_blade.png",
+      "slug": "excellent-blue-eye-blade",
+      "internal_id": "excellent_blue_eye_blade",
+      "name": "Excellent Blue Eye Blade",
+      "category": "blade",
+      "subcategory": "ruud_blade",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 351,
+        "agi": 1093,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1000
+      },
+      "base_stats": {
+        "min_atk_dmg": 562,
+        "max_atk_dmg": 572,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 51,
+      "img": "silver_heart_blade.png",
+      "slug": "excellent-silver-heart-blade",
+      "internal_id": "excellent_silver_heart_blade",
+      "name": "Excellent Silver Heart Blade",
+      "category": "blade",
+      "subcategory": "ruud_blade",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 362,
+        "agi": 1102,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1100
+      },
+      "base_stats": {
+        "min_atk_dmg": 628,
+        "max_atk_dmg": 638,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 52,
+      "img": "manticore_blade.png",
+      "slug": "excellent-manticore-blade",
+      "internal_id": "excellent_manticore_blade",
+      "name": "Excellent Manticore Blade",
+      "category": "blade",
+      "subcategory": "ruud_blade",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 362,
+        "agi": 1102,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1200
+      },
+      "base_stats": {
+        "min_atk_dmg": 694,
+        "max_atk_dmg": 704,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 53,
+      "img": "brilliant_blade.png",
+      "slug": "excellent-brilliant-blade",
+      "internal_id": "excellent_brilliant_blade",
+      "name": "Excellent Brilliant Blade",
+      "category": "blade",
+      "subcategory": "ruud_blade",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 362,
+        "agi": 1102,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1300
+      },
+      "base_stats": {
+        "min_atk_dmg": 756,
+        "max_atk_dmg": 774,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 54,
+      "img": "apocalypse_blade.png",
+      "slug": "excellent-apocalypse-blade",
+      "internal_id": "excellent_apocalypse_blade",
+      "name": "Excellent Apocalypse Blade",
+      "category": "blade",
+      "subcategory": "ruud_blade",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 362,
+        "agi": 1102,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1400
+      },
+      "base_stats": {
+        "min_atk_dmg": 818,
+        "max_atk_dmg": 843,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 55,
+      "img": "lightning_blade.png",
+      "slug": "excellent-lightning-blade",
+      "internal_id": "excellent_lightning_blade",
+      "name": "Excellent Lightning Blade",
+      "category": "blade",
+      "subcategory": "ruud_blade",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 362,
+        "agi": 1102,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 880,
+        "max_atk_dmg": 912,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 56,
+      "img": "temple_guard_blade.png",
+      "slug": "excellent-temple-guard-blade",
+      "internal_id": "excellent_temple_guard_blade",
+      "name": "Excellent Temple Guard Blade",
+      "category": "blade",
+      "subcategory": "ruud_blade",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 362,
+        "agi": 1102,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 946,
+        "max_atk_dmg": 978,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "ruud_magic_books": [
+    {
+      "id": 57,
+      "img": "bloodangel_book.png",
+      "slug": "excellent-bloodangel-magic-book",
+      "internal_id": "excellent_bloodangel_magic_book",
+      "name": "Excellent Bloodangel Magic Book",
+      "category": "book",
+      "subcategory": "ruud_book",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": null,
+        "agi": 98,
+        "ene": 235,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "min_atk_dmg": 55,
+        "max_atk_dmg": 56,
+        "wiz_dmg_percent": 29,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 58,
+      "img": "darkangel_book.png",
+      "slug": "excellent-darkangel-magic-book",
+      "internal_id": "excellent_darkangel_magic_book",
+      "name": "Excellent Darkangel Magic Book",
+      "category": "book",
+      "subcategory": "ruud_book",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": null,
+        "agi": 108,
+        "ene": 323,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "min_atk_dmg": 68,
+        "max_atk_dmg": 71,
+        "wiz_dmg_percent": 32,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 59,
+      "img": "holyangel_magic_book.png",
+      "slug": "excellent-holyangel-magic-book",
+      "internal_id": "excellent_holyangel_magic_book",
+      "name": "Excellent Holyangel Magic Book",
+      "category": "book",
+      "subcategory": "ruud_book",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": null,
+        "agi": 112,
+        "ene": 331,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "min_atk_dmg": 84,
+        "max_atk_dmg": 87,
+        "wiz_dmg_percent": 42,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 60,
+      "img": "soul_magic_book.png",
+      "slug": "excellent-soul-magic-book",
+      "internal_id": "excellent_soul_magic_book",
+      "name": "Excellent Soul Magic Book",
+      "category": "book",
+      "subcategory": "ruud_book",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": null,
+        "agi": 114,
+        "ene": 263,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "min_atk_dmg": 91,
+        "max_atk_dmg": 98,
+        "wiz_dmg_percent": 42,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 61,
+      "img": "blue_eye_magic_book.png",
+      "slug": "excellent-blue-eye-magic-book",
+      "internal_id": "excellent_blue_eye_magic_book",
+      "name": "Excellent Blue Eye Magic Book",
+      "category": "book",
+      "subcategory": "ruud_book",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": null,
+        "agi": 185,
+        "ene": 480,
+        "cmd": null,
+        "char_level": 1000
+      },
+      "base_stats": {
+        "min_atk_dmg": 103,
+        "max_atk_dmg": 110,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 62,
+      "img": "silver_heart_magic_book.png",
+      "slug": "excellent-silver-heart-magic-book",
+      "internal_id": "excellent_silver_heart_magic_book",
+      "name": "Excellent Silver Heart Magic Book",
+      "category": "book",
+      "subcategory": "ruud_book",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": null,
+        "agi": 189,
+        "ene": 490,
+        "cmd": null,
+        "char_level": 1100
+      },
+      "base_stats": {
+        "min_atk_dmg": 114,
+        "max_atk_dmg": 121,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 63,
+      "img": "manticore_magic_book.png",
+      "slug": "excellent-manticore-magic-book",
+      "internal_id": "excellent_manticore_magic_book",
+      "name": "Excellent Manticore Magic Book",
+      "category": "book",
+      "subcategory": "ruud_book",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": null,
+        "agi": 192,
+        "ene": 494,
+        "cmd": null,
+        "char_level": 1200
+      },
+      "base_stats": {
+        "min_atk_dmg": 125,
+        "max_atk_dmg": 132,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 64,
+      "img": "brilliant_magic_book.png",
+      "slug": "excellent-brilliant-magic-book",
+      "internal_id": "excellent_brilliant_magic_book",
+      "name": "Excellent Brilliant Magic Book",
+      "category": "book",
+      "subcategory": "ruud_book",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": null,
+        "agi": 192,
+        "ene": 494,
+        "cmd": null,
+        "char_level": 1300
+      },
+      "base_stats": {
+        "min_atk_dmg": 136,
+        "max_atk_dmg": 143,
+        "wiz_dmg_percent": 73,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 65,
+      "img": "apocalypse_magic_book.png",
+      "slug": "excellent-apocalypse-magic-book",
+      "internal_id": "excellent_apocalypse_magic_book",
+      "name": "Excellent Apocalypse Magic Book",
+      "category": "book",
+      "subcategory": "ruud_book",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": null,
+        "agi": 192,
+        "ene": 494,
+        "cmd": null,
+        "char_level": 1400
+      },
+      "base_stats": {
+        "min_atk_dmg": 148,
+        "max_atk_dmg": 155,
+        "wiz_dmg_percent": 79,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 66,
+      "img": "lightning_magic_book.png",
+      "slug": "excellent-lightning-magic-book",
+      "internal_id": "excellent_lightning_magic_book",
+      "name": "Excellent Lightning Magic Book",
+      "category": "book",
+      "subcategory": "ruud_book",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": null,
+        "agi": 191,
+        "ene": 494,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 159,
+        "max_atk_dmg": 166,
+        "wiz_dmg_percent": 85,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 67,
+      "img": "temple_guard_magic_book.png",
+      "slug": "excellent-temple-guard-magic-book",
+      "internal_id": "excellent_temple_guard_magic_book",
+      "name": "Excellent Temple Guard Magic Book",
+      "category": "book",
+      "subcategory": "ruud_book",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": null,
+        "agi": 192,
+        "ene": 494,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 225,
+        "max_atk_dmg": 235,
+        "wiz_dmg_percent": 148,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "kundun_mephis",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "ruud_magic_guns": [
+    {
+      "id": 68,
+      "img": "bloodangel_magic_gun.png",
+      "slug": "excellent-bloodangel-magic-gun",
+      "internal_id": "excellent_bloodangel_magic_gun",
+      "name": "Excellent Bloodangel Magic Gun",
+      "category": "magic_gun",
+      "subcategory": "ruud_magic_gun",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 335,
+        "agi": 282,
+        "ene": 790,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "min_atk_dmg": 191,
+        "max_atk_dmg": 197,
+        "wiz_dmg_percent": 74,
+        "atk_speed": 50
+      },
+      "classes": [
+        {
+          "class_id": "gun_crusher",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 69,
+      "img": "darkangel_magic_gun.png",
+      "slug": "excellent-darkangel-magic-gun",
+      "internal_id": "excellent_darkangel_magic_gun",
+      "name": "Excellent Darkangel Magic Gun",
+      "category": "magic_gun",
+      "subcategory": "ruud_magic_gun",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 341,
+        "agi": 286,
+        "ene": 804,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "min_atk_dmg": 224,
+        "max_atk_dmg": 230,
+        "wiz_dmg_percent": 83,
+        "atk_speed": 50
+      },
+      "classes": [
+        {
+          "class_id": "gun_crusher",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 70,
+      "img": "holyangel_magic_gun.png",
+      "slug": "excellent-holyangel-magic-gun",
+      "internal_id": "excellent_holyangel_magic_gun",
+      "name": "Excellent Holyangel Magic Gun",
+      "category": "magic_gun",
+      "subcategory": "ruud_magic_gun",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 352,
+        "agi": 296,
+        "ene": 823,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "min_atk_dmg": 238,
+        "max_atk_dmg": 251,
+        "wiz_dmg_percent": 93,
+        "atk_speed": 50
+      },
+      "classes": [
+        {
+          "class_id": "gun_crusher",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 71,
+      "img": "soul_magic_gun.png",
+      "slug": "excellent-soul-magic-gun",
+      "internal_id": "excellent_soul_magic_gun",
+      "name": "Excellent Soul Magic Gun",
+      "category": "magic_gun",
+      "subcategory": "ruud_magic_gun",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 357,
+        "agi": 303,
+        "ene": 839,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "min_atk_dmg": 263,
+        "max_atk_dmg": 273,
+        "wiz_dmg_percent": 103,
+        "atk_speed": 50
+      },
+      "classes": [
+        {
+          "class_id": "gun_crusher",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 72,
+      "img": "blue_eye_magic_gun.png",
+      "slug": "excellent-blue-eye-magic-gun",
+      "internal_id": "excellent_blue_eye_magic_gun",
+      "name": "Excellent Blue Eye Magic Gun",
+      "category": "magic_gun",
+      "subcategory": "ruud_magic_gun",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 369,
+        "agi": 313,
+        "ene": 844,
+        "cmd": null,
+        "char_level": 1000
+      },
+      "base_stats": {
+        "min_atk_dmg": 282,
+        "max_atk_dmg": 296,
+        "wiz_dmg_percent": 113,
+        "atk_speed": 50
+      },
+      "classes": [
+        {
+          "class_id": "gun_crusher",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 73,
+      "img": "silver_heart_magic_gun.png",
+      "slug": "excellent-silver-heart-magic-gun",
+      "internal_id": "excellent_silver_heart_magic_gun",
+      "name": "Excellent Silver Heart Magic Gun",
+      "category": "magic_gun",
+      "subcategory": "ruud_magic_gun",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 379,
+        "agi": 322,
+        "ene": 852,
+        "cmd": null,
+        "char_level": 1100
+      },
+      "base_stats": {
+        "min_atk_dmg": 304,
+        "max_atk_dmg": 318,
+        "wiz_dmg_percent": 122,
+        "atk_speed": 50
+      },
+      "classes": [
+        {
+          "class_id": "gun_crusher",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 74,
+      "img": "manticore_magic_gun.png",
+      "slug": "excellent-manticore-magic-gun",
+      "internal_id": "excellent_manticore_magic_gun",
+      "name": "Excellent Manticore Magic Gun",
+      "category": "magic_gun",
+      "subcategory": "ruud_magic_gun",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 379,
+        "agi": 322,
+        "ene": 852,
+        "cmd": null,
+        "char_level": 1200
+      },
+      "base_stats": {
+        "min_atk_dmg": 326,
+        "max_atk_dmg": 340,
+        "wiz_dmg_percent": 131,
+        "atk_speed": 50
+      },
+      "classes": [
+        {
+          "class_id": "gun_crusher",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 75,
+      "img": "brilliant_magic_gun.png",
+      "slug": "excellent-brilliant-magic-gun",
+      "internal_id": "excellent_brilliant_magic_gun",
+      "name": "Excellent Brilliant Magic Gun",
+      "category": "magic_gun",
+      "subcategory": "ruud_magic_gun",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 379,
+        "agi": 322,
+        "ene": 852,
+        "cmd": null,
+        "char_level": 1300
+      },
+      "base_stats": {
+        "min_atk_dmg": 348,
+        "max_atk_dmg": 362,
+        "wiz_dmg_percent": 140,
+        "atk_speed": 50
+      },
+      "classes": [
+        {
+          "class_id": "gun_crusher",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 76,
+      "img": "apocalypse_magic_gun.png",
+      "slug": "excellent-apocalypse-magic-gun",
+      "internal_id": "excellent_apocalypse_magic_gun",
+      "name": "Excellent Apocalypse Magic Gun",
+      "category": "magic_gun",
+      "subcategory": "ruud_magic_gun",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 379,
+        "agi": 322,
+        "ene": 852,
+        "cmd": null,
+        "char_level": 1400
+      },
+      "base_stats": {
+        "min_atk_dmg": 370,
+        "max_atk_dmg": 384,
+        "wiz_dmg_percent": 149,
+        "atk_speed": 50
+      },
+      "classes": [
+        {
+          "class_id": "gun_crusher",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 77,
+      "img": "lightning_magic_gun.png",
+      "slug": "excellent-lightning-magic-gun",
+      "internal_id": "excellent_lightning_magic_gun",
+      "name": "Excellent Lightning Magic Gun",
+      "category": "magic_gun",
+      "subcategory": "ruud_magic_gun",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 379,
+        "agi": 322,
+        "ene": 852,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 392,
+        "max_atk_dmg": 406,
+        "wiz_dmg_percent": 158,
+        "atk_speed": 50
+      },
+      "classes": [
+        {
+          "class_id": "gun_crusher",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 78,
+      "img": "temple_guard_magic_gun.png",
+      "slug": "excellent-temple-guard-magic-gun",
+      "internal_id": "excellent_temple_guard_magic_gun",
+      "name": "Excellent Temple Guard Magic Gun",
+      "category": "magic_gun",
+      "subcategory": "ruud_magic_gun",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 379,
+        "agi": 322,
+        "ene": 852,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 458,
+        "max_atk_dmg": 472,
+        "wiz_dmg_percent": 221,
+        "atk_speed": 50
+      },
+      "classes": [
+        {
+          "class_id": "gun_crusher",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "ruud_claws": [
+    {
+      "id": 79,
+      "img": "bloodangel_claw.png",
+      "slug": "excellent-bloodangel-claw",
+      "internal_id": "excellent_bloodangel_claw",
+      "name": "Excellent Bloodangel Claw",
+      "category": "claw",
+      "subcategory": "ruud_claw",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 518,
+        "agi": 177,
+        "ene": null,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "min_atk_dmg": 176,
+        "max_atk_dmg": 186,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "rage_fighter",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 80,
+      "img": "darkangel_claw.png",
+      "slug": "excellent-darkangel-claw",
+      "internal_id": "excellent_darkangel_claw",
+      "name": "Excellent Darkangel Claw",
+      "category": "claw",
+      "subcategory": "ruud_claw",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 547,
+        "agi": 186,
+        "ene": null,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "min_atk_dmg": 252,
+        "max_atk_dmg": 262,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "rage_fighter",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 81,
+      "img": "holyangel_claw.png",
+      "slug": "excellent-holyangel-claw",
+      "internal_id": "excellent_holyangel_claw",
+      "name": "Excellent Holyangel Claw",
+      "category": "claw",
+      "subcategory": "ruud_claw",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 561,
+        "agi": 192,
+        "ene": null,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "min_atk_dmg": 320,
+        "max_atk_dmg": 330,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "rage_fighter",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 82,
+      "img": "soul_claw.png",
+      "slug": "excellent-soul-claw",
+      "internal_id": "excellent_soul_claw",
+      "name": "Excellent Soul Claw",
+      "category": "claw",
+      "subcategory": "ruud_claw",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 573,
+        "agi": 195,
+        "ene": null,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "min_atk_dmg": 387,
+        "max_atk_dmg": 397,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "rage_fighter",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 83,
+      "img": "blue_eye_claw.png",
+      "slug": "excellent-blue-eye-claw",
+      "internal_id": "excellent_blue_eye_claw",
+      "name": "Excellent Blue Eye Claw",
+      "category": "claw",
+      "subcategory": "ruud_claw",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 586,
+        "agi": 197,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1000
+      },
+      "base_stats": {
+        "min_atk_dmg": 454,
+        "max_atk_dmg": 464,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "rage_fighter",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 84,
+      "img": "silver_heart_claw.png",
+      "slug": "excellent-silver-heart-claw",
+      "internal_id": "excellent_silver_heart_claw",
+      "name": "Excellent Silver Heart Claw",
+      "category": "claw",
+      "subcategory": "ruud_claw",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 595,
+        "agi": 199,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1100
+      },
+      "base_stats": {
+        "min_atk_dmg": 521,
+        "max_atk_dmg": 533,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "rage_fighter",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 85,
+      "img": "manticore_claw.png",
+      "slug": "excellent-manticore-claw",
+      "internal_id": "excellent_manticore_claw",
+      "name": "Excellent Manticore Claw",
+      "category": "claw",
+      "subcategory": "ruud_claw",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 595,
+        "agi": 199,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1200
+      },
+      "base_stats": {
+        "min_atk_dmg": 588,
+        "max_atk_dmg": 602,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "rage_fighter",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 86,
+      "img": "brilliant_claw.png",
+      "slug": "excellent-brilliant-claw",
+      "internal_id": "excellent_brilliant_claw",
+      "name": "Excellent Brilliant Claw",
+      "category": "claw",
+      "subcategory": "ruud_claw",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 595,
+        "agi": 199,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1300
+      },
+      "base_stats": {
+        "min_atk_dmg": 654,
+        "max_atk_dmg": 670,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "rage_fighter",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 87,
+      "img": "apocalypse_claw.png",
+      "slug": "excellent-apocalypse-claw",
+      "internal_id": "excellent_apocalypse_claw",
+      "name": "Excellent Apocalypse Claw",
+      "category": "claw",
+      "subcategory": "ruud_claw",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 595,
+        "agi": 199,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1400
+      },
+      "base_stats": {
+        "min_atk_dmg": 720,
+        "max_atk_dmg": 738,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "rage_fighter",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 88,
+      "img": "lightning_claw.png",
+      "slug": "excellent-lightning-claw",
+      "internal_id": "excellent_lightning_claw",
+      "name": "Excellent Lightning Claw",
+      "category": "claw",
+      "subcategory": "ruud_claw",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 595,
+        "agi": 199,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 786,
+        "max_atk_dmg": 806,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "rage_fighter",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 89,
+      "img": "temple_guard_claw.png",
+      "slug": "excellent-temple-guard-claw",
+      "internal_id": "excellent_temple_guard_claw",
+      "name": "Excellent Temple Guard Claw",
+      "category": "claw",
+      "subcategory": "ruud_claw",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 595,
+        "agi": 199,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 852,
+        "max_atk_dmg": 872,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "rage_fighter",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "ruud_sticks": [
+    {
+      "id": 90,
+      "img": "bloodangel_stick.png",
+      "slug": "excellent-bloodangel-stick",
+      "internal_id": "excellent_bloodangel_stick",
+      "name": "Excellent Bloodangel Stick",
+      "category": "stick",
+      "subcategory": "ruud_stick",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 324,
+        "agi": 98,
+        "ene": null,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "min_atk_dmg": 99,
+        "max_atk_dmg": 105,
+        "wiz_dmg_percent": 90,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "summoner",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 91,
+      "img": "darkangel_stick.png",
+      "slug": "excellent-darkangel-stick",
+      "internal_id": "excellent_darkangel_stick",
+      "name": "Excellent Darkangel Stick",
+      "category": "stick",
+      "subcategory": "ruud_stick",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 253,
+        "agi": 103,
+        "ene": null,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "min_atk_dmg": 133,
+        "max_atk_dmg": 139,
+        "wiz_dmg_percent": 100,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "summoner",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 92,
+      "img": "holyangel_stick.png",
+      "slug": "excellent-holyangel-stick",
+      "internal_id": "excellent_holyangel_stick",
+      "name": "Excellent Holyangel Stick",
+      "category": "stick",
+      "subcategory": "ruud_stick",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 259,
+        "agi": 106,
+        "ene": null,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "min_atk_dmg": 149,
+        "max_atk_dmg": 157,
+        "wiz_dmg_percent": 114,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "summoner",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 93,
+      "img": "soul_stick.png",
+      "slug": "excellent-soul-stick",
+      "internal_id": "excellent_soul_stick",
+      "name": "Excellent Soul Stick",
+      "category": "stick",
+      "subcategory": "ruud_stick",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 269,
+        "agi": 107,
+        "ene": null,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "min_atk_dmg": 168,
+        "max_atk_dmg": 176,
+        "wiz_dmg_percent": 127,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "summoner",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 94,
+      "img": "blue_eye_stick.png",
+      "slug": "excellent-blue-eye-stick",
+      "internal_id": "excellent_blue_eye_stick",
+      "name": "Excellent Blue Eye Stick",
+      "category": "stick",
+      "subcategory": "ruud_stick",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 274,
+        "agi": 108,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1000
+      },
+      "base_stats": {
+        "min_atk_dmg": 187,
+        "max_atk_dmg": 195,
+        "wiz_dmg_percent": 138,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "summoner",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 95,
+      "img": "silver_heart_stick.png",
+      "slug": "excellent-silver-heart-stick",
+      "internal_id": "excellent_silver_heart_stick",
+      "name": "Excellent Silver Heart Stick",
+      "category": "stick",
+      "subcategory": "ruud_stick",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 278,
+        "agi": 112,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1100
+      },
+      "base_stats": {
+        "min_atk_dmg": 207,
+        "max_atk_dmg": 218,
+        "wiz_dmg_percent": 148,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "summoner",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 96,
+      "img": "manticore_stick.png",
+      "slug": "excellent-manticore-stick",
+      "internal_id": "excellent_manticore_stick",
+      "name": "Excellent Manticore Stick",
+      "category": "stick",
+      "subcategory": "ruud_stick",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 278,
+        "agi": 112,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1200
+      },
+      "base_stats": {
+        "min_atk_dmg": 226,
+        "max_atk_dmg": 240,
+        "wiz_dmg_percent": 155,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "summoner",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 97,
+      "img": "brilliant_stick.png",
+      "slug": "excellent-brilliant-stick",
+      "internal_id": "excellent_brilliant_stick",
+      "name": "Excellent Brilliant Stick",
+      "category": "stick",
+      "subcategory": "ruud_stick",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 278,
+        "agi": 112,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1300
+      },
+      "base_stats": {
+        "min_atk_dmg": 245,
+        "max_atk_dmg": 262,
+        "wiz_dmg_percent": 163,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "summoner",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 98,
+      "img": "apocalypse_stick.png",
+      "slug": "excellent-apocalypse-stick",
+      "internal_id": "excellent_apocalypse_stick",
+      "name": "Excellent Apocalypse Stick",
+      "category": "stick",
+      "subcategory": "ruud_stick",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 278,
+        "agi": 112,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1400
+      },
+      "base_stats": {
+        "min_atk_dmg": 265,
+        "max_atk_dmg": 285,
+        "wiz_dmg_percent": 170,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "summoner",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 99,
+      "img": "lightning_stick.png",
+      "slug": "excellent-lightning-stick",
+      "internal_id": "excellent_lightning_stick",
+      "name": "Excellent Lightning Stick",
+      "category": "stick",
+      "subcategory": "ruud_stick",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 278,
+        "agi": 112,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 284,
+        "max_atk_dmg": 307,
+        "wiz_dmg_percent": 176,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "summoner",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 100,
+      "img": "temple_guard_stick.png",
+      "slug": "excellent-temple-guard-stick",
+      "internal_id": "excellent_temple_guard_stick",
+      "name": "Excellent Temple Guard Stick",
+      "category": "stick",
+      "subcategory": "ruud_stick",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 278,
+        "agi": 112,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 317,
+        "max_atk_dmg": 343,
+        "wiz_dmg_percent": 239,
+        "atk_speed": 30
+      },
+      "classes": [
+        {
+          "class_id": "summoner",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "ruud_wands": [
+    {
+      "id": 101,
+      "img": "bloodangel_wand.png",
+      "slug": "excellent-bloodangel-wand",
+      "internal_id": "excellent_bloodangel_wand",
+      "name": "Excellent Bloodangel Wand",
+      "category": "wand",
+      "subcategory": "ruud_wand",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 93,
+        "agi": 35,
+        "ene": 300,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "min_atk_dmg": 83,
+        "max_atk_dmg": 85,
+        "wiz_dmg_percent": 92,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "alchemist",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 102,
+      "img": "darkangel_wand.png",
+      "slug": "excellent-darkangel-wand",
+      "internal_id": "excellent_darkangel_wand",
+      "name": "Excellent Darkangel Wand",
+      "category": "wand",
+      "subcategory": "ruud_wand",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 97,
+        "agi": 42,
+        "ene": 367,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "min_atk_dmg": 109,
+        "max_atk_dmg": 115,
+        "wiz_dmg_percent": 102,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "alchemist",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 103,
+      "img": "holyangel_wand.png",
+      "slug": "excellent-holyangel-wand",
+      "internal_id": "excellent_holyangel_wand",
+      "name": "Excellent Holyangel Wand",
+      "category": "wand",
+      "subcategory": "ruud_wand",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 99,
+        "agi": 44,
+        "ene": 413,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "min_atk_dmg": 141,
+        "max_atk_dmg": 147,
+        "wiz_dmg_percent": 114,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "alchemist",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 104,
+      "img": "soul_wand.png",
+      "slug": "excellent-soul-wand",
+      "internal_id": "excellent_soul_wand",
+      "name": "Excellent Soul Wand",
+      "category": "wand",
+      "subcategory": "ruud_wand",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 101,
+        "agi": 47,
+        "ene": 452,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "min_atk_dmg": 156,
+        "max_atk_dmg": 169,
+        "wiz_dmg_percent": 126,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "alchemist",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 105,
+      "img": "blue_eye_wand.png",
+      "slug": "excellent-blue-eye-wand",
+      "internal_id": "excellent_blue_eye_wand",
+      "name": "Excellent Blue Eye Wand",
+      "category": "wand",
+      "subcategory": "ruud_wand",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 103,
+        "agi": 49,
+        "ene": 460,
+        "cmd": null,
+        "char_level": 1000
+      },
+      "base_stats": {
+        "min_atk_dmg": 179,
+        "max_atk_dmg": 192,
+        "wiz_dmg_percent": 136,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "alchemist",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 106,
+      "img": "silver_heart_wand.png",
+      "slug": "excellent-silver-heart-wand",
+      "internal_id": "excellent_silver_heart_wand",
+      "name": "Excellent Silver Heart Wand",
+      "category": "wand",
+      "subcategory": "ruud_wand",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 105,
+        "agi": 50,
+        "ene": 462,
+        "cmd": null,
+        "char_level": 1100
+      },
+      "base_stats": {
+        "min_atk_dmg": 202,
+        "max_atk_dmg": 216,
+        "wiz_dmg_percent": 148,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "alchemist",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 107,
+      "img": "manticore_wand.png",
+      "slug": "excellent-manticore-wand",
+      "internal_id": "excellent_manticore_wand",
+      "name": "Excellent Manticore Wand",
+      "category": "wand",
+      "subcategory": "ruud_wand",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 105,
+        "agi": 50,
+        "ene": 462,
+        "cmd": null,
+        "char_level": 1200
+      },
+      "base_stats": {
+        "min_atk_dmg": 224,
+        "max_atk_dmg": 239,
+        "wiz_dmg_percent": 161,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "alchemist",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 108,
+      "img": "brilliant_wand.png",
+      "slug": "excellent-brilliant-wand",
+      "internal_id": "excellent_brilliant_wand",
+      "name": "Excellent Brilliant Wand",
+      "category": "wand",
+      "subcategory": "ruud_wand",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 105,
+        "agi": 50,
+        "ene": 462,
+        "cmd": null,
+        "char_level": 1300
+      },
+      "base_stats": {
+        "min_atk_dmg": 247,
+        "max_atk_dmg": 261,
+        "wiz_dmg_percent": 174,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "alchemist",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 109,
+      "img": "apocalypse_wand.png",
+      "slug": "excellent-apocalypse-wand",
+      "internal_id": "excellent_apocalypse_wand",
+      "name": "Excellent Apocalypse Wand",
+      "category": "wand",
+      "subcategory": "ruud_wand",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 105,
+        "agi": 50,
+        "ene": 462,
+        "cmd": null,
+        "char_level": 1400
+      },
+      "base_stats": {
+        "min_atk_dmg": 270,
+        "max_atk_dmg": 284,
+        "wiz_dmg_percent": 186,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "alchemist",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 110,
+      "img": "lightning_wand.png",
+      "slug": "excellent-lightning-wand",
+      "internal_id": "excellent_lightning_wand",
+      "name": "Excellent Lightning Wand",
+      "category": "wand",
+      "subcategory": "ruud_wand",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 105,
+        "agi": 50,
+        "ene": 462,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 291,
+        "max_atk_dmg": 305,
+        "wiz_dmg_percent": 199,
+        "atk_speed": 35
+      },
+      "classes": [
+        {
+          "class_id": "alchemist",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "ruud_lances": [
+    {
+      "id": 111,
+      "img": "bloodangel_lance.png",
+      "slug": "excellent-bloodangel-lance",
+      "internal_id": "excellent_bloodangel_lance",
+      "name": "Excellent Bloodangel Lance",
+      "category": "lance",
+      "subcategory": "ruud_lance",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 387,
+        "agi": 282,
+        "ene": null,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "min_atk_dmg": 161,
+        "max_atk_dmg": 172,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 112,
+      "img": "darkangel_lance.png",
+      "slug": "darkangel-lance",
+      "internal_id": "darkangel_lance",
+      "name": "Darkangel Lance",
+      "category": "lance",
+      "subcategory": "ruud_lance",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 408,
+        "agi": 297,
+        "ene": 0,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "min_atk_dmg": 178,
+        "max_atk_dmg": 188,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "normal",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 113,
+      "img": "holyangel_lance.png",
+      "slug": "excellent-holyangel-lance",
+      "internal_id": "excellent_holyangel_lance",
+      "name": "Excellent Holyangel Lance",
+      "category": "lance",
+      "subcategory": "ruud_lance",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 419,
+        "agi": 302,
+        "ene": null,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "min_atk_dmg": 235,
+        "max_atk_dmg": 245,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 114,
+      "img": "soul_lance.png",
+      "slug": "excellent-soul-lance",
+      "internal_id": "excellent_soul_lance",
+      "name": "Excellent Soul Lance",
+      "category": "lance",
+      "subcategory": "ruud_lance",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 431,
+        "agi": 310,
+        "ene": null,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "min_atk_dmg": 290,
+        "max_atk_dmg": 300,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 115,
+      "img": "blue_eye_lance.png",
+      "slug": "excellent-blue-eye-lance",
+      "internal_id": "excellent_blue_eye_lance",
+      "name": "Excellent Blue Eye Lance",
+      "category": "lance",
+      "subcategory": "ruud_lance",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 441,
+        "agi": 357,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1000
+      },
+      "base_stats": {
+        "min_atk_dmg": 345,
+        "max_atk_dmg": 357,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 116,
+      "img": "silver_heart_lance.png",
+      "slug": "excellent-silver-heart-lance",
+      "internal_id": "excellent_silver_heart_lance",
+      "name": "Excellent Silver Heart Lance",
+      "category": "lance",
+      "subcategory": "ruud_lance",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 448,
+        "agi": 320,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1100
+      },
+      "base_stats": {
+        "min_atk_dmg": 400,
+        "max_atk_dmg": 415,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 117,
+      "img": "manticore_lance.png",
+      "slug": "excellent-manticore-lance",
+      "internal_id": "excellent_manticore_lance",
+      "name": "Excellent Manticore Lance",
+      "category": "lance",
+      "subcategory": "ruud_lance",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 448,
+        "agi": 320,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1200
+      },
+      "base_stats": {
+        "min_atk_dmg": 454,
+        "max_atk_dmg": 472,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 118,
+      "img": "brilliant_lance.png",
+      "slug": "excellent-brilliant-lance",
+      "internal_id": "excellent_brilliant_lance",
+      "name": "Excellent Brilliant Lance",
+      "category": "lance",
+      "subcategory": "ruud_lance",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 448,
+        "agi": 320,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1300
+      },
+      "base_stats": {
+        "min_atk_dmg": 508,
+        "max_atk_dmg": 529,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 119,
+      "img": "apocalypse_lance.png",
+      "slug": "excellent-apocalypse-lance",
+      "internal_id": "excellent_apocalypse_lance",
+      "name": "Excellent Apocalypse Lance",
+      "category": "lance",
+      "subcategory": "ruud_lance",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 448,
+        "agi": 320,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1400
+      },
+      "base_stats": {
+        "min_atk_dmg": 561,
+        "max_atk_dmg": 585,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 120,
+      "img": "lightning_lance.png",
+      "slug": "excellent-lightning-lance",
+      "internal_id": "excellent_lightning_lance",
+      "name": "Excellent Lightning Lance",
+      "category": "lance",
+      "subcategory": "ruud_lance",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 448,
+        "agi": 320,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 614,
+        "max_atk_dmg": 641,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 121,
+      "img": "temple_guard_lance.png",
+      "slug": "excellent-temple-guard-lance",
+      "internal_id": "excellent_temple_guard_lance",
+      "name": "Excellent Temple Guard Lance",
+      "category": "lance",
+      "subcategory": "ruud_lance",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 448,
+        "agi": 320,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 680,
+        "max_atk_dmg": 707,
+        "atk_speed": 40
+      },
+      "classes": [
+        {
+          "class_id": "grow_lancer",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "ruud_bows": [
+    {
+      "id": 122,
+      "img": "bloodangel_bow.png",
+      "slug": "bloodangel-bow",
+      "internal_id": "bloodangel_bow",
+      "name": "Bloodangel Bow",
+      "category": "bow",
+      "subcategory": "ruud_bow",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 182,
+        "agi": 1059,
+        "ene": 0,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "min_atk_dmg": 343,
+        "max_atk_dmg": 363,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 123,
+      "img": "darkangel_bow.png",
+      "slug": "darkangel-bow",
+      "internal_id": "darkangel_bow",
+      "name": "Darkangel Bow",
+      "category": "bow",
+      "subcategory": "ruud_bow",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 192,
+        "agi": 1118,
+        "ene": 0,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "min_atk_dmg": 375,
+        "max_atk_dmg": 395,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 124,
+      "img": "holyangel_bow.png",
+      "slug": "holyangel-bow",
+      "internal_id": "holyangel_bow",
+      "name": "Holyangel Bow",
+      "category": "bow",
+      "subcategory": "ruud_bow",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 198,
+        "agi": 1145,
+        "ene": 0,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "min_atk_dmg": 432,
+        "max_atk_dmg": 449,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 125,
+      "img": "soul_bow.png",
+      "slug": "soul-bow",
+      "internal_id": "soul_bow",
+      "name": "Soul Bow",
+      "category": "bow",
+      "subcategory": "ruud_bow",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 202,
+        "agi": 1167,
+        "ene": 0,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "min_atk_dmg": 568,
+        "max_atk_dmg": 585,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 126,
+      "img": "blue_eye_bow.png",
+      "slug": "blue-eye-bow",
+      "internal_id": "blue_eye_bow",
+      "name": "Blue Eye Bow",
+      "category": "bow",
+      "subcategory": "ruud_bow",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 202,
+        "agi": 1193,
+        "ene": 0,
+        "cmd": null,
+        "char_level": 1000
+      },
+      "base_stats": {
+        "min_atk_dmg": 704,
+        "max_atk_dmg": 722,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 127,
+      "img": "silver_heart_bow.png",
+      "slug": "silver-heart-bow",
+      "internal_id": "silver_heart_bow",
+      "name": "Silver Heart Bow",
+      "category": "bow",
+      "subcategory": "ruud_bow",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 206,
+        "agi": 1204,
+        "ene": 0,
+        "cmd": null,
+        "char_level": 1100
+      },
+      "base_stats": {
+        "min_atk_dmg": 838,
+        "max_atk_dmg": 861,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 128,
+      "img": "manticore_bow.png",
+      "slug": "manticore-bow",
+      "internal_id": "manticore_bow",
+      "name": "Manticore Bow",
+      "category": "bow",
+      "subcategory": "ruud_bow",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 206,
+        "agi": 1204,
+        "ene": 0,
+        "cmd": null,
+        "char_level": 1200
+      },
+      "base_stats": {
+        "min_atk_dmg": 971,
+        "max_atk_dmg": 999,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 129,
+      "img": "brilliant_bow.png",
+      "slug": "brilliant-bow",
+      "internal_id": "brilliant_bow",
+      "name": "Brilliant Bow",
+      "category": "bow",
+      "subcategory": "ruud_bow",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 206,
+        "agi": 1204,
+        "ene": 0,
+        "cmd": null,
+        "char_level": 1300
+      },
+      "base_stats": {
+        "min_atk_dmg": 1104,
+        "max_atk_dmg": 1137,
+        "atk_speed": 55
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 130,
+      "img": "apocalypse_bow.png",
+      "slug": "apocalypse-bow",
+      "internal_id": "apocalypse_bow",
+      "name": "Apocalypse Bow",
+      "category": "bow",
+      "subcategory": "ruud_bow",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 206,
+        "agi": 1204,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1400
+      },
+      "base_stats": {
+        "min_atk_dmg": 1235,
+        "max_atk_dmg": 1273,
+        "atk_speed": 55
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 131,
+      "img": "lightning_bow.png",
+      "slug": "lightning-bow",
+      "internal_id": "lightning_bow",
+      "name": "Lightning Bow",
+      "category": "bow",
+      "subcategory": "ruud_bow",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 206,
+        "agi": 1204,
+        "ene": 0,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 1366,
+        "max_atk_dmg": 1409,
+        "atk_speed": 55
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 132,
+      "img": "temple_guard_bow.png",
+      "slug": "temple-guard-bow",
+      "internal_id": "temple_guard_bow",
+      "name": "Temple Guard Bow",
+      "category": "bow",
+      "subcategory": "ruud_bow",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 206,
+        "agi": 1204,
+        "ene": 0,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 1432,
+        "max_atk_dmg": 1475,
+        "atk_speed": 55
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "ruud_quivers": [
+    {
+      "id": 133,
+      "img": "bloodangel_quiver.png",
+      "slug": "excellent-bloodangel-quiver",
+      "internal_id": "excellent_bloodangel_quiver",
+      "name": "Excellent Bloodangel Quiver",
+      "category": "quiver",
+      "subcategory": "ruud_quiver",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 177,
+        "agi": 1049,
+        "ene": null,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "min_atk_dmg": 283,
+        "max_atk_dmg": 310,
+        "atk_speed": 55
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 134,
+      "img": "darkangel_quiver.png",
+      "slug": "excellent-darkangel-quiver",
+      "internal_id": "excellent_darkangel_quiver",
+      "name": "Excellent Darkangel Quiver",
+      "category": "quiver",
+      "subcategory": "ruud_quiver",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 186,
+        "agi": 1107,
+        "ene": null,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "min_atk_dmg": 341,
+        "max_atk_dmg": 366,
+        "atk_speed": 55
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 135,
+      "img": "holyangel_quiver.png",
+      "slug": "excellent-holyangel-quiver",
+      "internal_id": "excellent_holyangel_quiver",
+      "name": "Excellent Holyangel Quiver",
+      "category": "quiver",
+      "subcategory": "ruud_quiver",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 192,
+        "agi": 1133,
+        "ene": null,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "min_atk_dmg": 397,
+        "max_atk_dmg": 421,
+        "atk_speed": 55
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 136,
+      "img": "soul_quiver.png",
+      "slug": "excellent-soul-quiver",
+      "internal_id": "excellent_soul_quiver",
+      "name": "Excellent Soul Quiver",
+      "category": "quiver",
+      "subcategory": "ruud_quiver",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 195,
+        "agi": 1154,
+        "ene": null,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "min_atk_dmg": 452,
+        "max_atk_dmg": 476,
+        "atk_speed": 55
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 137,
+      "img": "blue_eye_quiver.png",
+      "slug": "excellent-blue-eye-quiver",
+      "internal_id": "excellent_blue_eye_quiver",
+      "name": "Excellent Blue Eye Quiver",
+      "category": "quiver",
+      "subcategory": "ruud_quiver",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 197,
+        "agi": 1179,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1000
+      },
+      "base_stats": {
+        "min_atk_dmg": 507,
+        "max_atk_dmg": 531,
+        "atk_speed": 55
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 138,
+      "img": "silver_heart_quiver.png",
+      "slug": "excellent-silver-heart-quiver",
+      "internal_id": "excellent_silver_heart_quiver",
+      "name": "Excellent Silver Heart Quiver",
+      "category": "quiver",
+      "subcategory": "ruud_quiver",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 199,
+        "agi": 1190,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1100
+      },
+      "base_stats": {
+        "min_atk_dmg": 561,
+        "max_atk_dmg": 584,
+        "atk_speed": 55
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 139,
+      "img": "manticore_quiver.png",
+      "slug": "excellent-manticore-quiver",
+      "internal_id": "excellent_manticore_quiver",
+      "name": "Excellent Manticore Quiver",
+      "category": "quiver",
+      "subcategory": "ruud_quiver",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 199,
+        "agi": 1190,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1200
+      },
+      "base_stats": {
+        "min_atk_dmg": 651,
+        "max_atk_dmg": 637,
+        "atk_speed": 55
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 140,
+      "img": "brilliant_quiver.png",
+      "slug": "excellent-brilliant-quiver",
+      "internal_id": "excellent_brilliant_quiver",
+      "name": "Excellent Brilliant Quiver",
+      "category": "quiver",
+      "subcategory": "ruud_quiver",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 199,
+        "agi": 1190,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1300
+      },
+      "base_stats": {
+        "min_atk_dmg": 669,
+        "max_atk_dmg": 690,
+        "atk_speed": 60
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 141,
+      "img": "apocalypse_quiver.png",
+      "slug": "excellent-apocalypse-quiver",
+      "internal_id": "excellent_apocalypse_quiver",
+      "name": "Excellent Apocalypse Quiver",
+      "category": "quiver",
+      "subcategory": "ruud_quiver",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 199,
+        "agi": 1190,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1400
+      },
+      "base_stats": {
+        "min_atk_dmg": 723,
+        "max_atk_dmg": 743,
+        "atk_speed": 60
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 142,
+      "img": "lightning_quiver.png",
+      "slug": "excellent-lightning-quiver",
+      "internal_id": "excellent_lightning_quiver",
+      "name": "Excellent Lightning Quiver",
+      "category": "quiver",
+      "subcategory": "ruud_quiver",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 199,
+        "agi": 1190,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 778,
+        "max_atk_dmg": 797,
+        "atk_speed": 60
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 143,
+      "img": "temple_guard_quiver.png",
+      "slug": "excellent-temple-guard-quiver",
+      "internal_id": "excellent_temple_guard_quiver",
+      "name": "Excellent Temple Guard Quiver",
+      "category": "quiver",
+      "subcategory": "ruud_quiver",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": 199,
+        "agi": 1190,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 844,
+        "max_atk_dmg": 863,
+        "atk_speed": 60
+      },
+      "classes": [
+        {
+          "class_id": "fairy_elf",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "ruud_scepters": [
+    {
+      "id": 144,
+      "img": "bloodangel_scepter.png",
+      "slug": "excellent-bloodangel-scepter",
+      "internal_id": "excellent_bloodangel_scepter",
+      "name": "Excellent Bloodangel Scepter",
+      "category": "scepter",
+      "subcategory": "ruud_scepter",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 618,
+        "agi": 130,
+        "ene": null,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "min_atk_dmg": 224,
+        "max_atk_dmg": 236,
+        "atk_speed": 40,
+        "pet_dmg_percent": 63
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 145,
+      "img": "darkangel_scepter.png",
+      "slug": "excellent-darkangel-scepter",
+      "internal_id": "excellent_darkangel_scepter",
+      "name": "Excellent Darkangel Scepter",
+      "category": "scepter",
+      "subcategory": "ruud_scepter",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 652,
+        "agi": 147,
+        "ene": null,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "min_atk_dmg": 262,
+        "max_atk_dmg": 272,
+        "atk_speed": 40,
+        "pet_dmg_percent": 68
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 146,
+      "img": "holyangel_scepter.png",
+      "slug": "excellent-holyangel-scepter",
+      "internal_id": "excellent_holyangel_scepter",
+      "name": "Excellent Holyangel Scepter",
+      "category": "scepter",
+      "subcategory": "ruud_scepter",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 665,
+        "agi": 155,
+        "ene": null,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "min_atk_dmg": 367,
+        "max_atk_dmg": 379,
+        "atk_speed": 40,
+        "pet_dmg_percent": 78
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 147,
+      "img": "soul_scepter.png",
+      "slug": "excellent-soul-scepter",
+      "internal_id": "excellent_soul_scepter",
+      "name": "Excellent Soul Scepter",
+      "category": "scepter",
+      "subcategory": "ruud_scepter",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 681,
+        "agi": 161,
+        "ene": null,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "min_atk_dmg": 462,
+        "max_atk_dmg": 471,
+        "atk_speed": 40,
+        "pet_dmg_percent": 89
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 148,
+      "img": "blue_eye_scepter.png",
+      "slug": "excellent-blue-eye-scepter",
+      "internal_id": "excellent_blue_eye_scepter",
+      "name": "Excellent Blue Eye Scepter",
+      "category": "scepter",
+      "subcategory": "ruud_scepter",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 696,
+        "agi": 164,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1000
+      },
+      "base_stats": {
+        "min_atk_dmg": 550,
+        "max_atk_dmg": 564,
+        "atk_speed": 40,
+        "pet_dmg_percent": 96
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 149,
+      "img": "silver_heart_scepter.png",
+      "slug": "excellent-silver-heart-scepter",
+      "internal_id": "excellent_silver_heart_scepter",
+      "name": "Excellent Silver Heart Scepter",
+      "category": "scepter",
+      "subcategory": "ruud_scepter",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 710,
+        "agi": 166,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1100
+      },
+      "base_stats": {
+        "min_atk_dmg": 642,
+        "max_atk_dmg": 658,
+        "atk_speed": 40,
+        "pet_dmg_percent": 104
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 150,
+      "img": "manticore_scepter.png",
+      "slug": "excellent-manticore-scepter",
+      "internal_id": "excellent_manticore_scepter",
+      "name": "Excellent Manticore Scepter",
+      "category": "scepter",
+      "subcategory": "ruud_scepter",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 710,
+        "agi": 166,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1200
+      },
+      "base_stats": {
+        "min_atk_dmg": 732,
+        "max_atk_dmg": 750,
+        "atk_speed": 40,
+        "spirit_dmg_percent": 78
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 151,
+      "img": "brilliant_scepter.png",
+      "slug": "excellent-brilliant-scepter",
+      "internal_id": "excellent_brilliant_scepter",
+      "name": "Excellent Brilliant Scepter",
+      "category": "scepter",
+      "subcategory": "ruud_scepter",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 710,
+        "agi": 166,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1300
+      },
+      "base_stats": {
+        "min_atk_dmg": 823,
+        "max_atk_dmg": 843,
+        "atk_speed": 40,
+        "pet_dmg_percent": 120
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 152,
+      "img": "apocalypse_scepter.png",
+      "slug": "excellent-apocalypse-scepter",
+      "internal_id": "excellent_apocalypse_scepter",
+      "name": "Excellent Apocalypse Scepter",
+      "category": "scepter",
+      "subcategory": "ruud_scepter",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 710,
+        "agi": 166,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1400
+      },
+      "base_stats": {
+        "min_atk_dmg": 912,
+        "max_atk_dmg": 934,
+        "atk_speed": 40,
+        "pet_dmg_percent": 128
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 153,
+      "img": "lightning_scepter.png",
+      "slug": "excellent-lightning-scepter",
+      "internal_id": "excellent_lightning_scepter",
+      "name": "Excellent Lightning Scepter",
+      "category": "scepter",
+      "subcategory": "ruud_scepter",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 710,
+        "agi": 166,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 1001,
+        "max_atk_dmg": 1025,
+        "atk_speed": 40,
+        "spirit_dmg_percent": 93,
+        "combat_power_percent": 143
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 154,
+      "img": "temple_guard_scepter.png",
+      "slug": "excellent-temple-guard-scepter",
+      "internal_id": "excellent_temple_guard_scepter",
+      "name": "Excellent Temple Guard Scepter",
+      "category": "scepter",
+      "subcategory": "ruud_scepter",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 710,
+        "agi": 166,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 1067,
+        "max_atk_dmg": 1091,
+        "atk_speed": 40,
+        "spirit_dmg_percent": "?",
+        "combat_power_percent": "?"
+      },
+      "classes": [
+        {
+          "class_id": "dark_lord",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "ruud_elixirs": [
+    {
+      "id": 155,
+      "img": "bloodangel_elixir.png",
+      "slug": "excellent-bloodangel-elixir",
+      "internal_id": "excellent_bloodangel_elixir",
+      "name": "Excellent Bloodangel Elixir",
+      "category": "elixir",
+      "subcategory": "ruud_elixir",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": null,
+        "agi": 98,
+        "ene": 235,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "min_atk_dmg": 84,
+        "max_atk_dmg": 84,
+        "atk_speed": 30,
+        "wiz_dmg_percent": 30
+      },
+      "classes": [
+        {
+          "class_id": "alchemist",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 156,
+      "img": "darkangel_elixir.png",
+      "slug": "excellent-darkangel-elixir",
+      "internal_id": "excellent_darkangel_elixir",
+      "name": "Excellent Darkangel Elixir",
+      "category": "elixir",
+      "subcategory": "ruud_elixir",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": null,
+        "agi": 108,
+        "ene": 247,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "min_atk_dmg": 107,
+        "max_atk_dmg": 113,
+        "atk_speed": 30,
+        "wiz_dmg_percent": 33
+      },
+      "classes": [
+        {
+          "class_id": "alchemist",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 157,
+      "img": "holyangel_elixir.png",
+      "slug": "excellent-holyangel-elixir",
+      "internal_id": "excellent_holyangel_elixir",
+      "name": "Excellent Holyangel Elixir",
+      "category": "elixir",
+      "subcategory": "ruud_elixir",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": null,
+        "agi": 112,
+        "ene": 253,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "min_atk_dmg": 140,
+        "max_atk_dmg": 146,
+        "atk_speed": 30,
+        "wiz_dmg_percent": 43
+      },
+      "classes": [
+        {
+          "class_id": "alchemist",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 158,
+      "img": "soul_elixir.png",
+      "slug": "excellent-soul-elixir",
+      "internal_id": "excellent_soul_elixir",
+      "name": "Excellent Soul Elixir",
+      "category": "elixir",
+      "subcategory": "ruud_elixir",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": null,
+        "agi": 114,
+        "ene": 263,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "min_atk_dmg": 155,
+        "max_atk_dmg": 168,
+        "atk_speed": 30,
+        "wiz_dmg_percent": 49
+      },
+      "classes": [
+        {
+          "class_id": "alchemist",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 159,
+      "img": "blue_eye_elixir.png",
+      "slug": "excellent-blue-eye-elixir",
+      "internal_id": "excellent_blue_eye_elixir",
+      "name": "Excellent Blue Eye Elixir",
+      "category": "elixir",
+      "subcategory": "ruud_elixir",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": null,
+        "agi": 117,
+        "ene": 350,
+        "cmd": null,
+        "char_level": 1000
+      },
+      "base_stats": {
+        "min_atk_dmg": 178,
+        "max_atk_dmg": 191,
+        "atk_speed": 30,
+        "wiz_dmg_percent": 55
+      },
+      "classes": [
+        {
+          "class_id": "alchemist",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 160,
+      "img": "silver_heart_elixir.png",
+      "slug": "excellent-silver-heart-elixir",
+      "internal_id": "excellent_silver_heart_elixir",
+      "name": "Excellent Silver Heart Elixir",
+      "category": "elixir",
+      "subcategory": "ruud_elixir",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": null,
+        "agi": 119,
+        "ene": 352,
+        "cmd": null,
+        "char_level": 1100
+      },
+      "base_stats": {
+        "min_atk_dmg": 201,
+        "max_atk_dmg": 215,
+        "atk_speed": 30,
+        "wiz_dmg_percent": 62
+      },
+      "classes": [
+        {
+          "class_id": "alchemist",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 161,
+      "img": "manticore_elixir.png",
+      "slug": "excellent-manticore-elixir",
+      "internal_id": "excellent_manticore_elixir",
+      "name": "Excellent Manticore Elixir",
+      "category": "elixir",
+      "subcategory": "ruud_elixir",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": null,
+        "agi": 120,
+        "ene": 354,
+        "cmd": null,
+        "char_level": 1200
+      },
+      "base_stats": {
+        "min_atk_dmg": 223,
+        "max_atk_dmg": 238,
+        "atk_speed": 30,
+        "wiz_dmg_percent": 68
+      },
+      "classes": [
+        {
+          "class_id": "alchemist",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 162,
+      "img": "brilliant_elixir.png",
+      "slug": "excellent-brilliant-elixir",
+      "internal_id": "excellent_brilliant_elixir",
+      "name": "Excellent Brilliant Elixir",
+      "category": "elixir",
+      "subcategory": "ruud_elixir",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": null,
+        "agi": 120,
+        "ene": 354,
+        "cmd": null,
+        "char_level": 1300
+      },
+      "base_stats": {
+        "min_atk_dmg": 246,
+        "max_atk_dmg": 260,
+        "atk_speed": 30,
+        "wiz_dmg_percent": 74
+      },
+      "classes": [
+        {
+          "class_id": "alchemist",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 163,
+      "img": "apocalypse_elixir.png",
+      "slug": "excellent-apocalypse-elixir",
+      "internal_id": "excellent_apocalypse_elixir",
+      "name": "Excellent Apocalypse Elixir",
+      "category": "elixir",
+      "subcategory": "ruud_elixir",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": null,
+        "agi": 120,
+        "ene": 354,
+        "cmd": null,
+        "char_level": 1400
+      },
+      "base_stats": {
+        "min_atk_dmg": 269,
+        "max_atk_dmg": 283,
+        "atk_speed": 30,
+        "wiz_dmg_percent": 80
+      },
+      "classes": [
+        {
+          "class_id": "alchemist",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 164,
+      "img": "lightning_elixir.png",
+      "slug": "excellent-lightning-elixir",
+      "internal_id": "excellent_lightning_elixir",
+      "name": "Excellent Lightning Elixir",
+      "category": "elixir",
+      "subcategory": "ruud_elixir",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": null,
+        "agi": 120,
+        "ene": 354,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 289,
+        "max_atk_dmg": 303,
+        "atk_speed": 30,
+        "wiz_dmg_percent": 86
+      },
+      "classes": [
+        {
+          "class_id": "alchemist",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 165,
+      "img": "temple_guard_elixir.png",
+      "slug": "excellent-temple-guard-elixir",
+      "internal_id": "excellent_temple_guard_elixir",
+      "name": "Excellent Temple Guard Elixir",
+      "category": "elixir",
+      "subcategory": "ruud_elixir",
+      "equip_location": "secondary_hand",
+      "requirements": {
+        "str": null,
+        "agi": 120,
+        "ene": 354,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 355,
+        "max_atk_dmg": 369,
+        "atk_speed": 30,
+        "wiz_dmg_percent": 149
+      },
+      "classes": [
+        {
+          "class_id": "alchemist",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "ruud_orbs": [
+    {
+      "id": 167,
+      "img": "bloodangel_orb.png",
+      "slug": "excellent-bloodangel-orb",
+      "internal_id": "excellent_bloodangel_orb",
+      "name": "Excellent Bloodangel Orb",
+      "category": "orb",
+      "subcategory": "ruud_orb",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 93,
+        "agi": 35,
+        "ene": 258,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "min_atk_dmg": 83,
+        "max_atk_dmg": 85,
+        "atk_speed": 30,
+        "wiz_dmg_percent": 96
+      },
+      "classes": [
+        {
+          "class_id": "lemuria",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 168,
+      "img": "darkangel_orb.png",
+      "slug": "excellent-darkangel-orb",
+      "internal_id": "excellent_darkangel_orb",
+      "name": "Excellent Darkangel Orb",
+      "category": "orb",
+      "subcategory": "ruud_orb",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 97,
+        "agi": 42,
+        "ene": 271,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "min_atk_dmg": 109,
+        "max_atk_dmg": 115,
+        "atk_speed": 30,
+        "wiz_dmg_percent": 104
+      },
+      "classes": [
+        {
+          "class_id": "lemuria",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 169,
+      "img": "holyangel_orb.png",
+      "slug": "excellent-holyangel-orb",
+      "internal_id": "excellent_holyangel_orb",
+      "name": "Excellent Holyangel Orb",
+      "category": "orb",
+      "subcategory": "ruud_orb",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 99,
+        "agi": 44,
+        "ene": 298,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "min_atk_dmg": 141,
+        "max_atk_dmg": 147,
+        "atk_speed": 30,
+        "wiz_dmg_percent": 114
+      },
+      "classes": [
+        {
+          "class_id": "lemuria",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 170,
+      "img": "soul_orb.png",
+      "slug": "excellent-soul-orb",
+      "internal_id": "excellent_soul_orb",
+      "name": "Excellent Soul Orb",
+      "category": "orb",
+      "subcategory": "ruud_orb",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 101,
+        "agi": 47,
+        "ene": 308,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "min_atk_dmg": 156,
+        "max_atk_dmg": 169,
+        "atk_speed": 30,
+        "wiz_dmg_percent": 126
+      },
+      "classes": [
+        {
+          "class_id": "lemuria",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 171,
+      "img": "blue_eye_orb.png",
+      "slug": "excellent-blue-eye-orb",
+      "internal_id": "excellent_blue_eye_orb",
+      "name": "Excellent Blue Eye Orb",
+      "category": "orb",
+      "subcategory": "ruud_orb",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 164,
+        "agi": 80,
+        "ene": 460,
+        "cmd": null,
+        "char_level": 1000
+      },
+      "base_stats": {
+        "min_atk_dmg": 179,
+        "max_atk_dmg": 192,
+        "atk_speed": 30,
+        "wiz_dmg_percent": 138
+      },
+      "classes": [
+        {
+          "class_id": "lemuria",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 172,
+      "img": "silver_heart_orb.png",
+      "slug": "excellent-silver-heart-orb",
+      "internal_id": "excellent_silver_heart_orb",
+      "name": "Excellent Silver Heart Orb",
+      "category": "orb",
+      "subcategory": "ruud_orb",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 168,
+        "agi": 84,
+        "ene": 470,
+        "cmd": null,
+        "char_level": 1100
+      },
+      "base_stats": {
+        "min_atk_dmg": 202,
+        "max_atk_dmg": 216,
+        "atk_speed": 30,
+        "wiz_dmg_percent": 151
+      },
+      "classes": [
+        {
+          "class_id": "lemuria",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 173,
+      "img": "manticore_orb.png",
+      "slug": "excellent-manticore-orb",
+      "internal_id": "excellent_manticore_orb",
+      "name": "Excellent Manticore Orb",
+      "category": "orb",
+      "subcategory": "ruud_orb",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 171,
+        "agi": 87,
+        "ene": 474,
+        "cmd": null,
+        "char_level": 1200
+      },
+      "base_stats": {
+        "min_atk_dmg": 225,
+        "max_atk_dmg": 239,
+        "atk_speed": 30,
+        "wiz_dmg_percent": 164
+      },
+      "classes": [
+        {
+          "class_id": "lemuria",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 174,
+      "img": "brilliant_orb.png",
+      "slug": "excellent-brilliant-orb",
+      "internal_id": "excellent_brilliant_orb",
+      "name": "Excellent Brilliant Orb",
+      "category": "orb",
+      "subcategory": "ruud_orb",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 171,
+        "agi": 87,
+        "ene": 474,
+        "cmd": null,
+        "char_level": 1300
+      },
+      "base_stats": {
+        "min_atk_dmg": 247,
+        "max_atk_dmg": 261,
+        "atk_speed": 30,
+        "wiz_dmg_percent": 174
+      },
+      "classes": [
+        {
+          "class_id": "lemuria",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 175,
+      "img": "apocalypse_orb.png",
+      "slug": "excellent-apocalypse-orb",
+      "internal_id": "excellent_apocalypse_orb",
+      "name": "Excellent Apocalypse Orb",
+      "category": "orb",
+      "subcategory": "ruud_orb",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 171,
+        "agi": 87,
+        "ene": 474,
+        "cmd": null,
+        "char_level": 1400
+      },
+      "base_stats": {
+        "min_atk_dmg": 270,
+        "max_atk_dmg": 284,
+        "atk_speed": 30,
+        "wiz_dmg_percent": 186
+      },
+      "classes": [
+        {
+          "class_id": "lemuria",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 176,
+      "img": "lightning_orb.png",
+      "slug": "excellent-lightning-orb",
+      "internal_id": "excellent_lightning_orb",
+      "name": "Excellent Lightning Orb",
+      "category": "orb",
+      "subcategory": "ruud_orb",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 171,
+        "agi": 87,
+        "ene": 474,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 292,
+        "max_atk_dmg": 306,
+        "atk_speed": 30,
+        "wiz_dmg_percent": 199
+      },
+      "classes": [
+        {
+          "class_id": "lemuria",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 177,
+      "img": "temple_guard_orb.png",
+      "slug": "excellent-temple-guard-orb",
+      "internal_id": "excellent_temple_guard_orb",
+      "name": "Excellent Temple Guard Orb",
+      "category": "orb",
+      "subcategory": "ruud_orb",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 171,
+        "agi": 87,
+        "ene": 474,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 329,
+        "max_atk_dmg": 343,
+        "atk_speed": 30,
+        "wiz_dmg_percent": 262
+      },
+      "classes": [
+        {
+          "class_id": "lemuria",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "ruud_rune_maces": [
+    {
+      "id": 178,
+      "img": "bloodangel_rune_mace.png",
+      "slug": "excellent-bloodangel-rune-mace",
+      "internal_id": "excellent_bloodangel_rune_mace",
+      "name": "Excellent Bloodangel Rune Mace",
+      "category": "rune_mace",
+      "subcategory": "ruud_rune_mace",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 240,
+        "agi": 93,
+        "ene": 923,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "min_atk_dmg": 115,
+        "max_atk_dmg": 121,
+        "atk_speed": 50,
+        "wiz_dmg_percent": 68
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 179,
+      "img": "darkangel_rune_mace.png",
+      "slug": "excellent-darkangel-rune-mace",
+      "internal_id": "excellent_darkangel_rune_mace",
+      "name": "Excellent Darkangel Rune Mace",
+      "category": "rune_mace",
+      "subcategory": "ruud_rune_mace",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 253,
+        "agi": 97,
+        "ene": 974,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "min_atk_dmg": 149,
+        "max_atk_dmg": 155,
+        "atk_speed": 50,
+        "wiz_dmg_percent": 81
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 180,
+      "img": "holyangel_rune_mace.png",
+      "slug": "excellent-holyangel-rune-mace",
+      "internal_id": "excellent_holyangel_rune_mace",
+      "name": "Excellent Holyangel Rune Mace",
+      "category": "rune_mace",
+      "subcategory": "ruud_rune_mace",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 278,
+        "agi": 106,
+        "ene": 1077,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "min_atk_dmg": 158,
+        "max_atk_dmg": 164,
+        "atk_speed": 50,
+        "wiz_dmg_percent": 89
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 181,
+      "img": "soul_rune_mace.png",
+      "slug": "excellent-soul-rune-mace",
+      "internal_id": "excellent_soul_rune_mace",
+      "name": "Excellent Soul Rune Mace",
+      "category": "rune_mace",
+      "subcategory": "ruud_rune_mace",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 283,
+        "agi": 107,
+        "ene": 1100,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "min_atk_dmg": 168,
+        "max_atk_dmg": 174,
+        "atk_speed": 50,
+        "wiz_dmg_percent": 100
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 182,
+      "img": "blue_eye_rune_mace.png",
+      "slug": "excellent-blue-eye-rune-mace",
+      "internal_id": "excellent_blue_eye_rune_mace",
+      "name": "Excellent Blue Eye Rune Mace",
+      "category": "rune_mace",
+      "subcategory": "ruud_rune_mace",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 288,
+        "agi": 108,
+        "ene": 1102,
+        "cmd": null,
+        "char_level": 1000
+      },
+      "base_stats": {
+        "min_atk_dmg": 178,
+        "max_atk_dmg": 183,
+        "atk_speed": 50,
+        "wiz_dmg_percent": 111
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 183,
+      "img": "silver_heart_rune_mace.png",
+      "slug": "excellent-silver-heart-rune-mace",
+      "internal_id": "excellent_silver_heart_rune_mace",
+      "name": "Excellent Silver Heart Rune Mace",
+      "category": "rune_mace",
+      "subcategory": "ruud_rune_mace",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 294,
+        "agi": 113,
+        "ene": 1108,
+        "cmd": null,
+        "char_level": 1100
+      },
+      "base_stats": {
+        "min_atk_dmg": 193,
+        "max_atk_dmg": 200,
+        "atk_speed": 50,
+        "wiz_dmg_percent": 123
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 184,
+      "img": "manticore_rune_mace.png",
+      "slug": "excellent-manticore-rune-mace",
+      "internal_id": "excellent_manticore_rune_mace",
+      "name": "Excellent Manticore Rune Mace",
+      "category": "rune_mace",
+      "subcategory": "ruud_rune_mace",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 294,
+        "agi": 113,
+        "ene": 1108,
+        "cmd": null,
+        "char_level": 1200
+      },
+      "base_stats": {
+        "min_atk_dmg": 208,
+        "max_atk_dmg": 217,
+        "atk_speed": 50,
+        "wiz_dmg_percent": 135
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 185,
+      "img": "brilliant_rune_mace.png",
+      "slug": "excellent-brilliant-rune-mace",
+      "internal_id": "excellent_brilliant_rune_mace",
+      "name": "Excellent Brilliant Rune Mace",
+      "category": "rune_mace",
+      "subcategory": "ruud_rune_mace",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 294,
+        "agi": 113,
+        "ene": 1108,
+        "cmd": null,
+        "char_level": 1300
+      },
+      "base_stats": {
+        "min_atk_dmg": 223,
+        "max_atk_dmg": 234,
+        "atk_speed": 50,
+        "wiz_dmg_percent": 146
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 186,
+      "img": "apocalypse_rune_mace.png",
+      "slug": "excellent-apocalypse-rune-mace",
+      "internal_id": "excellent_apocalypse_rune_mace",
+      "name": "Excellent Apocalypse Rune Mace",
+      "category": "rune_mace",
+      "subcategory": "ruud_rune_mace",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 294,
+        "agi": 113,
+        "ene": 1108,
+        "cmd": null,
+        "char_level": 1400
+      },
+      "base_stats": {
+        "min_atk_dmg": 239,
+        "max_atk_dmg": 252,
+        "atk_speed": 50,
+        "wiz_dmg_percent": 158
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 187,
+      "img": "lightning_rune_mace.png",
+      "slug": "excellent-lightning-rune-mace",
+      "internal_id": "excellent_lightning_rune_mace",
+      "name": "Excellent Lightning Rune Mace",
+      "category": "rune_mace",
+      "subcategory": "ruud_rune_mace",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 294,
+        "agi": 113,
+        "ene": 1108,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 254,
+        "max_atk_dmg": 269,
+        "atk_speed": 50,
+        "wiz_dmg_percent": 171
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 188,
+      "img": "temple_guard_rune_mace.png",
+      "slug": "excellent-temple-guard-rune-mace",
+      "internal_id": "excellent_temple_guard_rune_mace",
+      "name": "Excellent Temple Guard Rune Mace",
+      "category": "rune_mace",
+      "subcategory": "ruud_rune_mace",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 294,
+        "agi": 113,
+        "ene": 1108,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 283,
+        "max_atk_dmg": 300,
+        "atk_speed": 50,
+        "wiz_dmg_percent": 234
+      },
+      "classes": [
+        {
+          "class_id": "rune_wizard",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "wiz_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ],
+  "ruud_short_swords": [
+    {
+      "id": 189,
+      "img": "bloodangel_short_sword.png",
+      "slug": "excellent-bloodangel-short-sword",
+      "internal_id": "excellent_bloodangel_short_sword",
+      "name": "Excellent Bloodangel Short Sword",
+      "category": "short_sword",
+      "subcategory": "ruud_short_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 298,
+        "agi": 938,
+        "ene": null,
+        "cmd": null,
+        "char_level": 400
+      },
+      "base_stats": {
+        "min_atk_dmg": 296,
+        "max_atk_dmg": 306,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 190,
+      "img": "darkangel_short_sword.png",
+      "slug": "excellent-darkangel-short-sword",
+      "internal_id": "excellent_darkangel_short_sword",
+      "name": "Excellent Darkangel Short Sword",
+      "category": "short_sword",
+      "subcategory": "ruud_short_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 314,
+        "agi": 991,
+        "ene": null,
+        "cmd": null,
+        "char_level": 600
+      },
+      "base_stats": {
+        "min_atk_dmg": 351,
+        "max_atk_dmg": 361,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 191,
+      "img": "holyangel_short_sword.png",
+      "slug": "excellent-holyangel-short-sword",
+      "internal_id": "excellent_holyangel_short_sword",
+      "name": "Excellent Holyangel Short Sword",
+      "category": "short_sword",
+      "subcategory": "ruud_short_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 321,
+        "agi": 1016,
+        "ene": null,
+        "cmd": null,
+        "char_level": 800
+      },
+      "base_stats": {
+        "min_atk_dmg": 415,
+        "max_atk_dmg": 425,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 3
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 192,
+      "img": "soul_short_sword.png",
+      "slug": "excellent-soul-short-sword",
+      "internal_id": "excellent_soul_short_sword",
+      "name": "Excellent Soul Short Sword",
+      "category": "short_sword",
+      "subcategory": "ruud_short_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 330,
+        "agi": 1039,
+        "ene": null,
+        "cmd": null,
+        "char_level": 900
+      },
+      "base_stats": {
+        "min_atk_dmg": 477,
+        "max_atk_dmg": 497,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 193,
+      "img": "blue_eye_short_sword.png",
+      "slug": "excellent-blue-eye-short-sword",
+      "internal_id": "excellent_blue_eye_short_sword",
+      "name": "Excellent Blue Eye Short Sword",
+      "category": "short_sword",
+      "subcategory": "ruud_short_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 336,
+        "agi": 1067,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1000
+      },
+      "base_stats": {
+        "min_atk_dmg": 539,
+        "max_atk_dmg": 570,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 194,
+      "img": "silver_heart_short_sword.png",
+      "slug": "excellent-silver-heart-short-sword",
+      "internal_id": "excellent_silver_heart_short_sword",
+      "name": "Excellent Silver Heart Short Sword",
+      "category": "short_sword",
+      "subcategory": "ruud_short_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 341,
+        "agi": 1081,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1100
+      },
+      "base_stats": {
+        "min_atk_dmg": 601,
+        "max_atk_dmg": 644,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 195,
+      "img": "manticore_short_sword.png",
+      "slug": "excellent-manticore-short-sword",
+      "internal_id": "excellent_manticore_short_sword",
+      "name": "Excellent Manticore Short Sword",
+      "category": "short_sword",
+      "subcategory": "ruud_short_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 341,
+        "agi": 1081,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1200
+      },
+      "base_stats": {
+        "min_atk_dmg": 662,
+        "max_atk_dmg": 717,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 196,
+      "img": "brilliant_short_sword.png",
+      "slug": "excellent-brilliant-short-sword",
+      "internal_id": "excellent_brilliant_short_sword",
+      "name": "Excellent Brilliant Short Sword",
+      "category": "short_sword",
+      "subcategory": "ruud_short_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 341,
+        "agi": 1081,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1300
+      },
+      "base_stats": {
+        "min_atk_dmg": 723,
+        "max_atk_dmg": 790,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 197,
+      "img": "apocalypse_short_sword.png",
+      "slug": "excellent-apocalypse-short-sword",
+      "internal_id": "excellent_apocalypse_short_sword",
+      "name": "Excellent Apocalypse Short Sword",
+      "category": "short_sword",
+      "subcategory": "ruud_short_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 341,
+        "agi": 1081,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1400
+      },
+      "base_stats": {
+        "min_atk_dmg": 785,
+        "max_atk_dmg": 864,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 198,
+      "img": "lightning_short_sword.png",
+      "slug": "excellent-lightning-short-sword",
+      "internal_id": "excellent_lightning_short_sword",
+      "name": "Excellent Lightning Short Sword",
+      "category": "short_sword",
+      "subcategory": "ruud_short_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 341,
+        "agi": 1081,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 847,
+        "max_atk_dmg": 938,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 4
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    },
+    {
+      "id": 199,
+      "img": "temple_guard_short_sword.png",
+      "slug": "excellent-temple-guard-short-sword",
+      "internal_id": "excellent_temple_guard_short_sword",
+      "name": "Excellent Temple Guard Short Sword",
+      "category": "short_sword",
+      "subcategory": "ruud_short_sword",
+      "equip_location": "primary_hand",
+      "requirements": {
+        "str": 341,
+        "agi": 1081,
+        "ene": null,
+        "cmd": null,
+        "char_level": 1500
+      },
+      "base_stats": {
+        "min_atk_dmg": 913,
+        "max_atk_dmg": 1004,
+        "atk_speed": 45
+      },
+      "classes": [
+        {
+          "class_id": "slayer",
+          "min_evo": 5
+        }
+      ],
+      "rarity": "excellent",
+      "allowed_options": {
+        "excellent": "atk_weapons",
+        "luck": true,
+        "joh": true,
+        "jol": true,
+        "socket": false,
+        "ancient": false
+      }
+    }
+  ]
+}

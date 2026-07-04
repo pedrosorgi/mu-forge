@@ -38,6 +38,7 @@ htmlcov/
 .tox/
 .nox/
 tests/__pycache__/
+docs/
 
 # =========================
 # Logs
@@ -84,12 +85,7 @@ build/
 public/
 
 # =========================
-# Scripts (optional)
+# Local backups / temp outputs
 # =========================
-scripts/
-
-# =========================
-# MU Forge proprietary data
-# =========================
-src/data/
-src/data/**
+*.json.bak
+socket_shields.json

@@ -1,0 +1,105 @@
+{
+  "DarkKnight": {
+    "weapon_dmg": {
+      "two_weapons_percent": 0.1,
+      "identical_weapons_percent": 0.3
+    },
+
+    "agi_def_increase": {
+      "range_0_1500": 0.1,
+      "range_1501_2000": 0.3,
+      "range_2001_plus": 0.45
+    },
+
+    "str_atk_power_increase": {
+      "range_0_1500": 0.1,
+      "range_1501_2000": 0.3,
+      "range_2001_plus": 0.45
+    },
+
+    "sd_bonus": {
+      "base": 100,
+      "per_level": 1.2,
+      "per_stat_point": 1.2,
+      "per_def": 0.5
+    }
+  },
+
+  "DarkWizard": {
+    "agi_atk_rate_increase": {
+      "range_0_1500": 0.1,
+      "range_1501_2000": 0.3,
+      "range_2001_plus": 0.45
+    },
+
+    "ene_wiz_power_increase": {
+      "range_0_1500": 0.1,
+      "range_1501_2000": 0.3,
+      "range_2001_plus": 0.45
+    },
+
+    "sd_bonus": {
+      "base": 99,
+      "per_level": 1.2,
+      "per_stat_point": 1.2,
+      "per_def": 0.5
+    }
+  },
+
+  "MagicGladiator": {
+    "str_atk_dmg_increase": {
+      "range_0_1500": 0.1,
+      "range_1501_2000": 0.3,
+      "range_2001_plus": 0.45
+    },
+
+    "ene_wiz_power_increase": {
+      "range_0_1800": 0.1,
+      "range_1801_2500": 0.3,
+      "range_2501_plus": 0.45
+    },
+
+    "sd_bonus": {
+      "base": 127,
+      "per_level": 1.2,
+      "per_stat_point": 1.2,
+      "per_def": 0.5
+    }
+  },
+
+  "DarkLord": {
+    "str_atk_dmg_increase": {
+      "range_0_1500": 0.1,
+      "range_1501_2000": 0.3,
+      "range_2001_plus": 0.45
+    },
+
+    "agi_def_increase": {
+      "range_0_1500": 0.1,
+      "range_1501_2000": 0.3,
+      "range_2001_plus": 0.45
+    },
+
+    "sd_bonus": {
+      "base": 128,
+      "per_level": 1.2,
+      "per_def": 0.5,
+      "per_stamina": 1.2
+    }
+  },
+
+  "FairyElf": {
+    "agi_def_defRate_increase": {
+      "range_0_1500": 0.1,
+      "range_1501_2000": 0.3,
+      "range_2001_plus": 0.45
+    },
+
+    "sd_bonus": {
+      "base": 99,
+      "per_level": 1.2,
+      "per_stat_point": 1.2,
+      "per_def": 0.5
+    }
+  }
+}
